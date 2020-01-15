@@ -1,0 +1,124 @@
+// this file was generated from Delay Loop.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=471 end=522368 loop_mode=loop_sustain loop_start=116272 loop_end=381223 sample=../Audio/Delay Loop/002 Delay Loop-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=492 end=525056 loop_mode=loop_sustain loop_start=134444 loop_end=254423 sample=../Audio/Delay Loop/002 Delay Loop-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=670 loop_mode=loop_sustain loop_start=38654 loop_end=201122 sample=../Audio/Delay Loop/002 Delay Loop-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=839 end=531024 loop_mode=loop_sustain loop_start=207682 loop_end=351617 sample=../Audio/Delay Loop/002 Delay Loop-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=548 end=520704 loop_mode=loop_sustain loop_start=2758 loop_end=117101 sample=../Audio/Delay Loop/002 Delay Loop-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=826 end=521088 loop_mode=loop_sustain loop_start=87220 loop_end=171219 sample=../Audio/Delay Loop/002 Delay Loop-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=765 end=527014 loop_mode=loop_sustain loop_start=81008 loop_end=212973 sample=../Audio/Delay Loop/002 Delay Loop-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=826 end=521554 loop_mode=loop_sustain loop_start=255457 loop_end=353020 sample=../Audio/Delay Loop/002 Delay Loop-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=639 end=520020 loop_mode=loop_sustain loop_start=141882 loop_end=309888 sample=../Audio/Delay Loop/002 Delay Loop-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=629 end=522112 loop_mode=loop_sustain loop_start=86560 loop_end=170616 sample=../Audio/Delay Loop/002 Delay Loop-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=606 end=529783 loop_mode=loop_sustain loop_start=38578 loop_end=133775 sample=../Audio/Delay Loop/002 Delay Loop-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=838 end=522368 loop_mode=loop_sustain loop_start=219248 loop_end=302695 sample=../Audio/Delay Loop/002 Delay Loop-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=638 end=522166 loop_mode=loop_sustain loop_start=98880 loop_end=207129 sample=../Audio/Delay Loop/002 Delay Loop-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=633 end=528461 loop_mode=loop_sustain loop_start=272806 loop_end=369242 sample=../Audio/Delay Loop/002 Delay Loop-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=945 end=525795 loop_mode=loop_sustain loop_start=117603 loop_end=207794 sample=../Audio/Delay Loop/002 Delay Loop-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=909 end=521856 loop_mode=loop_sustain loop_start=171689 loop_end=309495 sample=../Audio/Delay Loop/002 Delay Loop-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=505 end=522557 loop_mode=loop_sustain loop_start=128758 loop_end=225911 sample=../Audio/Delay Loop/002 Delay Loop-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=757 end=522240 loop_mode=loop_sustain loop_start=237047 loop_end=335579 sample=../Audio/Delay Loop/002 Delay Loop-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=587 end=520475 loop_mode=loop_sustain loop_start=264554 loop_end=358988 sample=../Audio/Delay Loop/002 Delay Loop-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=838 end=521856 loop_mode=loop_sustain loop_start=50975 loop_end=392936 sample=../Audio/Delay Loop/002 Delay Loop-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=606 loop_mode=loop_sustain loop_start=230574 loop_end=381047 sample=../Audio/Delay Loop/002 Delay Loop-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=503 loop_mode=loop_sustain loop_start=128883 loop_end=375277 sample=../Audio/Delay Loop/002 Delay Loop-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=551 end=523264 loop_mode=loop_sustain loop_start=213007 loop_end=350986 sample=../Audio/Delay Loop/002 Delay Loop-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=577 end=520704 loop_mode=loop_sustain loop_start=98615 loop_end=375884 sample=../Audio/Delay Loop/002 Delay Loop-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=765 end=521887 loop_mode=loop_sustain loop_start=69033 loop_end=201009 sample=../Audio/Delay Loop/002 Delay Loop-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=565 end=520192 loop_mode=loop_sustain loop_start=261670 loop_end=357631 sample=../Audio/Delay Loop/002 Delay Loop-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=717 end=522260 loop_mode=loop_sustain loop_start=63109 loop_end=146337 sample=../Audio/Delay Loop/002 Delay Loop-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=726 loop_mode=loop_sustain loop_start=134972 loop_end=326629 sample=../Audio/Delay Loop/002 Delay Loop-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=477 end=520716 loop_mode=loop_sustain loop_start=247280 loop_end=367575 sample=../Audio/Delay Loop/002 Delay Loop-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=626 end=521344 loop_mode=loop_sustain loop_start=60561 loop_end=206613 sample=../Audio/Delay Loop/002 Delay Loop-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=704 loop_mode=loop_sustain loop_start=122537 loop_end=206306 sample=../Audio/Delay Loop/002 Delay Loop-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=816 end=520448 loop_mode=loop_sustain loop_start=274147 loop_end=363304 sample=../Audio/Delay Loop/002 Delay Loop-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=753 end=521216 loop_mode=loop_sustain loop_start=32809 loop_end=249057 sample=../Audio/Delay Loop/002 Delay Loop-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=823 end=524800 loop_mode=loop_sustain loop_start=69976 loop_end=166334 sample=../Audio/Delay Loop/002 Delay Loop-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=775 loop_mode=loop_sustain loop_start=153136 loop_end=267018 sample=../Audio/Delay Loop/002 Delay Loop-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=615 end=519808 loop_mode=loop_sustain loop_start=39414 loop_end=326736 sample=../Audio/Delay Loop/002 Delay Loop-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=999 end=519680 loop_mode=loop_sustain loop_start=93135 loop_end=176945 sample=../Audio/Delay Loop/002 Delay Loop-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=688 end=522240 loop_mode=loop_sustain loop_start=117369 loop_end=249515 sample=../Audio/Delay Loop/002 Delay Loop-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=547 loop_mode=loop_sustain loop_start=206834 loop_end=295548 sample=../Audio/Delay Loop/002 Delay Loop-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=952 end=522765 loop_mode=loop_sustain loop_start=160892 loop_end=286646 sample=../Audio/Delay Loop/002 Delay Loop-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=777 end=522496 loop_mode=loop_sustain loop_start=138587 loop_end=381753 sample=../Audio/Delay Loop/002 Delay Loop-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=887 end=528384 loop_mode=loop_sustain loop_start=74547 loop_end=351090 sample=../Audio/Delay Loop/002 Delay Loop-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=768 loop_mode=loop_sustain loop_start=16799 loop_end=161274 sample=../Audio/Delay Loop/002 Delay Loop-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=579 loop_mode=loop_sustain loop_start=63272 loop_end=155996 sample=../Audio/Delay Loop/002 Delay Loop-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=596 end=524166 loop_mode=loop_sustain loop_start=129615 loop_end=224656 sample=../Audio/Delay Loop/002 Delay Loop-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1012 end=520586 loop_mode=loop_sustain loop_start=39029 loop_end=374965 sample=../Audio/Delay Loop/002 Delay Loop-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=630 loop_mode=loop_sustain loop_start=117361 loop_end=212605 sample=../Audio/Delay Loop/002 Delay Loop-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=746 loop_mode=loop_sustain loop_start=165605 loop_end=392924 sample=../Audio/Delay Loop/002 Delay Loop-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=728 loop_mode=loop_sustain loop_start=196286 loop_end=292161 sample=../Audio/Delay Loop/002 Delay Loop-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=667 loop_mode=loop_sustain loop_start=182459 loop_end=326804 sample=../Audio/Delay Loop/002 Delay Loop-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=708 loop_mode=loop_sustain loop_start=285084 loop_end=381246 sample=../Audio/Delay Loop/002 Delay Loop-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=631 end=518914 loop_mode=loop_sustain loop_start=74337 loop_end=219383 sample=../Audio/Delay Loop/002 Delay Loop-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=455 loop_mode=loop_sustain loop_start=34242 loop_end=230866 sample=../Audio/Delay Loop/002 Delay Loop-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=786 loop_mode=loop_sustain loop_start=146405 loop_end=243982 sample=../Audio/Delay Loop/002 Delay Loop-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=884 end=524032 loop_mode=loop_sustain loop_start=158529 loop_end=297144 sample=../Audio/Delay Loop/002 Delay Loop-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=686 end=521856 loop_mode=loop_sustain loop_start=134304 loop_end=356039 sample=../Audio/Delay Loop/002 Delay Loop-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=725 loop_mode=loop_sustain loop_start=33488 loop_end=290967 sample=../Audio/Delay Loop/002 Delay Loop-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=608 end=521728 loop_mode=loop_sustain loop_start=297202 loop_end=385549 sample=../Audio/Delay Loop/002 Delay Loop-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=565 loop_mode=loop_sustain loop_start=273030 loop_end=393358 sample=../Audio/Delay Loop/002 Delay Loop-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=810 loop_mode=loop_sustain loop_start=243438 loop_end=387875 sample=../Audio/Delay Loop/002 Delay Loop-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=869 loop_mode=loop_sustain loop_start=102317 loop_end=368461 sample=../Audio/Delay Loop/002 Delay Loop-96-127.aif

@@ -1,0 +1,124 @@
+// this file was generated from Unsetled .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=767 end=480202 sample=../Audio/Unsetled/007 Unsetled -36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1023 end=481024 sample=../Audio/Unsetled/007 Unsetled -37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=893 sample=../Audio/Unsetled/007 Unsetled -38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=610 sample=../Audio/Unsetled/007 Unsetled -39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=895 sample=../Audio/Unsetled/007 Unsetled -40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=618 sample=../Audio/Unsetled/007 Unsetled -41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=511 end=479928 sample=../Audio/Unsetled/007 Unsetled -42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=630 sample=../Audio/Unsetled/007 Unsetled -43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=767 sample=../Audio/Unsetled/007 Unsetled -44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=498 end=481263 sample=../Audio/Unsetled/007 Unsetled -45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=895 end=481024 sample=../Audio/Unsetled/007 Unsetled -46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=639 sample=../Audio/Unsetled/007 Unsetled -47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=890 end=481051 sample=../Audio/Unsetled/007 Unsetled -48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=511 sample=../Audio/Unsetled/007 Unsetled -49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=878 sample=../Audio/Unsetled/007 Unsetled -50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=639 end=481249 sample=../Audio/Unsetled/007 Unsetled -51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=954 end=481664 sample=../Audio/Unsetled/007 Unsetled -52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1015 sample=../Audio/Unsetled/007 Unsetled -53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=638 end=479669 sample=../Audio/Unsetled/007 Unsetled -54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=639 sample=../Audio/Unsetled/007 Unsetled -55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=602 sample=../Audio/Unsetled/007 Unsetled -56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=862 end=481623 sample=../Audio/Unsetled/007 Unsetled -57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=494 end=480000 sample=../Audio/Unsetled/007 Unsetled -58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=891 sample=../Audio/Unsetled/007 Unsetled -59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=892 end=481087 sample=../Audio/Unsetled/007 Unsetled -60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=630 sample=../Audio/Unsetled/007 Unsetled -61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=884 sample=../Audio/Unsetled/007 Unsetled -62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=639 end=480641 sample=../Audio/Unsetled/007 Unsetled -63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=876 sample=../Audio/Unsetled/007 Unsetled -64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=760 end=480084 sample=../Audio/Unsetled/007 Unsetled -65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1022 sample=../Audio/Unsetled/007 Unsetled -66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=894 end=480688 sample=../Audio/Unsetled/007 Unsetled -67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=878 sample=../Audio/Unsetled/007 Unsetled -68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=894 sample=../Audio/Unsetled/007 Unsetled -69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1014 sample=../Audio/Unsetled/007 Unsetled -70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=762 sample=../Audio/Unsetled/007 Unsetled -71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=867 end=481061 sample=../Audio/Unsetled/007 Unsetled -72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1023 end=481024 sample=../Audio/Unsetled/007 Unsetled -73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=766 sample=../Audio/Unsetled/007 Unsetled -74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=890 end=480539 sample=../Audio/Unsetled/007 Unsetled -75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=629 sample=../Audio/Unsetled/007 Unsetled -76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1021 sample=../Audio/Unsetled/007 Unsetled -77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=881 sample=../Audio/Unsetled/007 Unsetled -78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1004 sample=../Audio/Unsetled/007 Unsetled -79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=636 sample=../Audio/Unsetled/007 Unsetled -80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=635 end=480541 sample=../Audio/Unsetled/007 Unsetled -81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=891 end=480018 sample=../Audio/Unsetled/007 Unsetled -82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=637 sample=../Audio/Unsetled/007 Unsetled -83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=895 sample=../Audio/Unsetled/007 Unsetled -84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=766 sample=../Audio/Unsetled/007 Unsetled -85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=511 end=479492 sample=../Audio/Unsetled/007 Unsetled -86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=760 end=480518 sample=../Audio/Unsetled/007 Unsetled -87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1021 sample=../Audio/Unsetled/007 Unsetled -88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=875 end=481552 sample=../Audio/Unsetled/007 Unsetled -89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=889 sample=../Audio/Unsetled/007 Unsetled -90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=633 sample=../Audio/Unsetled/007 Unsetled -91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=885 sample=../Audio/Unsetled/007 Unsetled -92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=874 sample=../Audio/Unsetled/007 Unsetled -93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=639 end=480528 sample=../Audio/Unsetled/007 Unsetled -94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=882 sample=../Audio/Unsetled/007 Unsetled -95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=756 sample=../Audio/Unsetled/007 Unsetled -96-127.aif

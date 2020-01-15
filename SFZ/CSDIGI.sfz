@@ -1,0 +1,246 @@
+// this file was generated from CSDIGI.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=726 end=673093 sample=../Audio/CSDIGI/009 CSDIGI-36-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=628 sample=../Audio/CSDIGI/009 CSDIGI-36-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=681 sample=../Audio/CSDIGI/009 CSDIGI-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=785 end=673549 sample=../Audio/CSDIGI/009 CSDIGI-37-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=657 end=673539 sample=../Audio/CSDIGI/009 CSDIGI-37-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=705 end=673169 sample=../Audio/CSDIGI/009 CSDIGI-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=870 end=673769 sample=../Audio/CSDIGI/009 CSDIGI-38-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=614 sample=../Audio/CSDIGI/009 CSDIGI-38-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=643 end=674212 sample=../Audio/CSDIGI/009 CSDIGI-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=480 end=674634 sample=../Audio/CSDIGI/009 CSDIGI-39-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=725 end=673205 sample=../Audio/CSDIGI/009 CSDIGI-39-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=609 sample=../Audio/CSDIGI/009 CSDIGI-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=687 sample=../Audio/CSDIGI/009 CSDIGI-40-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=600 sample=../Audio/CSDIGI/009 CSDIGI-40-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=802 sample=../Audio/CSDIGI/009 CSDIGI-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=785 sample=../Audio/CSDIGI/009 CSDIGI-41-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=543 sample=../Audio/CSDIGI/009 CSDIGI-41-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=896 end=675154 sample=../Audio/CSDIGI/009 CSDIGI-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=949 sample=../Audio/CSDIGI/009 CSDIGI-42-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=642 sample=../Audio/CSDIGI/009 CSDIGI-42-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=643 sample=../Audio/CSDIGI/009 CSDIGI-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=792 sample=../Audio/CSDIGI/009 CSDIGI-43-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=889 sample=../Audio/CSDIGI/009 CSDIGI-43-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=613 end=673787 sample=../Audio/CSDIGI/009 CSDIGI-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=631 sample=../Audio/CSDIGI/009 CSDIGI-44-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=855 sample=../Audio/CSDIGI/009 CSDIGI-44-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=837 sample=../Audio/CSDIGI/009 CSDIGI-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=964 end=674756 sample=../Audio/CSDIGI/009 CSDIGI-45-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=943 end=675256 sample=../Audio/CSDIGI/009 CSDIGI-45-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=634 sample=../Audio/CSDIGI/009 CSDIGI-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=621 end=674660 sample=../Audio/CSDIGI/009 CSDIGI-46-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=777 end=675169 sample=../Audio/CSDIGI/009 CSDIGI-46-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=678 sample=../Audio/CSDIGI/009 CSDIGI-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=920 sample=../Audio/CSDIGI/009 CSDIGI-47-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=878 sample=../Audio/CSDIGI/009 CSDIGI-47-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=459 end=673220 sample=../Audio/CSDIGI/009 CSDIGI-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=698 sample=../Audio/CSDIGI/009 CSDIGI-48-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=777 sample=../Audio/CSDIGI/009 CSDIGI-48-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=800 sample=../Audio/CSDIGI/009 CSDIGI-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=916 sample=../Audio/CSDIGI/009 CSDIGI-49-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=953 sample=../Audio/CSDIGI/009 CSDIGI-49-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=612 sample=../Audio/CSDIGI/009 CSDIGI-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=676 sample=../Audio/CSDIGI/009 CSDIGI-50-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=774 sample=../Audio/CSDIGI/009 CSDIGI-50-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=866 sample=../Audio/CSDIGI/009 CSDIGI-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=574 sample=../Audio/CSDIGI/009 CSDIGI-51-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=651 end=672622 sample=../Audio/CSDIGI/009 CSDIGI-51-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=506 sample=../Audio/CSDIGI/009 CSDIGI-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=541 sample=../Audio/CSDIGI/009 CSDIGI-52-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=637 sample=../Audio/CSDIGI/009 CSDIGI-52-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=488 end=674170 sample=../Audio/CSDIGI/009 CSDIGI-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=879 sample=../Audio/CSDIGI/009 CSDIGI-53-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=979 sample=../Audio/CSDIGI/009 CSDIGI-53-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=751 end=672602 sample=../Audio/CSDIGI/009 CSDIGI-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=739 sample=../Audio/CSDIGI/009 CSDIGI-54-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=895 end=675147 sample=../Audio/CSDIGI/009 CSDIGI-54-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=490 sample=../Audio/CSDIGI/009 CSDIGI-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=871 sample=../Audio/CSDIGI/009 CSDIGI-55-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=944 sample=../Audio/CSDIGI/009 CSDIGI-55-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=991 sample=../Audio/CSDIGI/009 CSDIGI-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=645 sample=../Audio/CSDIGI/009 CSDIGI-56-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=531 end=674144 sample=../Audio/CSDIGI/009 CSDIGI-56-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1020 sample=../Audio/CSDIGI/009 CSDIGI-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=915 end=675089 sample=../Audio/CSDIGI/009 CSDIGI-57-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=829 end=674114 sample=../Audio/CSDIGI/009 CSDIGI-57-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=779 sample=../Audio/CSDIGI/009 CSDIGI-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=823 sample=../Audio/CSDIGI/009 CSDIGI-58-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=902 sample=../Audio/CSDIGI/009 CSDIGI-58-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=699 sample=../Audio/CSDIGI/009 CSDIGI-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=876 end=673105 sample=../Audio/CSDIGI/009 CSDIGI-59-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=901 end=672254 sample=../Audio/CSDIGI/009 CSDIGI-59-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=509 end=673124 sample=../Audio/CSDIGI/009 CSDIGI-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=550 end=674179 sample=../Audio/CSDIGI/009 CSDIGI-60-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=859 sample=../Audio/CSDIGI/009 CSDIGI-60-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=712 sample=../Audio/CSDIGI/009 CSDIGI-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=742 sample=../Audio/CSDIGI/009 CSDIGI-61-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=586 sample=../Audio/CSDIGI/009 CSDIGI-61-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=818 sample=../Audio/CSDIGI/009 CSDIGI-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=816 end=675276 sample=../Audio/CSDIGI/009 CSDIGI-62-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=481 end=674160 sample=../Audio/CSDIGI/009 CSDIGI-62-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=596 sample=../Audio/CSDIGI/009 CSDIGI-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=723 end=673560 sample=../Audio/CSDIGI/009 CSDIGI-63-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=431 end=674789 sample=../Audio/CSDIGI/009 CSDIGI-63-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=491 end=673561 sample=../Audio/CSDIGI/009 CSDIGI-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=530 end=674756 sample=../Audio/CSDIGI/009 CSDIGI-64-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=594 sample=../Audio/CSDIGI/009 CSDIGI-64-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=874 sample=../Audio/CSDIGI/009 CSDIGI-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=878 end=674803 sample=../Audio/CSDIGI/009 CSDIGI-65-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=437 end=674245 sample=../Audio/CSDIGI/009 CSDIGI-65-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=905 end=675163 sample=../Audio/CSDIGI/009 CSDIGI-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=816 end=675101 sample=../Audio/CSDIGI/009 CSDIGI-66-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=872 end=674071 sample=../Audio/CSDIGI/009 CSDIGI-66-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=863 sample=../Audio/CSDIGI/009 CSDIGI-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=616 end=674744 sample=../Audio/CSDIGI/009 CSDIGI-67-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1023 end=673580 sample=../Audio/CSDIGI/009 CSDIGI-67-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=935 end=674713 sample=../Audio/CSDIGI/009 CSDIGI-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=875 sample=../Audio/CSDIGI/009 CSDIGI-68-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=862 end=675299 sample=../Audio/CSDIGI/009 CSDIGI-68-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1013 sample=../Audio/CSDIGI/009 CSDIGI-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=702 sample=../Audio/CSDIGI/009 CSDIGI-69-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=565 end=673542 sample=../Audio/CSDIGI/009 CSDIGI-69-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=808 end=673692 sample=../Audio/CSDIGI/009 CSDIGI-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=617 end=674203 sample=../Audio/CSDIGI/009 CSDIGI-70-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=845 sample=../Audio/CSDIGI/009 CSDIGI-70-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=831 sample=../Audio/CSDIGI/009 CSDIGI-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=735 end=674079 sample=../Audio/CSDIGI/009 CSDIGI-71-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=995 end=675234 sample=../Audio/CSDIGI/009 CSDIGI-71-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=722 sample=../Audio/CSDIGI/009 CSDIGI-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=579 end=674077 sample=../Audio/CSDIGI/009 CSDIGI-72-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=632 sample=../Audio/CSDIGI/009 CSDIGI-72-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=601 sample=../Audio/CSDIGI/009 CSDIGI-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=623 end=674814 sample=../Audio/CSDIGI/009 CSDIGI-73-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=627 sample=../Audio/CSDIGI/009 CSDIGI-73-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=741 end=674167 sample=../Audio/CSDIGI/009 CSDIGI-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=860 end=674240 sample=../Audio/CSDIGI/009 CSDIGI-74-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=574 sample=../Audio/CSDIGI/009 CSDIGI-74-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=966 end=673631 sample=../Audio/CSDIGI/009 CSDIGI-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=597 sample=../Audio/CSDIGI/009 CSDIGI-75-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=618 end=674609 sample=../Audio/CSDIGI/009 CSDIGI-75-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=722 sample=../Audio/CSDIGI/009 CSDIGI-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=583 end=674700 sample=../Audio/CSDIGI/009 CSDIGI-76-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=505 end=674646 sample=../Audio/CSDIGI/009 CSDIGI-76-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=726 sample=../Audio/CSDIGI/009 CSDIGI-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=581 end=674742 sample=../Audio/CSDIGI/009 CSDIGI-77-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=637 end=674771 sample=../Audio/CSDIGI/009 CSDIGI-77-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1003 end=673566 sample=../Audio/CSDIGI/009 CSDIGI-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=725 end=672145 sample=../Audio/CSDIGI/009 CSDIGI-78-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=859 sample=../Audio/CSDIGI/009 CSDIGI-78-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=765 end=674602 sample=../Audio/CSDIGI/009 CSDIGI-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=597 sample=../Audio/CSDIGI/009 CSDIGI-79-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=717 end=674274 sample=../Audio/CSDIGI/009 CSDIGI-79-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=733 end=674151 sample=../Audio/CSDIGI/009 CSDIGI-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=891 sample=../Audio/CSDIGI/009 CSDIGI-80-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=599 end=672541 sample=../Audio/CSDIGI/009 CSDIGI-80-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=883 sample=../Audio/CSDIGI/009 CSDIGI-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=735 sample=../Audio/CSDIGI/009 CSDIGI-81-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=852 end=674762 sample=../Audio/CSDIGI/009 CSDIGI-81-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=745 end=672748 sample=../Audio/CSDIGI/009 CSDIGI-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=617 sample=../Audio/CSDIGI/009 CSDIGI-82-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=756 end=673764 sample=../Audio/CSDIGI/009 CSDIGI-82-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=488 end=672012 sample=../Audio/CSDIGI/009 CSDIGI-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=759 end=674290 sample=../Audio/CSDIGI/009 CSDIGI-83-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=508 end=673225 sample=../Audio/CSDIGI/009 CSDIGI-83-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=485 sample=../Audio/CSDIGI/009 CSDIGI-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=982 end=672700 sample=../Audio/CSDIGI/009 CSDIGI-84-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=871 end=672624 sample=../Audio/CSDIGI/009 CSDIGI-84-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=879 end=674654 sample=../Audio/CSDIGI/009 CSDIGI-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=991 end=673162 sample=../Audio/CSDIGI/009 CSDIGI-85-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=598 end=673673 sample=../Audio/CSDIGI/009 CSDIGI-85-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=745 end=674273 sample=../Audio/CSDIGI/009 CSDIGI-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=502 end=674146 sample=../Audio/CSDIGI/009 CSDIGI-86-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=741 end=672207 sample=../Audio/CSDIGI/009 CSDIGI-86-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=882 end=674593 sample=../Audio/CSDIGI/009 CSDIGI-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=635 end=674248 sample=../Audio/CSDIGI/009 CSDIGI-87-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=999 end=673269 sample=../Audio/CSDIGI/009 CSDIGI-87-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=893 end=675103 sample=../Audio/CSDIGI/009 CSDIGI-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=496 sample=../Audio/CSDIGI/009 CSDIGI-88-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=757 sample=../Audio/CSDIGI/009 CSDIGI-88-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=860 sample=../Audio/CSDIGI/009 CSDIGI-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=608 end=673759 sample=../Audio/CSDIGI/009 CSDIGI-89-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=990 end=674695 sample=../Audio/CSDIGI/009 CSDIGI-89-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=746 sample=../Audio/CSDIGI/009 CSDIGI-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=765 end=674136 sample=../Audio/CSDIGI/009 CSDIGI-90-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=625 end=674262 sample=../Audio/CSDIGI/009 CSDIGI-90-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=757 sample=../Audio/CSDIGI/009 CSDIGI-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=744 sample=../Audio/CSDIGI/009 CSDIGI-91-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=751 sample=../Audio/CSDIGI/009 CSDIGI-91-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=745 end=674660 sample=../Audio/CSDIGI/009 CSDIGI-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=613 end=674171 sample=../Audio/CSDIGI/009 CSDIGI-92-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=766 end=672592 sample=../Audio/CSDIGI/009 CSDIGI-92-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=613 end=673769 sample=../Audio/CSDIGI/009 CSDIGI-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=505 end=674566 sample=../Audio/CSDIGI/009 CSDIGI-93-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=633 end=674654 sample=../Audio/CSDIGI/009 CSDIGI-93-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=974 sample=../Audio/CSDIGI/009 CSDIGI-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=744 end=673209 sample=../Audio/CSDIGI/009 CSDIGI-94-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=718 sample=../Audio/CSDIGI/009 CSDIGI-94-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=744 sample=../Audio/CSDIGI/009 CSDIGI-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=504 sample=../Audio/CSDIGI/009 CSDIGI-95-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=632 sample=../Audio/CSDIGI/009 CSDIGI-95-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=492 sample=../Audio/CSDIGI/009 CSDIGI-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=700 end=674264 sample=../Audio/CSDIGI/009 CSDIGI-96-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=894 sample=../Audio/CSDIGI/009 CSDIGI-96-85.aif
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=963 end=672557 sample=../Audio/CSDIGI/009 CSDIGI-96-127.aif

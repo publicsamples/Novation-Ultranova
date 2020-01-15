@@ -1,0 +1,307 @@
+// this file was generated from Mad Velocity.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=929 loop_mode=loop_sustain loop_start=157187 loop_end=394422 sample=../Audio/Mad Velocity/004 Mad Velocity-36-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=728 end=719132 loop_mode=loop_sustain loop_start=254145 loop_end=343294 sample=../Audio/Mad Velocity/004 Mad Velocity-36-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=795 end=715796 loop_mode=loop_sustain loop_start=114390 loop_end=353073 sample=../Audio/Mad Velocity/004 Mad Velocity-36-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=988 end=717952 loop_mode=loop_sustain loop_start=147012 loop_end=393803 sample=../Audio/Mad Velocity/004 Mad Velocity-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=846 end=723346 loop_mode=loop_sustain loop_start=197974 loop_end=283476 sample=../Audio/Mad Velocity/004 Mad Velocity-37-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=780 loop_mode=loop_sustain loop_start=123146 loop_end=307408 sample=../Audio/Mad Velocity/004 Mad Velocity-37-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=895 end=722688 loop_mode=loop_sustain loop_start=203109 loop_end=387374 sample=../Audio/Mad Velocity/004 Mad Velocity-37-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=575 loop_mode=loop_sustain loop_start=168772 loop_end=353034 sample=../Audio/Mad Velocity/004 Mad Velocity-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=958 loop_mode=loop_sustain loop_start=199363 loop_end=346368 sample=../Audio/Mad Velocity/004 Mad Velocity-38-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=923 end=722946 loop_mode=loop_sustain loop_start=247143 loop_end=395464 sample=../Audio/Mad Velocity/004 Mad Velocity-38-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=830 end=721092 loop_mode=loop_sustain loop_start=218707 loop_end=367029 sample=../Audio/Mad Velocity/004 Mad Velocity-38-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=973 loop_mode=loop_sustain loop_start=138839 loop_end=287164 sample=../Audio/Mad Velocity/004 Mad Velocity-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=695 end=727966 loop_mode=loop_sustain loop_start=155589 loop_end=394074 sample=../Audio/Mad Velocity/004 Mad Velocity-39-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=942 loop_mode=loop_sustain loop_start=157513 loop_end=395998 sample=../Audio/Mad Velocity/004 Mad Velocity-39-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=730 loop_mode=loop_sustain loop_start=129553 loop_end=368037 sample=../Audio/Mad Velocity/004 Mad Velocity-39-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=928 end=722961 loop_mode=loop_sustain loop_start=283998 loop_end=373200 sample=../Audio/Mad Velocity/004 Mad Velocity-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=720 loop_mode=loop_sustain loop_start=261450 loop_end=351490 sample=../Audio/Mad Velocity/004 Mad Velocity-40-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1114 loop_mode=loop_sustain loop_start=207840 loop_end=299042 sample=../Audio/Mad Velocity/004 Mad Velocity-40-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=606 loop_mode=loop_sustain loop_start=128770 loop_end=219975 sample=../Audio/Mad Velocity/004 Mad Velocity-40-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=850 loop_mode=loop_sustain loop_start=259424 loop_end=350629 sample=../Audio/Mad Velocity/004 Mad Velocity-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=970 loop_mode=loop_sustain loop_start=168412 loop_end=257827 sample=../Audio/Mad Velocity/004 Mad Velocity-41-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=815 loop_mode=loop_sustain loop_start=200905 loop_end=349910 sample=../Audio/Mad Velocity/004 Mad Velocity-41-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=543 end=722069 loop_mode=loop_sustain loop_start=144509 loop_end=380160 sample=../Audio/Mad Velocity/004 Mad Velocity-41-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=739 loop_mode=loop_sustain loop_start=157666 loop_end=393309 sample=../Audio/Mad Velocity/004 Mad Velocity-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=877 loop_mode=loop_sustain loop_start=149909 loop_end=389531 sample=../Audio/Mad Velocity/004 Mad Velocity-42-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=686 loop_mode=loop_sustain loop_start=149281 loop_end=386799 sample=../Audio/Mad Velocity/004 Mad Velocity-42-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=954 loop_mode=loop_sustain loop_start=131523 loop_end=369063 sample=../Audio/Mad Velocity/004 Mad Velocity-42-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1011 end=722590 loop_mode=loop_sustain loop_start=136715 loop_end=376333 sample=../Audio/Mad Velocity/004 Mad Velocity-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=923 loop_mode=loop_sustain loop_start=159019 loop_end=250459 sample=../Audio/Mad Velocity/004 Mad Velocity-43-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1080 end=723868 loop_mode=loop_sustain loop_start=199211 loop_end=290658 sample=../Audio/Mad Velocity/004 Mad Velocity-43-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=881 end=723584 loop_mode=loop_sustain loop_start=282157 loop_end=377046 sample=../Audio/Mad Velocity/004 Mad Velocity-43-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=927 end=722849 loop_mode=loop_sustain loop_start=176545 loop_end=325022 sample=../Audio/Mad Velocity/004 Mad Velocity-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=997 end=728448 loop_mode=loop_sustain loop_start=248101 loop_end=394732 sample=../Audio/Mad Velocity/004 Mad Velocity-44-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1092 loop_mode=loop_sustain loop_start=153662 loop_end=394038 sample=../Audio/Mad Velocity/004 Mad Velocity-44-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=784 loop_mode=loop_sustain loop_start=157876 loop_end=396395 sample=../Audio/Mad Velocity/004 Mad Velocity-44-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1137 end=722688 loop_mode=loop_sustain loop_start=137434 loop_end=375487 sample=../Audio/Mad Velocity/004 Mad Velocity-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=603 end=718475 loop_mode=loop_sustain loop_start=146144 loop_end=384441 sample=../Audio/Mad Velocity/004 Mad Velocity-45-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1014 end=723840 loop_mode=loop_sustain loop_start=157297 loop_end=394740 sample=../Audio/Mad Velocity/004 Mad Velocity-45-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=788 end=720128 loop_mode=loop_sustain loop_start=222920 loop_end=308335 sample=../Audio/Mad Velocity/004 Mad Velocity-45-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=635 end=719360 loop_mode=loop_sustain loop_start=145621 loop_end=383025 sample=../Audio/Mad Velocity/004 Mad Velocity-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=712 end=718643 loop_mode=loop_sustain loop_start=185255 loop_end=332851 sample=../Audio/Mad Velocity/004 Mad Velocity-46-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=632 end=720557 loop_mode=loop_sustain loop_start=133803 loop_end=373180 sample=../Audio/Mad Velocity/004 Mad Velocity-46-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=569 end=720922 loop_mode=loop_sustain loop_start=147759 loop_end=384244 sample=../Audio/Mad Velocity/004 Mad Velocity-46-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=697 end=720542 loop_mode=loop_sustain loop_start=155322 loop_end=393874 sample=../Audio/Mad Velocity/004 Mad Velocity-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=989 loop_mode=loop_sustain loop_start=135559 loop_end=226100 sample=../Audio/Mad Velocity/004 Mad Velocity-47-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=804 end=723840 loop_mode=loop_sustain loop_start=156456 loop_end=395863 sample=../Audio/Mad Velocity/004 Mad Velocity-47-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=895 loop_mode=loop_sustain loop_start=275482 loop_end=366014 sample=../Audio/Mad Velocity/004 Mad Velocity-47-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=751 end=723456 loop_mode=loop_sustain loop_start=203502 loop_end=294422 sample=../Audio/Mad Velocity/004 Mad Velocity-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=967 loop_mode=loop_sustain loop_start=140131 loop_end=229263 sample=../Audio/Mad Velocity/004 Mad Velocity-48-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=594 loop_mode=loop_sustain loop_start=232410 loop_end=321542 sample=../Audio/Mad Velocity/004 Mad Velocity-48-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=870 end=721536 loop_mode=loop_sustain loop_start=243589 loop_end=391654 sample=../Audio/Mad Velocity/004 Mad Velocity-48-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=885 end=719529 loop_mode=loop_sustain loop_start=219961 loop_end=309093 sample=../Audio/Mad Velocity/004 Mad Velocity-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=639 end=725632 loop_mode=loop_sustain loop_start=147606 loop_end=382274 sample=../Audio/Mad Velocity/004 Mad Velocity-49-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=940 end=723712 loop_mode=loop_sustain loop_start=118120 loop_end=355561 sample=../Audio/Mad Velocity/004 Mad Velocity-49-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=767 end=721536 loop_mode=loop_sustain loop_start=156410 loop_end=393857 sample=../Audio/Mad Velocity/004 Mad Velocity-49-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=876 end=720896 loop_mode=loop_sustain loop_start=159382 loop_end=396827 sample=../Audio/Mad Velocity/004 Mad Velocity-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=767 loop_mode=loop_sustain loop_start=146298 loop_end=383869 sample=../Audio/Mad Velocity/004 Mad Velocity-50-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=895 loop_mode=loop_sustain loop_start=155580 loop_end=393149 sample=../Audio/Mad Velocity/004 Mad Velocity-50-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=850 end=719124 loop_mode=loop_sustain loop_start=129493 loop_end=367064 sample=../Audio/Mad Velocity/004 Mad Velocity-50-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1017 loop_mode=loop_sustain loop_start=131283 loop_end=368854 sample=../Audio/Mad Velocity/004 Mad Velocity-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=847 end=717056 loop_mode=loop_sustain loop_start=134087 loop_end=371639 sample=../Audio/Mad Velocity/004 Mad Velocity-51-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=971 end=720647 loop_mode=loop_sustain loop_start=131716 loop_end=369267 sample=../Audio/Mad Velocity/004 Mad Velocity-51-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=763 end=718592 loop_mode=loop_sustain loop_start=142399 loop_end=379954 sample=../Audio/Mad Velocity/004 Mad Velocity-51-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=621 loop_mode=loop_sustain loop_start=147700 loop_end=385256 sample=../Audio/Mad Velocity/004 Mad Velocity-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=855 loop_mode=loop_sustain loop_start=157235 loop_end=394610 sample=../Audio/Mad Velocity/004 Mad Velocity-52-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=713 end=718848 loop_mode=loop_sustain loop_start=217584 loop_end=304990 sample=../Audio/Mad Velocity/004 Mad Velocity-52-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=639 end=715904 loop_mode=loop_sustain loop_start=137907 loop_end=375283 sample=../Audio/Mad Velocity/004 Mad Velocity-52-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=633 end=714752 loop_mode=loop_sustain loop_start=116093 loop_end=353469 sample=../Audio/Mad Velocity/004 Mad Velocity-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=738 end=719453 loop_mode=loop_sustain loop_start=304456 loop_end=395790 sample=../Audio/Mad Velocity/004 Mad Velocity-53-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=881 end=724355 loop_mode=loop_sustain loop_start=256991 loop_end=346392 sample=../Audio/Mad Velocity/004 Mad Velocity-53-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=497 end=720384 loop_mode=loop_sustain loop_start=176249 loop_end=265649 sample=../Audio/Mad Velocity/004 Mad Velocity-53-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=879 end=721542 loop_mode=loop_sustain loop_start=152825 loop_end=390955 sample=../Audio/Mad Velocity/004 Mad Velocity-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=757 loop_mode=loop_sustain loop_start=194786 loop_end=343237 sample=../Audio/Mad Velocity/004 Mad Velocity-54-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=895 loop_mode=loop_sustain loop_start=147095 loop_end=384614 sample=../Audio/Mad Velocity/004 Mad Velocity-54-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1001 loop_mode=loop_sustain loop_start=216017 loop_end=364469 sample=../Audio/Mad Velocity/004 Mad Velocity-54-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=736 end=719744 loop_mode=loop_sustain loop_start=186934 loop_end=367419 sample=../Audio/Mad Velocity/004 Mad Velocity-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=691 loop_mode=loop_sustain loop_start=233307 loop_end=324502 sample=../Audio/Mad Velocity/004 Mad Velocity-55-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=757 loop_mode=loop_sustain loop_start=165188 loop_end=256384 sample=../Audio/Mad Velocity/004 Mad Velocity-55-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=895 end=724480 loop_mode=loop_sustain loop_start=227122 loop_end=318319 sample=../Audio/Mad Velocity/004 Mad Velocity-55-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=992 end=723612 loop_mode=loop_sustain loop_start=143925 loop_end=382616 sample=../Audio/Mad Velocity/004 Mad Velocity-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1146 end=716564 loop_mode=loop_sustain loop_start=149766 loop_end=387589 sample=../Audio/Mad Velocity/004 Mad Velocity-56-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1005 end=722717 loop_mode=loop_sustain loop_start=129416 loop_end=366779 sample=../Audio/Mad Velocity/004 Mad Velocity-56-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=638 end=719616 loop_mode=loop_sustain loop_start=134923 loop_end=372746 sample=../Audio/Mad Velocity/004 Mad Velocity-56-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=959 end=720128 loop_mode=loop_sustain loop_start=141986 loop_end=379347 sample=../Audio/Mad Velocity/004 Mad Velocity-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=620 end=726043 loop_mode=loop_sustain loop_start=273250 loop_end=362607 sample=../Audio/Mad Velocity/004 Mad Velocity-57-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1122 end=723712 loop_mode=loop_sustain loop_start=219760 loop_end=309116 sample=../Audio/Mad Velocity/004 Mad Velocity-57-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=766 end=723840 loop_mode=loop_sustain loop_start=196825 loop_end=286179 sample=../Audio/Mad Velocity/004 Mad Velocity-57-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=734 loop_mode=loop_sustain loop_start=265701 loop_end=355055 sample=../Audio/Mad Velocity/004 Mad Velocity-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=877 loop_mode=loop_sustain loop_start=152433 loop_end=391803 sample=../Audio/Mad Velocity/004 Mad Velocity-58-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1083 end=721792 loop_mode=loop_sustain loop_start=251652 loop_end=396145 sample=../Audio/Mad Velocity/004 Mad Velocity-58-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=868 end=717184 loop_mode=loop_sustain loop_start=231122 loop_end=319800 sample=../Audio/Mad Velocity/004 Mad Velocity-58-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1023 loop_mode=loop_sustain loop_start=154244 loop_end=392377 sample=../Audio/Mad Velocity/004 Mad Velocity-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=868 loop_mode=loop_sustain loop_start=252698 loop_end=342251 sample=../Audio/Mad Velocity/004 Mad Velocity-59-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=936 loop_mode=loop_sustain loop_start=194598 loop_end=283760 sample=../Audio/Mad Velocity/004 Mad Velocity-59-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=880 end=718983 loop_mode=loop_sustain loop_start=261553 loop_end=350716 sample=../Audio/Mad Velocity/004 Mad Velocity-59-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=893 end=721152 loop_mode=loop_sustain loop_start=189172 loop_end=278335 sample=../Audio/Mad Velocity/004 Mad Velocity-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=751 loop_mode=loop_sustain loop_start=139628 loop_end=376638 sample=../Audio/Mad Velocity/004 Mad Velocity-60-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=603 end=722560 loop_mode=loop_sustain loop_start=235138 loop_end=326114 sample=../Audio/Mad Velocity/004 Mad Velocity-60-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=740 end=721280 loop_mode=loop_sustain loop_start=159202 loop_end=395107 sample=../Audio/Mad Velocity/004 Mad Velocity-60-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1007 end=722944 loop_mode=loop_sustain loop_start=131107 loop_end=368485 sample=../Audio/Mad Velocity/004 Mad Velocity-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=639 end=718138 loop_mode=loop_sustain loop_start=147382 loop_end=384998 sample=../Audio/Mad Velocity/004 Mad Velocity-61-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1111 loop_mode=loop_sustain loop_start=123870 loop_end=361486 sample=../Audio/Mad Velocity/004 Mad Velocity-61-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=883 loop_mode=loop_sustain loop_start=132348 loop_end=369965 sample=../Audio/Mad Velocity/004 Mad Velocity-61-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=995 end=721671 loop_mode=loop_sustain loop_start=119252 loop_end=356868 sample=../Audio/Mad Velocity/004 Mad Velocity-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=876 loop_mode=loop_sustain loop_start=214116 loop_end=303528 sample=../Audio/Mad Velocity/004 Mad Velocity-62-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=964 end=726144 loop_mode=loop_sustain loop_start=156288 loop_end=394022 sample=../Audio/Mad Velocity/004 Mad Velocity-62-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=751 end=721818 loop_mode=loop_sustain loop_start=139097 loop_end=376830 sample=../Audio/Mad Velocity/004 Mad Velocity-62-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1023 loop_mode=loop_sustain loop_start=259638 loop_end=349053 sample=../Audio/Mad Velocity/004 Mad Velocity-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=763 end=711455 loop_mode=loop_sustain loop_start=184834 loop_end=333034 sample=../Audio/Mad Velocity/004 Mad Velocity-63-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=639 end=721555 loop_mode=loop_sustain loop_start=248097 loop_end=396296 sample=../Audio/Mad Velocity/004 Mad Velocity-63-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=996 end=720128 loop_mode=loop_sustain loop_start=229211 loop_end=319029 sample=../Audio/Mad Velocity/004 Mad Velocity-63-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=629 loop_mode=loop_sustain loop_start=147546 loop_end=385565 sample=../Audio/Mad Velocity/004 Mad Velocity-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=895 loop_mode=loop_sustain loop_start=154228 loop_end=391750 sample=../Audio/Mad Velocity/004 Mad Velocity-64-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=869 end=718464 loop_mode=loop_sustain loop_start=143561 loop_end=381083 sample=../Audio/Mad Velocity/004 Mad Velocity-64-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=873 end=719237 loop_mode=loop_sustain loop_start=131910 loop_end=369432 sample=../Audio/Mad Velocity/004 Mad Velocity-64-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1020 end=717827 loop_mode=loop_sustain loop_start=155180 loop_end=392995 sample=../Audio/Mad Velocity/004 Mad Velocity-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=976 loop_mode=loop_sustain loop_start=153351 loop_end=390095 sample=../Audio/Mad Velocity/004 Mad Velocity-65-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=868 end=724864 loop_mode=loop_sustain loop_start=245045 loop_end=389489 sample=../Audio/Mad Velocity/004 Mad Velocity-65-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=895 loop_mode=loop_sustain loop_start=158528 loop_end=250549 sample=../Audio/Mad Velocity/004 Mad Velocity-65-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=628 end=720512 loop_mode=loop_sustain loop_start=229350 loop_end=321509 sample=../Audio/Mad Velocity/004 Mad Velocity-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=767 loop_mode=loop_sustain loop_start=141415 loop_end=379201 sample=../Audio/Mad Velocity/004 Mad Velocity-66-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1005 end=721664 loop_mode=loop_sustain loop_start=129013 loop_end=368359 sample=../Audio/Mad Velocity/004 Mad Velocity-66-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=988 end=716032 loop_mode=loop_sustain loop_start=199184 loop_end=345683 sample=../Audio/Mad Velocity/004 Mad Velocity-66-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=880 end=716293 loop_mode=loop_sustain loop_start=141842 loop_end=378323 sample=../Audio/Mad Velocity/004 Mad Velocity-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1009 end=718473 loop_mode=loop_sustain loop_start=127322 loop_end=364783 sample=../Audio/Mad Velocity/004 Mad Velocity-67-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=741 loop_mode=loop_sustain loop_start=167664 loop_end=260583 sample=../Audio/Mad Velocity/004 Mad Velocity-67-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=757 end=721664 loop_mode=loop_sustain loop_start=137921 loop_end=375382 sample=../Audio/Mad Velocity/004 Mad Velocity-67-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=868 loop_mode=loop_sustain loop_start=151422 loop_end=388883 sample=../Audio/Mad Velocity/004 Mad Velocity-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=870 end=719616 loop_mode=loop_sustain loop_start=158849 loop_end=396328 sample=../Audio/Mad Velocity/004 Mad Velocity-68-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=758 end=724736 loop_mode=loop_sustain loop_start=193528 loop_end=339933 sample=../Audio/Mad Velocity/004 Mad Velocity-68-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=747 end=723072 loop_mode=loop_sustain loop_start=142462 loop_end=381561 sample=../Audio/Mad Velocity/004 Mad Velocity-68-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1023 loop_mode=loop_sustain loop_start=177960 loop_end=324365 sample=../Audio/Mad Velocity/004 Mad Velocity-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=988 loop_mode=loop_sustain loop_start=245651 loop_end=393694 sample=../Audio/Mad Velocity/004 Mad Velocity-69-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=731 loop_mode=loop_sustain loop_start=135844 loop_end=375213 sample=../Audio/Mad Velocity/004 Mad Velocity-69-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=639 end=718336 loop_mode=loop_sustain loop_start=145219 loop_end=384589 sample=../Audio/Mad Velocity/004 Mad Velocity-69-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=977 end=718592 loop_mode=loop_sustain loop_start=155471 loop_end=394841 sample=../Audio/Mad Velocity/004 Mad Velocity-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=764 end=712349 loop_mode=loop_sustain loop_start=172400 loop_end=320609 sample=../Audio/Mad Velocity/004 Mad Velocity-70-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=891 end=725760 loop_mode=loop_sustain loop_start=179449 loop_end=270711 sample=../Audio/Mad Velocity/004 Mad Velocity-70-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=639 end=720768 loop_mode=loop_sustain loop_start=241892 loop_end=333154 sample=../Audio/Mad Velocity/004 Mad Velocity-70-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=637 loop_mode=loop_sustain loop_start=162249 loop_end=253511 sample=../Audio/Mad Velocity/004 Mad Velocity-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1014 end=693011 loop_mode=loop_sustain loop_start=264528 loop_end=355642 sample=../Audio/Mad Velocity/004 Mad Velocity-71-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=731 end=722176 loop_mode=loop_sustain loop_start=156377 loop_end=395769 sample=../Audio/Mad Velocity/004 Mad Velocity-71-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=612 end=715136 loop_mode=loop_sustain loop_start=133648 loop_end=372070 sample=../Audio/Mad Velocity/004 Mad Velocity-71-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1017 end=716416 loop_mode=loop_sustain loop_start=199770 loop_end=290299 sample=../Audio/Mad Velocity/004 Mad Velocity-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=717 loop_mode=loop_sustain loop_start=156239 loop_end=393710 sample=../Audio/Mad Velocity/004 Mad Velocity-72-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=728 end=725376 loop_mode=loop_sustain loop_start=242698 loop_end=331922 sample=../Audio/Mad Velocity/004 Mad Velocity-72-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1009 loop_mode=loop_sustain loop_start=156927 loop_end=394398 sample=../Audio/Mad Velocity/004 Mad Velocity-72-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=606 loop_mode=loop_sustain loop_start=226809 loop_end=316033 sample=../Audio/Mad Velocity/004 Mad Velocity-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1094 end=707462 loop_mode=loop_sustain loop_start=152346 loop_end=389876 sample=../Audio/Mad Velocity/004 Mad Velocity-73-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=996 end=722179 loop_mode=loop_sustain loop_start=136724 loop_end=374259 sample=../Audio/Mad Velocity/004 Mad Velocity-73-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=511 end=718720 loop_mode=loop_sustain loop_start=148729 loop_end=386432 sample=../Audio/Mad Velocity/004 Mad Velocity-73-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=606 loop_mode=loop_sustain loop_start=132988 loop_end=372253 sample=../Audio/Mad Velocity/004 Mad Velocity-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=634 end=703490 loop_mode=loop_sustain loop_start=133694 loop_end=371303 sample=../Audio/Mad Velocity/004 Mad Velocity-74-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=888 loop_mode=loop_sustain loop_start=131889 loop_end=367490 sample=../Audio/Mad Velocity/004 Mad Velocity-74-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=754 loop_mode=loop_sustain loop_start=133795 loop_end=369395 sample=../Audio/Mad Velocity/004 Mad Velocity-74-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=748 end=721280 loop_mode=loop_sustain loop_start=158274 loop_end=396418 sample=../Audio/Mad Velocity/004 Mad Velocity-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=763 end=706693 loop_mode=loop_sustain loop_start=257598 loop_end=346871 sample=../Audio/Mad Velocity/004 Mad Velocity-75-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1132 loop_mode=loop_sustain loop_start=212090 loop_end=392575 sample=../Audio/Mad Velocity/004 Mad Velocity-75-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1023 end=717320 loop_mode=loop_sustain loop_start=220902 loop_end=368867 sample=../Audio/Mad Velocity/004 Mad Velocity-75-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=622 loop_mode=loop_sustain loop_start=205177 loop_end=352833 sample=../Audio/Mad Velocity/004 Mad Velocity-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=759 end=702849 loop_mode=loop_sustain loop_start=157221 loop_end=394962 sample=../Audio/Mad Velocity/004 Mad Velocity-76-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1251 end=721033 loop_mode=loop_sustain loop_start=116875 loop_end=352494 sample=../Audio/Mad Velocity/004 Mad Velocity-76-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=767 end=720136 loop_mode=loop_sustain loop_start=158448 loop_end=394068 sample=../Audio/Mad Velocity/004 Mad Velocity-76-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=767 end=719488 loop_mode=loop_sustain loop_start=140006 loop_end=375625 sample=../Audio/Mad Velocity/004 Mad Velocity-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=891 end=720128 loop_mode=loop_sustain loop_start=153744 loop_end=393248 sample=../Audio/Mad Velocity/004 Mad Velocity-77-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1127 loop_mode=loop_sustain loop_start=250549 loop_end=396927 sample=../Audio/Mad Velocity/004 Mad Velocity-77-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=621 loop_mode=loop_sustain loop_start=215200 loop_end=361578 sample=../Audio/Mad Velocity/004 Mad Velocity-77-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=888 end=722432 loop_mode=loop_sustain loop_start=136263 loop_end=282641 sample=../Audio/Mad Velocity/004 Mad Velocity-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=636 end=706816 loop_mode=loop_sustain loop_start=133260 loop_end=370781 sample=../Audio/Mad Velocity/004 Mad Velocity-78-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1011 loop_mode=loop_sustain loop_start=181316 loop_end=272534 sample=../Audio/Mad Velocity/004 Mad Velocity-78-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=895 end=717440 loop_mode=loop_sustain loop_start=159136 loop_end=396658 sample=../Audio/Mad Velocity/004 Mad Velocity-78-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1022 loop_mode=loop_sustain loop_start=225536 loop_end=316754 sample=../Audio/Mad Velocity/004 Mad Velocity-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=892 loop_mode=loop_sustain loop_start=151415 loop_end=388938 sample=../Audio/Mad Velocity/004 Mad Velocity-79-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1017 loop_mode=loop_sustain loop_start=135272 loop_end=372799 sample=../Audio/Mad Velocity/004 Mad Velocity-79-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=753 loop_mode=loop_sustain loop_start=159406 loop_end=395023 sample=../Audio/Mad Velocity/004 Mad Velocity-79-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=885 end=722944 loop_mode=loop_sustain loop_start=250128 loop_end=339359 sample=../Audio/Mad Velocity/004 Mad Velocity-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=767 end=713869 loop_mode=loop_sustain loop_start=143306 loop_end=380781 sample=../Audio/Mad Velocity/004 Mad Velocity-80-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1150 end=723585 loop_mode=loop_sustain loop_start=152377 loop_end=389505 sample=../Audio/Mad Velocity/004 Mad Velocity-80-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=866 end=721152 loop_mode=loop_sustain loop_start=158884 loop_end=396359 sample=../Audio/Mad Velocity/004 Mad Velocity-80-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=886 end=721163 loop_mode=loop_sustain loop_start=133929 loop_end=371404 sample=../Audio/Mad Velocity/004 Mad Velocity-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=767 loop_mode=loop_sustain loop_start=157816 loop_end=395979 sample=../Audio/Mad Velocity/004 Mad Velocity-81-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=888 end=723328 loop_mode=loop_sustain loop_start=134887 loop_end=370587 sample=../Audio/Mad Velocity/004 Mad Velocity-81-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=761 loop_mode=loop_sustain loop_start=248519 loop_end=339677 sample=../Audio/Mad Velocity/004 Mad Velocity-81-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=990 end=717955 loop_mode=loop_sustain loop_start=149461 loop_end=385161 sample=../Audio/Mad Velocity/004 Mad Velocity-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=895 end=709267 loop_mode=loop_sustain loop_start=133983 loop_end=372112 sample=../Audio/Mad Velocity/004 Mad Velocity-82-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1139 loop_mode=loop_sustain loop_start=137365 loop_end=375391 sample=../Audio/Mad Velocity/004 Mad Velocity-82-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=767 loop_mode=loop_sustain loop_start=144786 loop_end=382709 sample=../Audio/Mad Velocity/004 Mad Velocity-82-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1133 end=723204 loop_mode=loop_sustain loop_start=158443 loop_end=396366 sample=../Audio/Mad Velocity/004 Mad Velocity-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=892 end=710144 loop_mode=loop_sustain loop_start=143094 loop_end=380540 sample=../Audio/Mad Velocity/004 Mad Velocity-83-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=885 end=721792 loop_mode=loop_sustain loop_start=123499 loop_end=360945 sample=../Audio/Mad Velocity/004 Mad Velocity-83-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=762 end=718721 loop_mode=loop_sustain loop_start=132018 loop_end=369464 sample=../Audio/Mad Velocity/004 Mad Velocity-83-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=629 end=717824 loop_mode=loop_sustain loop_start=144222 loop_end=383571 sample=../Audio/Mad Velocity/004 Mad Velocity-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=740 end=707584 loop_mode=loop_sustain loop_start=157462 loop_end=394979 sample=../Audio/Mad Velocity/004 Mad Velocity-84-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=767 end=721792 loop_mode=loop_sustain loop_start=132928 loop_end=372333 sample=../Audio/Mad Velocity/004 Mad Velocity-84-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=639 end=720640 loop_mode=loop_sustain loop_start=157671 loop_end=395188 sample=../Audio/Mad Velocity/004 Mad Velocity-84-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=508 loop_mode=loop_sustain loop_start=144040 loop_end=381557 sample=../Audio/Mad Velocity/004 Mad Velocity-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1014 end=706817 loop_mode=loop_sustain loop_start=152967 loop_end=390495 sample=../Audio/Mad Velocity/004 Mad Velocity-85-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1132 end=723072 loop_mode=loop_sustain loop_start=139046 loop_end=376400 sample=../Audio/Mad Velocity/004 Mad Velocity-85-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1148 end=720768 loop_mode=loop_sustain loop_start=140347 loop_end=377874 sample=../Audio/Mad Velocity/004 Mad Velocity-85-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=639 loop_mode=loop_sustain loop_start=183876 loop_end=330191 sample=../Audio/Mad Velocity/004 Mad Velocity-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=892 end=709773 loop_mode=loop_sustain loop_start=133969 loop_end=371620 sample=../Audio/Mad Velocity/004 Mad Velocity-86-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1147 end=723847 loop_mode=loop_sustain loop_start=230446 loop_end=321584 sample=../Audio/Mad Velocity/004 Mad Velocity-86-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=892 end=721664 loop_mode=loop_sustain loop_start=291671 loop_end=380963 sample=../Audio/Mad Velocity/004 Mad Velocity-86-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=613 loop_mode=loop_sustain loop_start=209435 loop_end=298727 sample=../Audio/Mad Velocity/004 Mad Velocity-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=753 end=704000 loop_mode=loop_sustain loop_start=157936 loop_end=395877 sample=../Audio/Mad Velocity/004 Mad Velocity-87-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=895 loop_mode=loop_sustain loop_start=122879 loop_end=361128 sample=../Audio/Mad Velocity/004 Mad Velocity-87-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=895 end=719744 loop_mode=loop_sustain loop_start=144743 loop_end=382837 sample=../Audio/Mad Velocity/004 Mad Velocity-87-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=753 end=715395 loop_mode=loop_sustain loop_start=156996 loop_end=395245 sample=../Audio/Mad Velocity/004 Mad Velocity-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=767 end=701952 loop_mode=loop_sustain loop_start=157782 loop_end=396874 sample=../Audio/Mad Velocity/004 Mad Velocity-88-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1278 loop_mode=loop_sustain loop_start=159789 loop_end=397309 sample=../Audio/Mad Velocity/004 Mad Velocity-88-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=895 end=721792 loop_mode=loop_sustain loop_start=141528 loop_end=378976 sample=../Audio/Mad Velocity/004 Mad Velocity-88-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=758 end=722688 loop_mode=loop_sustain loop_start=157683 loop_end=395203 sample=../Audio/Mad Velocity/004 Mad Velocity-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=766 end=712712 loop_mode=loop_sustain loop_start=147606 loop_end=385144 sample=../Audio/Mad Velocity/004 Mad Velocity-89-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1023 end=723712 loop_mode=loop_sustain loop_start=131613 loop_end=369151 sample=../Audio/Mad Velocity/004 Mad Velocity-89-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=506 end=723072 loop_mode=loop_sustain loop_start=145616 loop_end=383154 sample=../Audio/Mad Velocity/004 Mad Velocity-89-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=742 end=719872 loop_mode=loop_sustain loop_start=156951 loop_end=395972 sample=../Audio/Mad Velocity/004 Mad Velocity-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=895 end=688650 loop_mode=loop_sustain loop_start=144249 loop_end=383659 sample=../Audio/Mad Velocity/004 Mad Velocity-90-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1023 loop_mode=loop_sustain loop_start=158657 loop_end=394257 sample=../Audio/Mad Velocity/004 Mad Velocity-90-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1008 end=720640 loop_mode=loop_sustain loop_start=172217 loop_end=318551 sample=../Audio/Mad Velocity/004 Mad Velocity-90-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=749 end=718336 loop_mode=loop_sustain loop_start=153244 loop_end=390179 sample=../Audio/Mad Velocity/004 Mad Velocity-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=889 end=709504 loop_mode=loop_sustain loop_start=131770 loop_end=369231 sample=../Audio/Mad Velocity/004 Mad Velocity-91-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1147 end=722560 loop_mode=loop_sustain loop_start=149506 loop_end=386844 sample=../Audio/Mad Velocity/004 Mad Velocity-91-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1023 loop_mode=loop_sustain loop_start=134064 loop_end=371525 sample=../Audio/Mad Velocity/004 Mad Velocity-91-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=888 end=721031 loop_mode=loop_sustain loop_start=150356 loop_end=387694 sample=../Audio/Mad Velocity/004 Mad Velocity-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=894 loop_mode=loop_sustain loop_start=138358 loop_end=376094 sample=../Audio/Mad Velocity/004 Mad Velocity-92-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1277 loop_mode=loop_sustain loop_start=112700 loop_end=350436 sample=../Audio/Mad Velocity/004 Mad Velocity-92-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=895 loop_mode=loop_sustain loop_start=147138 loop_end=384874 sample=../Audio/Mad Velocity/004 Mad Velocity-92-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=621 loop_mode=loop_sustain loop_start=157034 loop_end=394770 sample=../Audio/Mad Velocity/004 Mad Velocity-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1020 end=693888 loop_mode=loop_sustain loop_start=150925 loop_end=388431 sample=../Audio/Mad Velocity/004 Mad Velocity-93-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1018 end=718720 loop_mode=loop_sustain loop_start=159723 loop_end=397229 sample=../Audio/Mad Velocity/004 Mad Velocity-93-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=623 loop_mode=loop_sustain loop_start=114875 loop_end=352381 sample=../Audio/Mad Velocity/004 Mad Velocity-93-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=634 loop_mode=loop_sustain loop_start=148899 loop_end=386405 sample=../Audio/Mad Velocity/004 Mad Velocity-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=639 end=707329 loop_mode=loop_sustain loop_start=157820 loop_end=395329 sample=../Audio/Mad Velocity/004 Mad Velocity-94-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=892 end=723328 loop_mode=loop_sustain loop_start=159580 loop_end=397089 sample=../Audio/Mad Velocity/004 Mad Velocity-94-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=760 end=721031 loop_mode=loop_sustain loop_start=139332 loop_end=376841 sample=../Audio/Mad Velocity/004 Mad Velocity-94-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=878 end=718856 loop_mode=loop_sustain loop_start=158494 loop_end=397114 sample=../Audio/Mad Velocity/004 Mad Velocity-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1012 end=695942 loop_mode=loop_sustain loop_start=159721 loop_end=395387 sample=../Audio/Mad Velocity/004 Mad Velocity-95-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=887 loop_mode=loop_sustain loop_start=125756 loop_end=361471 sample=../Audio/Mad Velocity/004 Mad Velocity-95-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=895 end=714240 loop_mode=loop_sustain loop_start=195437 loop_end=286625 sample=../Audio/Mad Velocity/004 Mad Velocity-95-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=763 end=718848 loop_mode=loop_sustain loop_start=130757 loop_end=366472 sample=../Audio/Mad Velocity/004 Mad Velocity-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=879 loop_mode=loop_sustain loop_start=135029 loop_end=372892 sample=../Audio/Mad Velocity/004 Mad Velocity-96-32.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=1021 end=720257 loop_mode=loop_sustain loop_start=189636 loop_end=280563 sample=../Audio/Mad Velocity/004 Mad Velocity-96-64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=617 end=718592 loop_mode=loop_sustain loop_start=143864 loop_end=380967 sample=../Audio/Mad Velocity/004 Mad Velocity-96-95.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=637 loop_mode=loop_sustain loop_start=157337 loop_end=395338 sample=../Audio/Mad Velocity/004 Mad Velocity-96-127.aif
