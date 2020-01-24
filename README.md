@@ -7,6 +7,9 @@ It's a digital VA synth, pretty similar to the older Nova & SuperNova devices.
 -   **Approx Size:** 6GB
 -   **Info:** [novationmusic.com](https://novationmusic.com/en/synths/)
 
+**Please note:** the audio part of this library is provided via Bittorrent. You will need to download this using the included .torrent file.
+
+
 # Loading
 
 **EXS24**
