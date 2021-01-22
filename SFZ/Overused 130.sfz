@@ -1,429 +1,429 @@
 // this file was generated from Overused 130.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=3 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=587 loop_mode=loop_sustain loop_start=200124 loop_end=377343 sample=../Audio/Overused/Overused-36-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=635 end=485459 loop_mode=loop_sustain loop_start=200071 loop_end=377314 sample=../Audio/Overused/Overused-36-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=912 end=485831 loop_mode=loop_sustain loop_start=184024 loop_end=361239 sample=../Audio/Overused/Overused-36-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=774 end=485647 loop_mode=loop_sustain loop_start=219677 loop_end=396864 sample=../Audio/Overused/Overused-36-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=505 end=485335 loop_mode=loop_sustain loop_start=155949 loop_end=333200 sample=../Audio/Overused/Overused-36-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=792 loop_mode=loop_sustain loop_start=217014 loop_end=394193 sample=../Audio/Overused/Overused-36-127.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=751 end=485411 loop_mode=loop_sustain loop_start=156237 loop_end=333480 sample=../Audio/Overused/Overused-37-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=494 end=485094 loop_mode=loop_sustain loop_start=183625 loop_end=360904 sample=../Audio/Overused/Overused-37-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=500 end=485426 loop_mode=loop_sustain loop_start=183230 loop_end=360481 sample=../Audio/Overused/Overused-37-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=870 end=485742 loop_mode=loop_sustain loop_start=155940 loop_end=333187 sample=../Audio/Overused/Overused-37-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=629 end=485526 loop_mode=loop_sustain loop_start=139084 loop_end=316299 sample=../Audio/Overused/Overused-37-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=552 end=485434 loop_mode=loop_sustain loop_start=199880 loop_end=377135 sample=../Audio/Overused/Overused-37-127.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=687 end=485577 loop_mode=loop_sustain loop_start=156073 loop_end=333304 sample=../Audio/Overused/Overused-38-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=614 loop_mode=loop_sustain loop_start=199999 loop_end=377242 sample=../Audio/Overused/Overused-38-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=828 end=485686 loop_mode=loop_sustain loop_start=23268 loop_end=200463 sample=../Audio/Overused/Overused-38-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=450 end=485290 loop_mode=loop_sustain loop_start=216454 loop_end=393629 sample=../Audio/Overused/Overused-38-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=897 end=485782 loop_mode=loop_sustain loop_start=201486 loop_end=378745 sample=../Audio/Overused/Overused-38-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=895 end=485738 loop_mode=loop_sustain loop_start=200220 loop_end=377443 sample=../Audio/Overused/Overused-38-127.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=819 end=485698 loop_mode=loop_sustain loop_start=200182 loop_end=377437 sample=../Audio/Overused/Overused-39-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=722 end=485573 loop_mode=loop_sustain loop_start=201266 loop_end=378505 sample=../Audio/Overused/Overused-39-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=684 end=485567 loop_mode=loop_sustain loop_start=139702 loop_end=316925 sample=../Audio/Overused/Overused-39-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=786 end=485654 loop_mode=loop_sustain loop_start=200391 loop_end=377658 sample=../Audio/Overused/Overused-39-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=861 end=485726 loop_mode=loop_sustain loop_start=50755 loop_end=227930 sample=../Audio/Overused/Overused-39-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=831 end=485722 loop_mode=loop_sustain loop_start=6655 loop_end=183862 sample=../Audio/Overused/Overused-39-127.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=839 end=485256 loop_mode=loop_sustain loop_start=200355 loop_end=377590 sample=../Audio/Overused/Overused-40-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=909 end=485799 loop_mode=loop_sustain loop_start=217723 loop_end=394894 sample=../Audio/Overused/Overused-40-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=488 end=485375 loop_mode=loop_sustain loop_start=50619 loop_end=227798 sample=../Audio/Overused/Overused-40-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=626 end=485467 loop_mode=loop_sustain loop_start=201949 loop_end=379204 sample=../Audio/Overused/Overused-40-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=804 loop_mode=loop_sustain loop_start=217385 loop_end=394560 sample=../Audio/Overused/Overused-40-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=639 loop_mode=loop_sustain loop_start=50734 loop_end=227909 sample=../Audio/Overused/Overused-40-127.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=847 end=485699 loop_mode=loop_sustain loop_start=200312 loop_end=377567 sample=../Audio/Overused/Overused-41-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=833 loop_mode=loop_sustain loop_start=201409 loop_end=378652 sample=../Audio/Overused/Overused-41-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=668 end=485519 loop_mode=loop_sustain loop_start=22856 loop_end=200063 sample=../Audio/Overused/Overused-41-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=830 loop_mode=loop_sustain loop_start=155851 loop_end=333106 sample=../Audio/Overused/Overused-41-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=744 end=485643 loop_mode=loop_sustain loop_start=200122 loop_end=377353 sample=../Audio/Overused/Overused-41-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=899 end=485779 loop_mode=loop_sustain loop_start=62294 loop_end=239485 sample=../Audio/Overused/Overused-41-127.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=747 end=485365 loop_mode=loop_sustain loop_start=201217 loop_end=378464 sample=../Audio/Overused/Overused-42-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=785 loop_mode=loop_sustain loop_start=200172 loop_end=377419 sample=../Audio/Overused/Overused-42-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=919 loop_mode=loop_sustain loop_start=201322 loop_end=378577 sample=../Audio/Overused/Overused-42-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=518 end=485434 loop_mode=loop_sustain loop_start=217577 loop_end=394736 sample=../Audio/Overused/Overused-42-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=772 loop_mode=loop_sustain loop_start=200362 loop_end=377597 sample=../Audio/Overused/Overused-42-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=771 end=485662 loop_mode=loop_sustain loop_start=200135 loop_end=377346 sample=../Audio/Overused/Overused-42-127.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=779 loop_mode=loop_sustain loop_start=200341 loop_end=377572 sample=../Audio/Overused/Overused-43-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=921 loop_mode=loop_sustain loop_start=50963 loop_end=228126 sample=../Audio/Overused/Overused-43-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=555 end=485418 loop_mode=loop_sustain loop_start=50581 loop_end=227772 sample=../Audio/Overused/Overused-43-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=514 end=485394 loop_mode=loop_sustain loop_start=200063 loop_end=377322 sample=../Audio/Overused/Overused-43-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=808 end=485678 loop_mode=loop_sustain loop_start=200371 loop_end=377622 sample=../Audio/Overused/Overused-43-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=471 end=485386 loop_mode=loop_sustain loop_start=22867 loop_end=200042 sample=../Audio/Overused/Overused-43-127.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=435 end=485034 loop_mode=loop_sustain loop_start=199984 loop_end=377219 sample=../Audio/Overused/Overused-44-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=477 end=485050 loop_mode=loop_sustain loop_start=200957 loop_end=378196 sample=../Audio/Overused/Overused-44-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=431 end=485271 loop_mode=loop_sustain loop_start=199910 loop_end=377125 sample=../Audio/Overused/Overused-44-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=850 end=485723 loop_mode=loop_sustain loop_start=6415 loop_end=184052 sample=../Audio/Overused/Overused-44-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=768 end=485675 loop_mode=loop_sustain loop_start=200154 loop_end=377385 sample=../Audio/Overused/Overused-44-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=759 end=485627 loop_mode=loop_sustain loop_start=50611 loop_end=227794 sample=../Audio/Overused/Overused-44-127.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=675 end=485555 loop_mode=loop_sustain loop_start=200231 loop_end=377458 sample=../Audio/Overused/Overused-45-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=440 loop_mode=loop_sustain loop_start=199954 loop_end=377185 sample=../Audio/Overused/Overused-45-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=483 end=485395 loop_mode=loop_sustain loop_start=200993 loop_end=378264 sample=../Audio/Overused/Overused-45-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=638 loop_mode=loop_sustain loop_start=200002 loop_end=377233 sample=../Audio/Overused/Overused-45-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=656 loop_mode=loop_sustain loop_start=200000 loop_end=377223 sample=../Audio/Overused/Overused-45-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=547 end=485447 loop_mode=loop_sustain loop_start=199910 loop_end=377149 sample=../Audio/Overused/Overused-45-127.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=659 end=485196 loop_mode=loop_sustain loop_start=200186 loop_end=377433 sample=../Audio/Overused/Overused-46-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=880 loop_mode=loop_sustain loop_start=112274 loop_end=289533 sample=../Audio/Overused/Overused-46-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=723 end=485578 loop_mode=loop_sustain loop_start=6670 loop_end=183852 sample=../Audio/Overused/Overused-46-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=861 end=485762 loop_mode=loop_sustain loop_start=61777 loop_end=238984 sample=../Audio/Overused/Overused-46-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=536 loop_mode=loop_sustain loop_start=200274 loop_end=377501 sample=../Audio/Overused/Overused-46-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=811 end=485718 loop_mode=loop_sustain loop_start=200356 loop_end=377615 sample=../Audio/Overused/Overused-46-127.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=719 loop_mode=loop_sustain loop_start=61988 loop_end=239231 sample=../Audio/Overused/Overused-47-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=600 end=485380 loop_mode=loop_sustain loop_start=200121 loop_end=377340 sample=../Audio/Overused/Overused-47-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=463 loop_mode=loop_sustain loop_start=199970 loop_end=377225 sample=../Audio/Overused/Overused-47-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=709 end=485555 loop_mode=loop_sustain loop_start=200013 loop_end=377256 sample=../Audio/Overused/Overused-47-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=700 loop_mode=loop_sustain loop_start=200072 loop_end=377295 sample=../Audio/Overused/Overused-47-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=591 end=485483 loop_mode=loop_sustain loop_start=39711 loop_end=216966 sample=../Audio/Overused/Overused-47-127.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=923 loop_mode=loop_sustain loop_start=62237 loop_end=239428 sample=../Audio/Overused/Overused-48-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=628 loop_mode=loop_sustain loop_start=200119 loop_end=377362 sample=../Audio/Overused/Overused-48-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=855 end=485747 loop_mode=loop_sustain loop_start=201085 loop_end=378360 sample=../Audio/Overused/Overused-48-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=897 loop_mode=loop_sustain loop_start=200406 loop_end=377661 sample=../Audio/Overused/Overused-48-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=876 end=485747 loop_mode=loop_sustain loop_start=200382 loop_end=377605 sample=../Audio/Overused/Overused-48-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=447 loop_mode=loop_sustain loop_start=199990 loop_end=377233 sample=../Audio/Overused/Overused-48-127.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=763 loop_mode=loop_sustain loop_start=200154 loop_end=377421 sample=../Audio/Overused/Overused-49-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=908 end=485538 loop_mode=loop_sustain loop_start=200333 loop_end=377560 sample=../Audio/Overused/Overused-49-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=623 loop_mode=loop_sustain loop_start=199966 loop_end=377189 sample=../Audio/Overused/Overused-49-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=605 loop_mode=loop_sustain loop_start=199940 loop_end=377159 sample=../Audio/Overused/Overused-49-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=468 loop_mode=loop_sustain loop_start=217482 loop_end=394681 sample=../Audio/Overused/Overused-49-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=691 end=485598 loop_mode=loop_sustain loop_start=200068 loop_end=377327 sample=../Audio/Overused/Overused-49-127.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=671 end=485472 loop_mode=loop_sustain loop_start=200181 loop_end=377424 sample=../Audio/Overused/Overused-50-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=920 loop_mode=loop_sustain loop_start=200382 loop_end=377633 sample=../Audio/Overused/Overused-50-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=938 loop_mode=loop_sustain loop_start=200423 loop_end=377650 sample=../Audio/Overused/Overused-50-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=437 end=485307 loop_mode=loop_sustain loop_start=199910 loop_end=377173 sample=../Audio/Overused/Overused-50-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=484 end=485347 loop_mode=loop_sustain loop_start=199966 loop_end=377181 sample=../Audio/Overused/Overused-50-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=911 end=485807 loop_mode=loop_sustain loop_start=200398 loop_end=377669 sample=../Audio/Overused/Overused-50-127.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=571 loop_mode=loop_sustain loop_start=200123 loop_end=377362 sample=../Audio/Overused/Overused-51-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=523 end=485418 loop_mode=loop_sustain loop_start=199960 loop_end=377199 sample=../Audio/Overused/Overused-51-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=630 loop_mode=loop_sustain loop_start=200215 loop_end=377458 sample=../Audio/Overused/Overused-51-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=693 end=485590 loop_mode=loop_sustain loop_start=200080 loop_end=377299 sample=../Audio/Overused/Overused-51-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=752 loop_mode=loop_sustain loop_start=200098 loop_end=377325 sample=../Audio/Overused/Overused-51-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=867 loop_mode=loop_sustain loop_start=200653 loop_end=377924 sample=../Audio/Overused/Overused-51-127.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=719 end=485570 loop_mode=loop_sustain loop_start=200074 loop_end=377333 sample=../Audio/Overused/Overused-52-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=615 end=485462 loop_mode=loop_sustain loop_start=22880 loop_end=200043 sample=../Audio/Overused/Overused-52-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=770 end=485670 loop_mode=loop_sustain loop_start=200241 loop_end=377484 sample=../Audio/Overused/Overused-52-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=761 loop_mode=loop_sustain loop_start=200220 loop_end=377487 sample=../Audio/Overused/Overused-52-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=799 loop_mode=loop_sustain loop_start=56174 loop_end=234618 sample=../Audio/Overused/Overused-52-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=931 end=485802 loop_mode=loop_sustain loop_start=200400 loop_end=377671 sample=../Audio/Overused/Overused-52-127.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=543 end=485463 loop_mode=loop_sustain loop_start=50634 loop_end=227849 sample=../Audio/Overused/Overused-53-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=603 end=485467 loop_mode=loop_sustain loop_start=200080 loop_end=377287 sample=../Audio/Overused/Overused-53-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=522 end=485403 loop_mode=loop_sustain loop_start=199904 loop_end=377147 sample=../Audio/Overused/Overused-53-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=653 end=485523 loop_mode=loop_sustain loop_start=61555 loop_end=238774 sample=../Audio/Overused/Overused-53-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=431 loop_mode=loop_sustain loop_start=199820 loop_end=377051 sample=../Audio/Overused/Overused-53-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=463 loop_mode=loop_sustain loop_start=6423 loop_end=183630 sample=../Audio/Overused/Overused-53-127.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=875 end=485495 loop_mode=loop_sustain loop_start=62140 loop_end=239335 sample=../Audio/Overused/Overused-54-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=459 end=485043 loop_mode=loop_sustain loop_start=199944 loop_end=377199 sample=../Audio/Overused/Overused-54-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=570 end=485462 loop_mode=loop_sustain loop_start=200170 loop_end=377389 sample=../Audio/Overused/Overused-54-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=829 end=485742 loop_mode=loop_sustain loop_start=50668 loop_end=227899 sample=../Audio/Overused/Overused-54-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=835 end=485710 loop_mode=loop_sustain loop_start=200945 loop_end=377669 sample=../Audio/Overused/Overused-54-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=855 end=485750 loop_mode=loop_sustain loop_start=62030 loop_end=239217 sample=../Audio/Overused/Overused-54-127.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=591 end=485503 loop_mode=loop_sustain loop_start=200048 loop_end=377291 sample=../Audio/Overused/Overused-55-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=719 loop_mode=loop_sustain loop_start=201368 loop_end=378414 sample=../Audio/Overused/Overused-55-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=818 end=485707 loop_mode=loop_sustain loop_start=200250 loop_end=377485 sample=../Audio/Overused/Overused-55-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=756 end=485651 loop_mode=loop_sustain loop_start=200102 loop_end=377353 sample=../Audio/Overused/Overused-55-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=583 end=485443 loop_mode=loop_sustain loop_start=67044 loop_end=244207 sample=../Audio/Overused/Overused-55-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=715 end=485595 loop_mode=loop_sustain loop_start=200075 loop_end=377330 sample=../Audio/Overused/Overused-55-127.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=587 end=485160 loop_mode=loop_sustain loop_start=200114 loop_end=377393 sample=../Audio/Overused/Overused-56-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=627 end=485228 loop_mode=loop_sustain loop_start=200172 loop_end=377427 sample=../Audio/Overused/Overused-56-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=410 end=485270 loop_mode=loop_sustain loop_start=61709 loop_end=238896 sample=../Audio/Overused/Overused-56-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=584 end=485466 loop_mode=loop_sustain loop_start=145458 loop_end=322681 sample=../Audio/Overused/Overused-56-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=607 end=485498 loop_mode=loop_sustain loop_start=199973 loop_end=377192 sample=../Audio/Overused/Overused-56-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=459 end=485366 loop_mode=loop_sustain loop_start=61430 loop_end=238605 sample=../Audio/Overused/Overused-56-127.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=695 loop_mode=loop_sustain loop_start=200222 loop_end=377485 sample=../Audio/Overused/Overused-57-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=415 end=485279 loop_mode=loop_sustain loop_start=50339 loop_end=227522 sample=../Audio/Overused/Overused-57-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=910 loop_mode=loop_sustain loop_start=200393 loop_end=377648 sample=../Audio/Overused/Overused-57-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=780 end=485627 loop_mode=loop_sustain loop_start=200285 loop_end=377524 sample=../Audio/Overused/Overused-57-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=687 loop_mode=loop_sustain loop_start=200209 loop_end=377452 sample=../Audio/Overused/Overused-57-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=527 end=485411 loop_mode=loop_sustain loop_start=50468 loop_end=227647 sample=../Audio/Overused/Overused-57-127.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=839 end=485370 loop_mode=loop_sustain loop_start=200247 loop_end=377518 sample=../Audio/Overused/Overused-58-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=654 end=485506 loop_mode=loop_sustain loop_start=200056 loop_end=377319 sample=../Audio/Overused/Overused-58-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=546 end=485455 loop_mode=loop_sustain loop_start=199966 loop_end=377229 sample=../Audio/Overused/Overused-58-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=548 end=485426 loop_mode=loop_sustain loop_start=199953 loop_end=377244 sample=../Audio/Overused/Overused-58-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=695 loop_mode=loop_sustain loop_start=200101 loop_end=377356 sample=../Audio/Overused/Overused-58-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=863 end=485754 loop_mode=loop_sustain loop_start=200293 loop_end=377544 sample=../Audio/Overused/Overused-58-127.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=691 end=485527 loop_mode=loop_sustain loop_start=200105 loop_end=377328 sample=../Audio/Overused/Overused-59-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=742 end=485566 loop_mode=loop_sustain loop_start=200166 loop_end=377417 sample=../Audio/Overused/Overused-59-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=614 loop_mode=loop_sustain loop_start=199949 loop_end=377216 sample=../Audio/Overused/Overused-59-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=836 loop_mode=loop_sustain loop_start=6614 loop_end=183833 sample=../Audio/Overused/Overused-59-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=891 end=485750 loop_mode=loop_sustain loop_start=50808 loop_end=228019 sample=../Audio/Overused/Overused-59-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=723 end=485618 loop_mode=loop_sustain loop_start=61676 loop_end=238875 sample=../Audio/Overused/Overused-59-127.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=499 end=485395 loop_mode=loop_sustain loop_start=199949 loop_end=377184 sample=../Audio/Overused/Overused-60-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=734 end=485611 loop_mode=loop_sustain loop_start=200120 loop_end=377327 sample=../Audio/Overused/Overused-60-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=478 end=485371 loop_mode=loop_sustain loop_start=199874 loop_end=377137 sample=../Audio/Overused/Overused-60-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=464 loop_mode=loop_sustain loop_start=199942 loop_end=377201 sample=../Audio/Overused/Overused-60-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=495 end=485379 loop_mode=loop_sustain loop_start=199871 loop_end=377090 sample=../Audio/Overused/Overused-60-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=927 end=485815 loop_mode=loop_sustain loop_start=200522 loop_end=377737 sample=../Audio/Overused/Overused-60-127.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=791 loop_mode=loop_sustain loop_start=50893 loop_end=228068 sample=../Audio/Overused/Overused-61-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=414 loop_mode=loop_sustain loop_start=200000 loop_end=377219 sample=../Audio/Overused/Overused-61-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=514 loop_mode=loop_sustain loop_start=199860 loop_end=377095 sample=../Audio/Overused/Overused-61-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=572 loop_mode=loop_sustain loop_start=39372 loop_end=216599 sample=../Audio/Overused/Overused-61-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=743 loop_mode=loop_sustain loop_start=200302 loop_end=377541 sample=../Audio/Overused/Overused-61-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=715 loop_mode=loop_sustain loop_start=200200 loop_end=377479 sample=../Audio/Overused/Overused-61-127.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=459 end=485266 loop_mode=loop_sustain loop_start=199953 loop_end=377204 sample=../Audio/Overused/Overused-62-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=650 end=485458 loop_mode=loop_sustain loop_start=50721 loop_end=227908 sample=../Audio/Overused/Overused-62-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=449 end=485334 loop_mode=loop_sustain loop_start=199808 loop_end=377043 sample=../Audio/Overused/Overused-62-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=764 end=485642 loop_mode=loop_sustain loop_start=200336 loop_end=377559 sample=../Audio/Overused/Overused-62-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=539 loop_mode=loop_sustain loop_start=200038 loop_end=377285 sample=../Audio/Overused/Overused-62-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=507 end=485406 loop_mode=loop_sustain loop_start=66978 loop_end=244181 sample=../Audio/Overused/Overused-62-127.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=847 end=485727 loop_mode=loop_sustain loop_start=200401 loop_end=377624 sample=../Audio/Overused/Overused-63-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=466 end=485331 loop_mode=loop_sustain loop_start=50444 loop_end=227623 sample=../Audio/Overused/Overused-63-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=669 end=485538 loop_mode=loop_sustain loop_start=50601 loop_end=227800 sample=../Audio/Overused/Overused-63-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=512 end=485382 loop_mode=loop_sustain loop_start=199989 loop_end=377244 sample=../Audio/Overused/Overused-63-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=819 loop_mode=loop_sustain loop_start=200273 loop_end=377532 sample=../Audio/Overused/Overused-63-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=631 loop_mode=loop_sustain loop_start=67080 loop_end=244263 sample=../Audio/Overused/Overused-63-127.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=843 loop_mode=loop_sustain loop_start=200380 loop_end=377611 sample=../Audio/Overused/Overused-64-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=806 end=485679 loop_mode=loop_sustain loop_start=200165 loop_end=377412 sample=../Audio/Overused/Overused-64-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=881 loop_mode=loop_sustain loop_start=200417 loop_end=377636 sample=../Audio/Overused/Overused-64-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=592 loop_mode=loop_sustain loop_start=211358 loop_end=388573 sample=../Audio/Overused/Overused-64-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=487 loop_mode=loop_sustain loop_start=144579 loop_end=321762 sample=../Audio/Overused/Overused-64-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=575 loop_mode=loop_sustain loop_start=200121 loop_end=377348 sample=../Audio/Overused/Overused-64-127.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=411 loop_mode=loop_sustain loop_start=199803 loop_end=377034 sample=../Audio/Overused/Overused-65-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=878 loop_mode=loop_sustain loop_start=67401 loop_end=244584 sample=../Audio/Overused/Overused-65-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=825 end=485715 loop_mode=loop_sustain loop_start=200352 loop_end=377591 sample=../Audio/Overused/Overused-65-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=608 end=485527 loop_mode=loop_sustain loop_start=200164 loop_end=377379 sample=../Audio/Overused/Overused-65-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=623 end=485487 loop_mode=loop_sustain loop_start=200140 loop_end=377375 sample=../Audio/Overused/Overused-65-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=591 end=485467 loop_mode=loop_sustain loop_start=200116 loop_end=377367 sample=../Audio/Overused/Overused-65-127.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=711 end=485319 loop_mode=loop_sustain loop_start=200115 loop_end=377350 sample=../Audio/Overused/Overused-66-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=706 loop_mode=loop_sustain loop_start=200121 loop_end=377336 sample=../Audio/Overused/Overused-66-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=509 end=485383 loop_mode=loop_sustain loop_start=61832 loop_end=239003 sample=../Audio/Overused/Overused-66-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=612 end=485511 loop_mode=loop_sustain loop_start=200011 loop_end=377258 sample=../Audio/Overused/Overused-66-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=787 end=485683 loop_mode=loop_sustain loop_start=61930 loop_end=239137 sample=../Audio/Overused/Overused-66-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=515 end=485395 loop_mode=loop_sustain loop_start=199871 loop_end=377134 sample=../Audio/Overused/Overused-66-127.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=719 end=485324 loop_mode=loop_sustain loop_start=67219 loop_end=244394 sample=../Audio/Overused/Overused-67-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=842 end=485431 loop_mode=loop_sustain loop_start=200225 loop_end=377492 sample=../Audio/Overused/Overused-67-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=641 end=485483 loop_mode=loop_sustain loop_start=200069 loop_end=377312 sample=../Audio/Overused/Overused-67-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=788 end=485683 loop_mode=loop_sustain loop_start=200204 loop_end=377415 sample=../Audio/Overused/Overused-67-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=803 end=485719 loop_mode=loop_sustain loop_start=200265 loop_end=377504 sample=../Audio/Overused/Overused-67-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=515 loop_mode=loop_sustain loop_start=144526 loop_end=321729 sample=../Audio/Overused/Overused-67-127.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=803 loop_mode=loop_sustain loop_start=200175 loop_end=377430 sample=../Audio/Overused/Overused-68-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=726 end=485619 loop_mode=loop_sustain loop_start=200102 loop_end=377357 sample=../Audio/Overused/Overused-68-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=925 end=485803 loop_mode=loop_sustain loop_start=200408 loop_end=377639 sample=../Audio/Overused/Overused-68-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=440 end=485323 loop_mode=loop_sustain loop_start=50338 loop_end=227569 sample=../Audio/Overused/Overused-68-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=599 end=485499 loop_mode=loop_sustain loop_start=50542 loop_end=227737 sample=../Audio/Overused/Overused-68-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=587 end=485499 loop_mode=loop_sustain loop_start=67100 loop_end=244283 sample=../Audio/Overused/Overused-68-127.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=639 loop_mode=loop_sustain loop_start=200016 loop_end=377279 sample=../Audio/Overused/Overused-69-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=566 end=485447 loop_mode=loop_sustain loop_start=199906 loop_end=377145 sample=../Audio/Overused/Overused-69-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=545 end=485435 loop_mode=loop_sustain loop_start=66989 loop_end=244224 sample=../Audio/Overused/Overused-69-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=620 end=485479 loop_mode=loop_sustain loop_start=39424 loop_end=216647 sample=../Audio/Overused/Overused-69-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=811 loop_mode=loop_sustain loop_start=200353 loop_end=377596 sample=../Audio/Overused/Overused-69-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=639 loop_mode=loop_sustain loop_start=200005 loop_end=377244 sample=../Audio/Overused/Overused-69-127.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=571 loop_mode=loop_sustain loop_start=199949 loop_end=377212 sample=../Audio/Overused/Overused-70-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=842 end=485747 loop_mode=loop_sustain loop_start=200239 loop_end=377486 sample=../Audio/Overused/Overused-70-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=861 end=485755 loop_mode=loop_sustain loop_start=145110 loop_end=322281 sample=../Audio/Overused/Overused-70-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=620 end=485539 loop_mode=loop_sustain loop_start=200141 loop_end=377348 sample=../Audio/Overused/Overused-70-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=787 end=485647 loop_mode=loop_sustain loop_start=50745 loop_end=227841 sample=../Audio/Overused/Overused-70-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=459 end=485378 loop_mode=loop_sustain loop_start=144675 loop_end=321878 sample=../Audio/Overused/Overused-70-127.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=875 end=485692 loop_mode=loop_sustain loop_start=67321 loop_end=244532 sample=../Audio/Overused/Overused-71-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=553 end=485422 loop_mode=loop_sustain loop_start=50412 loop_end=227599 sample=../Audio/Overused/Overused-71-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=853 end=485722 loop_mode=loop_sustain loop_start=61756 loop_end=238951 sample=../Audio/Overused/Overused-71-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=868 end=485762 loop_mode=loop_sustain loop_start=56974 loop_end=234237 sample=../Audio/Overused/Overused-71-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=603 end=485466 loop_mode=loop_sustain loop_start=199983 loop_end=377206 sample=../Audio/Overused/Overused-71-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=683 end=485570 loop_mode=loop_sustain loop_start=200059 loop_end=377286 sample=../Audio/Overused/Overused-71-127.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=431 loop_mode=loop_sustain loop_start=50572 loop_end=227751 sample=../Audio/Overused/Overused-72-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=693 end=485571 loop_mode=loop_sustain loop_start=50625 loop_end=227820 sample=../Audio/Overused/Overused-72-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=632 loop_mode=loop_sustain loop_start=67088 loop_end=244283 sample=../Audio/Overused/Overused-72-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=823 loop_mode=loop_sustain loop_start=200358 loop_end=377573 sample=../Audio/Overused/Overused-72-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=635 end=485515 loop_mode=loop_sustain loop_start=200104 loop_end=377335 sample=../Audio/Overused/Overused-72-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=851 loop_mode=loop_sustain loop_start=200216 loop_end=377435 sample=../Audio/Overused/Overused-72-127.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=839 end=485387 loop_mode=loop_sustain loop_start=67295 loop_end=244478 sample=../Audio/Overused/Overused-73-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=889 loop_mode=loop_sustain loop_start=200243 loop_end=377478 sample=../Audio/Overused/Overused-73-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=728 loop_mode=loop_sustain loop_start=200212 loop_end=377427 sample=../Audio/Overused/Overused-73-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=819 loop_mode=loop_sustain loop_start=200292 loop_end=377539 sample=../Audio/Overused/Overused-73-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=787 loop_mode=loop_sustain loop_start=39568 loop_end=216799 sample=../Audio/Overused/Overused-73-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=391 end=485299 loop_mode=loop_sustain loop_start=210990 loop_end=388177 sample=../Audio/Overused/Overused-73-127.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=631 end=485413 loop_mode=loop_sustain loop_start=199997 loop_end=377264 sample=../Audio/Overused/Overused-74-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=801 loop_mode=loop_sustain loop_start=200177 loop_end=377424 sample=../Audio/Overused/Overused-74-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=596 end=485478 loop_mode=loop_sustain loop_start=200012 loop_end=377243 sample=../Audio/Overused/Overused-74-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=835 loop_mode=loop_sustain loop_start=200297 loop_end=377524 sample=../Audio/Overused/Overused-74-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=783 loop_mode=loop_sustain loop_start=200217 loop_end=377448 sample=../Audio/Overused/Overused-74-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=723 end=485603 loop_mode=loop_sustain loop_start=39474 loop_end=216725 sample=../Audio/Overused/Overused-74-127.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=827 loop_mode=loop_sustain loop_start=200304 loop_end=377519 sample=../Audio/Overused/Overused-75-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=497 end=485394 loop_mode=loop_sustain loop_start=199874 loop_end=377101 sample=../Audio/Overused/Overused-75-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=508 end=485363 loop_mode=loop_sustain loop_start=199965 loop_end=377204 sample=../Audio/Overused/Overused-75-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=763 end=485678 loop_mode=loop_sustain loop_start=144903 loop_end=322134 sample=../Audio/Overused/Overused-75-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=859 end=485770 loop_mode=loop_sustain loop_start=144907 loop_end=322126 sample=../Audio/Overused/Overused-75-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=887 end=485770 loop_mode=loop_sustain loop_start=211306 loop_end=388545 sample=../Audio/Overused/Overused-75-127.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=591 loop_mode=loop_sustain loop_start=199928 loop_end=377187 sample=../Audio/Overused/Overused-76-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=541 end=485387 loop_mode=loop_sustain loop_start=199899 loop_end=377134 sample=../Audio/Overused/Overused-76-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=448 end=485347 loop_mode=loop_sustain loop_start=144766 loop_end=321933 sample=../Audio/Overused/Overused-76-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=715 end=485591 loop_mode=loop_sustain loop_start=200289 loop_end=377504 sample=../Audio/Overused/Overused-76-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=639 loop_mode=loop_sustain loop_start=11764 loop_end=189003 sample=../Audio/Overused/Overused-76-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=823 end=485735 loop_mode=loop_sustain loop_start=67327 loop_end=244510 sample=../Audio/Overused/Overused-76-127.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=791 loop_mode=loop_sustain loop_start=200170 loop_end=377405 sample=../Audio/Overused/Overused-77-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=601 loop_mode=loop_sustain loop_start=199949 loop_end=377192 sample=../Audio/Overused/Overused-77-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=564 loop_mode=loop_sustain loop_start=216563 loop_end=393774 sample=../Audio/Overused/Overused-77-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=627 end=485486 loop_mode=loop_sustain loop_start=50699 loop_end=227870 sample=../Audio/Overused/Overused-77-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=543 end=485435 loop_mode=loop_sustain loop_start=61717 loop_end=238928 sample=../Audio/Overused/Overused-77-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=495 end=485367 loop_mode=loop_sustain loop_start=199933 loop_end=377160 sample=../Audio/Overused/Overused-77-127.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=835 end=485729 loop_mode=loop_sustain loop_start=200220 loop_end=377451 sample=../Audio/Overused/Overused-78-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=541 end=485446 loop_mode=loop_sustain loop_start=199899 loop_end=377134 sample=../Audio/Overused/Overused-78-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=808 end=485674 loop_mode=loop_sustain loop_start=50918 loop_end=228105 sample=../Audio/Overused/Overused-78-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=915 end=485826 loop_mode=loop_sustain loop_start=200437 loop_end=377700 sample=../Audio/Overused/Overused-78-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=847 loop_mode=loop_sustain loop_start=200333 loop_end=377604 sample=../Audio/Overused/Overused-78-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=607 end=485502 loop_mode=loop_sustain loop_start=200011 loop_end=377266 sample=../Audio/Overused/Overused-78-127.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=519 end=485107 loop_mode=loop_sustain loop_start=199882 loop_end=377101 sample=../Audio/Overused/Overused-79-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=469 end=485342 loop_mode=loop_sustain loop_start=50381 loop_end=227568 sample=../Audio/Overused/Overused-79-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=876 loop_mode=loop_sustain loop_start=200213 loop_end=377452 sample=../Audio/Overused/Overused-79-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=863 loop_mode=loop_sustain loop_start=200333 loop_end=377580 sample=../Audio/Overused/Overused-79-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=839 end=485698 loop_mode=loop_sustain loop_start=200326 loop_end=377601 sample=../Audio/Overused/Overused-79-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=783 loop_mode=loop_sustain loop_start=50701 loop_end=227904 sample=../Audio/Overused/Overused-79-127.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=559 end=485442 loop_mode=loop_sustain loop_start=50432 loop_end=227611 sample=../Audio/Overused/Overused-80-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=861 loop_mode=loop_sustain loop_start=62261 loop_end=239436 sample=../Audio/Overused/Overused-80-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=864 end=485763 loop_mode=loop_sustain loop_start=39644 loop_end=216911 sample=../Audio/Overused/Overused-80-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=787 end=485687 loop_mode=loop_sustain loop_start=200213 loop_end=377420 sample=../Audio/Overused/Overused-80-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=891 end=485758 loop_mode=loop_sustain loop_start=39704 loop_end=216923 sample=../Audio/Overused/Overused-80-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=879 end=485750 loop_mode=loop_sustain loop_start=39686 loop_end=216941 sample=../Audio/Overused/Overused-80-127.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=595 end=485491 loop_mode=loop_sustain loop_start=67043 loop_end=244246 sample=../Audio/Overused/Overused-81-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=616 loop_mode=loop_sustain loop_start=39406 loop_end=216625 sample=../Audio/Overused/Overused-81-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=784 end=485646 loop_mode=loop_sustain loop_start=78515 loop_end=255690 sample=../Audio/Overused/Overused-81-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=571 loop_mode=loop_sustain loop_start=144723 loop_end=321906 sample=../Audio/Overused/Overused-81-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=651 end=485531 loop_mode=loop_sustain loop_start=216633 loop_end=393856 sample=../Audio/Overused/Overused-81-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=671 end=485559 loop_mode=loop_sustain loop_start=200045 loop_end=377288 sample=../Audio/Overused/Overused-81-127.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=683 end=485579 loop_mode=loop_sustain loop_start=200025 loop_end=377260 sample=../Audio/Overused/Overused-82-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=568 loop_mode=loop_sustain loop_start=39315 loop_end=216566 sample=../Audio/Overused/Overused-82-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=816 end=485671 loop_mode=loop_sustain loop_start=200225 loop_end=377476 sample=../Audio/Overused/Overused-82-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=727 end=485611 loop_mode=loop_sustain loop_start=145013 loop_end=322232 sample=../Audio/Overused/Overused-82-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=803 end=485655 loop_mode=loop_sustain loop_start=200301 loop_end=377512 sample=../Audio/Overused/Overused-82-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=563 end=485479 loop_mode=loop_sustain loop_start=39366 loop_end=216609 sample=../Audio/Overused/Overused-82-127.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=659 loop_mode=loop_sustain loop_start=199988 loop_end=377267 sample=../Audio/Overused/Overused-83-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=900 end=485791 loop_mode=loop_sustain loop_start=39676 loop_end=216895 sample=../Audio/Overused/Overused-83-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=456 end=485355 loop_mode=loop_sustain loop_start=199907 loop_end=377118 sample=../Audio/Overused/Overused-83-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=883 loop_mode=loop_sustain loop_start=211338 loop_end=388565 sample=../Audio/Overused/Overused-83-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=771 end=485618 loop_mode=loop_sustain loop_start=200184 loop_end=377439 sample=../Audio/Overused/Overused-83-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=691 end=485562 loop_mode=loop_sustain loop_start=144879 loop_end=322074 sample=../Audio/Overused/Overused-83-127.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=799 end=485686 loop_mode=loop_sustain loop_start=200157 loop_end=377396 sample=../Audio/Overused/Overused-84-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=840 end=485733 loop_mode=loop_sustain loop_start=200204 loop_end=377427 sample=../Audio/Overused/Overused-84-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=508 loop_mode=loop_sustain loop_start=199912 loop_end=377115 sample=../Audio/Overused/Overused-84-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=475 end=485366 loop_mode=loop_sustain loop_start=56351 loop_end=233626 sample=../Audio/Overused/Overused-84-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=543 end=485438 loop_mode=loop_sustain loop_start=211387 loop_end=388251 sample=../Audio/Overused/Overused-84-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=427 loop_mode=loop_sustain loop_start=11540 loop_end=188775 sample=../Audio/Overused/Overused-84-127.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=547 loop_mode=loop_sustain loop_start=61908 loop_end=239095 sample=../Audio/Overused/Overused-85-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=884 loop_mode=loop_sustain loop_start=39643 loop_end=216882 sample=../Audio/Overused/Overused-85-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=640 end=485550 loop_mode=loop_sustain loop_start=144910 loop_end=322133 sample=../Audio/Overused/Overused-85-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=671 loop_mode=loop_sustain loop_start=78342 loop_end=255557 sample=../Audio/Overused/Overused-85-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=691 loop_mode=loop_sustain loop_start=144876 loop_end=322095 sample=../Audio/Overused/Overused-85-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=799 end=485703 loop_mode=loop_sustain loop_start=200355 loop_end=377602 sample=../Audio/Overused/Overused-85-127.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=603 end=485483 loop_mode=loop_sustain loop_start=50709 loop_end=227920 sample=../Audio/Overused/Overused-86-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=736 end=485606 loop_mode=loop_sustain loop_start=200132 loop_end=377355 sample=../Audio/Overused/Overused-86-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=896 end=485755 loop_mode=loop_sustain loop_start=39667 loop_end=216890 sample=../Audio/Overused/Overused-86-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=571 end=485463 loop_mode=loop_sustain loop_start=78244 loop_end=255463 sample=../Audio/Overused/Overused-86-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=715 end=485583 loop_mode=loop_sustain loop_start=11877 loop_end=189100 sample=../Audio/Overused/Overused-86-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=827 end=485675 loop_mode=loop_sustain loop_start=78537 loop_end=255704 sample=../Audio/Overused/Overused-86-127.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=839 loop_mode=loop_sustain loop_start=216838 loop_end=394057 sample=../Audio/Overused/Overused-87-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=900 end=485771 loop_mode=loop_sustain loop_start=39654 loop_end=216905 sample=../Audio/Overused/Overused-87-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=444 loop_mode=loop_sustain loop_start=144583 loop_end=321790 sample=../Audio/Overused/Overused-87-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=691 end=485562 loop_mode=loop_sustain loop_start=200206 loop_end=377425 sample=../Audio/Overused/Overused-87-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=607 loop_mode=loop_sustain loop_start=144645 loop_end=321852 sample=../Audio/Overused/Overused-87-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=467 end=485343 loop_mode=loop_sustain loop_start=200072 loop_end=377287 sample=../Audio/Overused/Overused-87-127.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=883 end=485802 loop_mode=loop_sustain loop_start=39652 loop_end=216903 sample=../Audio/Overused/Overused-88-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=584 end=485442 loop_mode=loop_sustain loop_start=216579 loop_end=393762 sample=../Audio/Overused/Overused-88-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=508 end=485398 loop_mode=loop_sustain loop_start=11589 loop_end=188868 sample=../Audio/Overused/Overused-88-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=503 end=485370 loop_mode=loop_sustain loop_start=39239 loop_end=216482 sample=../Audio/Overused/Overused-88-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=559 end=485442 loop_mode=loop_sustain loop_start=199937 loop_end=377144 sample=../Audio/Overused/Overused-88-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=751 end=485614 loop_mode=loop_sustain loop_start=189109 loop_end=366264 sample=../Audio/Overused/Overused-88-127.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=755 end=485623 loop_mode=loop_sustain loop_start=50869 loop_end=228040 sample=../Audio/Overused/Overused-89-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=504 loop_mode=loop_sustain loop_start=216505 loop_end=393704 sample=../Audio/Overused/Overused-89-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=635 end=485527 loop_mode=loop_sustain loop_start=39381 loop_end=216644 sample=../Audio/Overused/Overused-89-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=795 end=485699 loop_mode=loop_sustain loop_start=144978 loop_end=322173 sample=../Audio/Overused/Overused-89-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=799 end=485687 loop_mode=loop_sustain loop_start=61775 loop_end=238950 sample=../Audio/Overused/Overused-89-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=463 end=485347 loop_mode=loop_sustain loop_start=216511 loop_end=393654 sample=../Audio/Overused/Overused-89-127.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=683 end=485559 loop_mode=loop_sustain loop_start=200136 loop_end=377375 sample=../Audio/Overused/Overused-90-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=688 loop_mode=loop_sustain loop_start=39467 loop_end=216666 sample=../Audio/Overused/Overused-90-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=499 loop_mode=loop_sustain loop_start=11581 loop_end=188812 sample=../Audio/Overused/Overused-90-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=655 end=485502 loop_mode=loop_sustain loop_start=188965 loop_end=366144 sample=../Audio/Overused/Overused-90-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=635 end=485535 loop_mode=loop_sustain loop_start=11766 loop_end=189013 sample=../Audio/Overused/Overused-90-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=615 end=485511 loop_mode=loop_sustain loop_start=144645 loop_end=321844 sample=../Audio/Overused/Overused-90-127.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=523 end=485362 loop_mode=loop_sustain loop_start=39266 loop_end=216497 sample=../Audio/Overused/Overused-91-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=596 loop_mode=loop_sustain loop_start=61970 loop_end=239169 sample=../Audio/Overused/Overused-91-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=595 end=485487 loop_mode=loop_sustain loop_start=39392 loop_end=216651 sample=../Audio/Overused/Overused-91-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=879 end=485799 loop_mode=loop_sustain loop_start=78495 loop_end=255694 sample=../Audio/Overused/Overused-91-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=835 end=485739 loop_mode=loop_sustain loop_start=200377 loop_end=377596 sample=../Audio/Overused/Overused-91-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=759 end=485663 loop_mode=loop_sustain loop_start=189108 loop_end=366271 sample=../Audio/Overused/Overused-91-127.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=523 end=485403 loop_mode=loop_sustain loop_start=11690 loop_end=188925 sample=../Audio/Overused/Overused-92-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=796 loop_mode=loop_sustain loop_start=145036 loop_end=322211 sample=../Audio/Overused/Overused-92-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=735 end=485603 loop_mode=loop_sustain loop_start=39557 loop_end=216796 sample=../Audio/Overused/Overused-92-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=583 end=485463 loop_mode=loop_sustain loop_start=144617 loop_end=321836 sample=../Audio/Overused/Overused-92-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=659 end=485499 loop_mode=loop_sustain loop_start=11788 loop_end=189027 sample=../Audio/Overused/Overused-92-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=923 end=485826 loop_mode=loop_sustain loop_start=145012 loop_end=322215 sample=../Audio/Overused/Overused-92-127.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=579 end=485447 loop_mode=loop_sustain loop_start=78317 loop_end=255496 sample=../Audio/Overused/Overused-93-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=512 end=485394 loop_mode=loop_sustain loop_start=78239 loop_end=255422 sample=../Audio/Overused/Overused-93-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=547 end=485438 loop_mode=loop_sustain loop_start=144777 loop_end=322000 sample=../Audio/Overused/Overused-93-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=623 end=485538 loop_mode=loop_sustain loop_start=144671 loop_end=321858 sample=../Audio/Overused/Overused-93-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=735 end=485626 loop_mode=loop_sustain loop_start=145005 loop_end=322212 sample=../Audio/Overused/Overused-93-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=615 end=485478 loop_mode=loop_sustain loop_start=61577 loop_end=238748 sample=../Audio/Overused/Overused-93-127.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=747 end=485607 loop_mode=loop_sustain loop_start=145031 loop_end=322218 sample=../Audio/Overused/Overused-94-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=472 end=485358 loop_mode=loop_sustain loop_start=144813 loop_end=321980 sample=../Audio/Overused/Overused-94-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=779 loop_mode=loop_sustain loop_start=78300 loop_end=255531 sample=../Audio/Overused/Overused-94-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=747 loop_mode=loop_sustain loop_start=200158 loop_end=377389 sample=../Audio/Overused/Overused-94-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=655 end=485510 loop_mode=loop_sustain loop_start=39556 loop_end=216700 sample=../Audio/Overused/Overused-94-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=527 loop_mode=loop_sustain loop_start=144667 loop_end=321739 sample=../Audio/Overused/Overused-94-127.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=915 end=485789 loop_mode=loop_sustain loop_start=62336 loop_end=239463 sample=../Audio/Overused/Overused-95-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=737 loop_mode=loop_sustain loop_start=11843 loop_end=189054 sample=../Audio/Overused/Overused-95-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=712 end=485607 loop_mode=loop_sustain loop_start=145012 loop_end=322191 sample=../Audio/Overused/Overused-95-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=743 end=485619 loop_mode=loop_sustain loop_start=11817 loop_end=189060 sample=../Audio/Overused/Overused-95-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=463 end=485347 loop_mode=loop_sustain loop_start=55734 loop_end=232908 sample=../Audio/Overused/Overused-95-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=563 end=485459 loop_mode=loop_sustain loop_start=50455 loop_end=227634 sample=../Audio/Overused/Overused-95-127.aif
-<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
-	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=431 end=485206 loop_mode=loop_sustain loop_start=39196 loop_end=216427 sample=../Audio/Overused/Overused-96-21.aif
-	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=432 end=485334 loop_mode=loop_sustain loop_start=144488 loop_end=321659 sample=../Audio/Overused/Overused-96-42.aif
-	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=848 end=496766 loop_mode=loop_sustain loop_start=11918 loop_end=189169 sample=../Audio/Overused/Overused-96-64.aif
-	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=731 end=485590 loop_mode=loop_sustain loop_start=216764 loop_end=393931 sample=../Audio/Overused/Overused-96-85.aif
-	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=727 end=496606 loop_mode=loop_sustain loop_start=105979 loop_end=283162 sample=../Audio/Overused/Overused-96-106.aif
-	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=443 end=485325 loop_mode=loop_sustain loop_start=144466 loop_end=321661 sample=../Audio/Overused/Overused-96-127.aif
+<group>lokey=3 hikey=36 pitch_keycenter=36 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=587 loop_mode=loop_sustain loop_start=200124 loop_end=377343 sample=../UNAudio/Overused/Overused-36-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=635 end=485459 loop_mode=loop_sustain loop_start=200071 loop_end=377314 sample=../UNAudio/Overused/Overused-36-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=912 end=485831 loop_mode=loop_sustain loop_start=184024 loop_end=361239 sample=../UNAudio/Overused/Overused-36-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=774 end=485647 loop_mode=loop_sustain loop_start=219677 loop_end=396864 sample=../UNAudio/Overused/Overused-36-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=505 end=485335 loop_mode=loop_sustain loop_start=155949 loop_end=333200 sample=../UNAudio/Overused/Overused-36-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=792 loop_mode=loop_sustain loop_start=217014 loop_end=394193 sample=../UNAudio/Overused/Overused-36-127.aif
+<group> key=37 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=751 end=485411 loop_mode=loop_sustain loop_start=156237 loop_end=333480 sample=../UNAudio/Overused/Overused-37-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=494 end=485094 loop_mode=loop_sustain loop_start=183625 loop_end=360904 sample=../UNAudio/Overused/Overused-37-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=500 end=485426 loop_mode=loop_sustain loop_start=183230 loop_end=360481 sample=../UNAudio/Overused/Overused-37-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=870 end=485742 loop_mode=loop_sustain loop_start=155940 loop_end=333187 sample=../UNAudio/Overused/Overused-37-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=629 end=485526 loop_mode=loop_sustain loop_start=139084 loop_end=316299 sample=../UNAudio/Overused/Overused-37-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=552 end=485434 loop_mode=loop_sustain loop_start=199880 loop_end=377135 sample=../UNAudio/Overused/Overused-37-127.aif
+<group> key=38 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=687 end=485577 loop_mode=loop_sustain loop_start=156073 loop_end=333304 sample=../UNAudio/Overused/Overused-38-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=614 loop_mode=loop_sustain loop_start=199999 loop_end=377242 sample=../UNAudio/Overused/Overused-38-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=828 end=485686 loop_mode=loop_sustain loop_start=23268 loop_end=200463 sample=../UNAudio/Overused/Overused-38-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=450 end=485290 loop_mode=loop_sustain loop_start=216454 loop_end=393629 sample=../UNAudio/Overused/Overused-38-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=897 end=485782 loop_mode=loop_sustain loop_start=201486 loop_end=378745 sample=../UNAudio/Overused/Overused-38-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=895 end=485738 loop_mode=loop_sustain loop_start=200220 loop_end=377443 sample=../UNAudio/Overused/Overused-38-127.aif
+<group> key=39 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=819 end=485698 loop_mode=loop_sustain loop_start=200182 loop_end=377437 sample=../UNAudio/Overused/Overused-39-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=722 end=485573 loop_mode=loop_sustain loop_start=201266 loop_end=378505 sample=../UNAudio/Overused/Overused-39-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=684 end=485567 loop_mode=loop_sustain loop_start=139702 loop_end=316925 sample=../UNAudio/Overused/Overused-39-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=786 end=485654 loop_mode=loop_sustain loop_start=200391 loop_end=377658 sample=../UNAudio/Overused/Overused-39-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=861 end=485726 loop_mode=loop_sustain loop_start=50755 loop_end=227930 sample=../UNAudio/Overused/Overused-39-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=831 end=485722 loop_mode=loop_sustain loop_start=6655 loop_end=183862 sample=../UNAudio/Overused/Overused-39-127.aif
+<group> key=40 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=839 end=485256 loop_mode=loop_sustain loop_start=200355 loop_end=377590 sample=../UNAudio/Overused/Overused-40-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=909 end=485799 loop_mode=loop_sustain loop_start=217723 loop_end=394894 sample=../UNAudio/Overused/Overused-40-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=488 end=485375 loop_mode=loop_sustain loop_start=50619 loop_end=227798 sample=../UNAudio/Overused/Overused-40-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=626 end=485467 loop_mode=loop_sustain loop_start=201949 loop_end=379204 sample=../UNAudio/Overused/Overused-40-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=804 loop_mode=loop_sustain loop_start=217385 loop_end=394560 sample=../UNAudio/Overused/Overused-40-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=639 loop_mode=loop_sustain loop_start=50734 loop_end=227909 sample=../UNAudio/Overused/Overused-40-127.aif
+<group> key=41 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=847 end=485699 loop_mode=loop_sustain loop_start=200312 loop_end=377567 sample=../UNAudio/Overused/Overused-41-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=833 loop_mode=loop_sustain loop_start=201409 loop_end=378652 sample=../UNAudio/Overused/Overused-41-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=668 end=485519 loop_mode=loop_sustain loop_start=22856 loop_end=200063 sample=../UNAudio/Overused/Overused-41-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=830 loop_mode=loop_sustain loop_start=155851 loop_end=333106 sample=../UNAudio/Overused/Overused-41-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=744 end=485643 loop_mode=loop_sustain loop_start=200122 loop_end=377353 sample=../UNAudio/Overused/Overused-41-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=899 end=485779 loop_mode=loop_sustain loop_start=62294 loop_end=239485 sample=../UNAudio/Overused/Overused-41-127.aif
+<group> key=42 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=747 end=485365 loop_mode=loop_sustain loop_start=201217 loop_end=378464 sample=../UNAudio/Overused/Overused-42-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=785 loop_mode=loop_sustain loop_start=200172 loop_end=377419 sample=../UNAudio/Overused/Overused-42-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=919 loop_mode=loop_sustain loop_start=201322 loop_end=378577 sample=../UNAudio/Overused/Overused-42-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=518 end=485434 loop_mode=loop_sustain loop_start=217577 loop_end=394736 sample=../UNAudio/Overused/Overused-42-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=772 loop_mode=loop_sustain loop_start=200362 loop_end=377597 sample=../UNAudio/Overused/Overused-42-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=771 end=485662 loop_mode=loop_sustain loop_start=200135 loop_end=377346 sample=../UNAudio/Overused/Overused-42-127.aif
+<group> key=43 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=779 loop_mode=loop_sustain loop_start=200341 loop_end=377572 sample=../UNAudio/Overused/Overused-43-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=921 loop_mode=loop_sustain loop_start=50963 loop_end=228126 sample=../UNAudio/Overused/Overused-43-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=555 end=485418 loop_mode=loop_sustain loop_start=50581 loop_end=227772 sample=../UNAudio/Overused/Overused-43-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=514 end=485394 loop_mode=loop_sustain loop_start=200063 loop_end=377322 sample=../UNAudio/Overused/Overused-43-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=808 end=485678 loop_mode=loop_sustain loop_start=200371 loop_end=377622 sample=../UNAudio/Overused/Overused-43-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=471 end=485386 loop_mode=loop_sustain loop_start=22867 loop_end=200042 sample=../UNAudio/Overused/Overused-43-127.aif
+<group> key=44 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=435 end=485034 loop_mode=loop_sustain loop_start=199984 loop_end=377219 sample=../UNAudio/Overused/Overused-44-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=477 end=485050 loop_mode=loop_sustain loop_start=200957 loop_end=378196 sample=../UNAudio/Overused/Overused-44-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=431 end=485271 loop_mode=loop_sustain loop_start=199910 loop_end=377125 sample=../UNAudio/Overused/Overused-44-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=850 end=485723 loop_mode=loop_sustain loop_start=6415 loop_end=184052 sample=../UNAudio/Overused/Overused-44-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=768 end=485675 loop_mode=loop_sustain loop_start=200154 loop_end=377385 sample=../UNAudio/Overused/Overused-44-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=759 end=485627 loop_mode=loop_sustain loop_start=50611 loop_end=227794 sample=../UNAudio/Overused/Overused-44-127.aif
+<group> key=45 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=675 end=485555 loop_mode=loop_sustain loop_start=200231 loop_end=377458 sample=../UNAudio/Overused/Overused-45-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=440 loop_mode=loop_sustain loop_start=199954 loop_end=377185 sample=../UNAudio/Overused/Overused-45-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=483 end=485395 loop_mode=loop_sustain loop_start=200993 loop_end=378264 sample=../UNAudio/Overused/Overused-45-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=638 loop_mode=loop_sustain loop_start=200002 loop_end=377233 sample=../UNAudio/Overused/Overused-45-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=656 loop_mode=loop_sustain loop_start=200000 loop_end=377223 sample=../UNAudio/Overused/Overused-45-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=547 end=485447 loop_mode=loop_sustain loop_start=199910 loop_end=377149 sample=../UNAudio/Overused/Overused-45-127.aif
+<group> key=46 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=659 end=485196 loop_mode=loop_sustain loop_start=200186 loop_end=377433 sample=../UNAudio/Overused/Overused-46-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=880 loop_mode=loop_sustain loop_start=112274 loop_end=289533 sample=../UNAudio/Overused/Overused-46-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=723 end=485578 loop_mode=loop_sustain loop_start=6670 loop_end=183852 sample=../UNAudio/Overused/Overused-46-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=861 end=485762 loop_mode=loop_sustain loop_start=61777 loop_end=238984 sample=../UNAudio/Overused/Overused-46-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=536 loop_mode=loop_sustain loop_start=200274 loop_end=377501 sample=../UNAudio/Overused/Overused-46-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=811 end=485718 loop_mode=loop_sustain loop_start=200356 loop_end=377615 sample=../UNAudio/Overused/Overused-46-127.aif
+<group> key=47 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=719 loop_mode=loop_sustain loop_start=61988 loop_end=239231 sample=../UNAudio/Overused/Overused-47-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=600 end=485380 loop_mode=loop_sustain loop_start=200121 loop_end=377340 sample=../UNAudio/Overused/Overused-47-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=463 loop_mode=loop_sustain loop_start=199970 loop_end=377225 sample=../UNAudio/Overused/Overused-47-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=709 end=485555 loop_mode=loop_sustain loop_start=200013 loop_end=377256 sample=../UNAudio/Overused/Overused-47-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=700 loop_mode=loop_sustain loop_start=200072 loop_end=377295 sample=../UNAudio/Overused/Overused-47-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=591 end=485483 loop_mode=loop_sustain loop_start=39711 loop_end=216966 sample=../UNAudio/Overused/Overused-47-127.aif
+<group> key=48 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=923 loop_mode=loop_sustain loop_start=62237 loop_end=239428 sample=../UNAudio/Overused/Overused-48-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=628 loop_mode=loop_sustain loop_start=200119 loop_end=377362 sample=../UNAudio/Overused/Overused-48-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=855 end=485747 loop_mode=loop_sustain loop_start=201085 loop_end=378360 sample=../UNAudio/Overused/Overused-48-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=897 loop_mode=loop_sustain loop_start=200406 loop_end=377661 sample=../UNAudio/Overused/Overused-48-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=876 end=485747 loop_mode=loop_sustain loop_start=200382 loop_end=377605 sample=../UNAudio/Overused/Overused-48-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=447 loop_mode=loop_sustain loop_start=199990 loop_end=377233 sample=../UNAudio/Overused/Overused-48-127.aif
+<group> key=49 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=763 loop_mode=loop_sustain loop_start=200154 loop_end=377421 sample=../UNAudio/Overused/Overused-49-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=908 end=485538 loop_mode=loop_sustain loop_start=200333 loop_end=377560 sample=../UNAudio/Overused/Overused-49-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=623 loop_mode=loop_sustain loop_start=199966 loop_end=377189 sample=../UNAudio/Overused/Overused-49-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=605 loop_mode=loop_sustain loop_start=199940 loop_end=377159 sample=../UNAudio/Overused/Overused-49-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=468 loop_mode=loop_sustain loop_start=217482 loop_end=394681 sample=../UNAudio/Overused/Overused-49-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=691 end=485598 loop_mode=loop_sustain loop_start=200068 loop_end=377327 sample=../UNAudio/Overused/Overused-49-127.aif
+<group> key=50 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=671 end=485472 loop_mode=loop_sustain loop_start=200181 loop_end=377424 sample=../UNAudio/Overused/Overused-50-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=920 loop_mode=loop_sustain loop_start=200382 loop_end=377633 sample=../UNAudio/Overused/Overused-50-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=938 loop_mode=loop_sustain loop_start=200423 loop_end=377650 sample=../UNAudio/Overused/Overused-50-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=437 end=485307 loop_mode=loop_sustain loop_start=199910 loop_end=377173 sample=../UNAudio/Overused/Overused-50-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=484 end=485347 loop_mode=loop_sustain loop_start=199966 loop_end=377181 sample=../UNAudio/Overused/Overused-50-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=911 end=485807 loop_mode=loop_sustain loop_start=200398 loop_end=377669 sample=../UNAudio/Overused/Overused-50-127.aif
+<group> key=51 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=571 loop_mode=loop_sustain loop_start=200123 loop_end=377362 sample=../UNAudio/Overused/Overused-51-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=523 end=485418 loop_mode=loop_sustain loop_start=199960 loop_end=377199 sample=../UNAudio/Overused/Overused-51-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=630 loop_mode=loop_sustain loop_start=200215 loop_end=377458 sample=../UNAudio/Overused/Overused-51-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=693 end=485590 loop_mode=loop_sustain loop_start=200080 loop_end=377299 sample=../UNAudio/Overused/Overused-51-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=752 loop_mode=loop_sustain loop_start=200098 loop_end=377325 sample=../UNAudio/Overused/Overused-51-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=867 loop_mode=loop_sustain loop_start=200653 loop_end=377924 sample=../UNAudio/Overused/Overused-51-127.aif
+<group> key=52 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=719 end=485570 loop_mode=loop_sustain loop_start=200074 loop_end=377333 sample=../UNAudio/Overused/Overused-52-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=615 end=485462 loop_mode=loop_sustain loop_start=22880 loop_end=200043 sample=../UNAudio/Overused/Overused-52-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=770 end=485670 loop_mode=loop_sustain loop_start=200241 loop_end=377484 sample=../UNAudio/Overused/Overused-52-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=761 loop_mode=loop_sustain loop_start=200220 loop_end=377487 sample=../UNAudio/Overused/Overused-52-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=799 loop_mode=loop_sustain loop_start=56174 loop_end=234618 sample=../UNAudio/Overused/Overused-52-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=931 end=485802 loop_mode=loop_sustain loop_start=200400 loop_end=377671 sample=../UNAudio/Overused/Overused-52-127.aif
+<group> key=53 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=543 end=485463 loop_mode=loop_sustain loop_start=50634 loop_end=227849 sample=../UNAudio/Overused/Overused-53-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=603 end=485467 loop_mode=loop_sustain loop_start=200080 loop_end=377287 sample=../UNAudio/Overused/Overused-53-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=522 end=485403 loop_mode=loop_sustain loop_start=199904 loop_end=377147 sample=../UNAudio/Overused/Overused-53-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=653 end=485523 loop_mode=loop_sustain loop_start=61555 loop_end=238774 sample=../UNAudio/Overused/Overused-53-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=431 loop_mode=loop_sustain loop_start=199820 loop_end=377051 sample=../UNAudio/Overused/Overused-53-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=463 loop_mode=loop_sustain loop_start=6423 loop_end=183630 sample=../UNAudio/Overused/Overused-53-127.aif
+<group> key=54 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=875 end=485495 loop_mode=loop_sustain loop_start=62140 loop_end=239335 sample=../UNAudio/Overused/Overused-54-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=459 end=485043 loop_mode=loop_sustain loop_start=199944 loop_end=377199 sample=../UNAudio/Overused/Overused-54-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=570 end=485462 loop_mode=loop_sustain loop_start=200170 loop_end=377389 sample=../UNAudio/Overused/Overused-54-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=829 end=485742 loop_mode=loop_sustain loop_start=50668 loop_end=227899 sample=../UNAudio/Overused/Overused-54-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=835 end=485710 loop_mode=loop_sustain loop_start=200945 loop_end=377669 sample=../UNAudio/Overused/Overused-54-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=855 end=485750 loop_mode=loop_sustain loop_start=62030 loop_end=239217 sample=../UNAudio/Overused/Overused-54-127.aif
+<group> key=55 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=591 end=485503 loop_mode=loop_sustain loop_start=200048 loop_end=377291 sample=../UNAudio/Overused/Overused-55-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=719 loop_mode=loop_sustain loop_start=201368 loop_end=378414 sample=../UNAudio/Overused/Overused-55-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=818 end=485707 loop_mode=loop_sustain loop_start=200250 loop_end=377485 sample=../UNAudio/Overused/Overused-55-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=756 end=485651 loop_mode=loop_sustain loop_start=200102 loop_end=377353 sample=../UNAudio/Overused/Overused-55-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=583 end=485443 loop_mode=loop_sustain loop_start=67044 loop_end=244207 sample=../UNAudio/Overused/Overused-55-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=715 end=485595 loop_mode=loop_sustain loop_start=200075 loop_end=377330 sample=../UNAudio/Overused/Overused-55-127.aif
+<group> key=56 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=587 end=485160 loop_mode=loop_sustain loop_start=200114 loop_end=377393 sample=../UNAudio/Overused/Overused-56-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=627 end=485228 loop_mode=loop_sustain loop_start=200172 loop_end=377427 sample=../UNAudio/Overused/Overused-56-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=410 end=485270 loop_mode=loop_sustain loop_start=61709 loop_end=238896 sample=../UNAudio/Overused/Overused-56-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=584 end=485466 loop_mode=loop_sustain loop_start=145458 loop_end=322681 sample=../UNAudio/Overused/Overused-56-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=607 end=485498 loop_mode=loop_sustain loop_start=199973 loop_end=377192 sample=../UNAudio/Overused/Overused-56-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=459 end=485366 loop_mode=loop_sustain loop_start=61430 loop_end=238605 sample=../UNAudio/Overused/Overused-56-127.aif
+<group> key=57 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=695 loop_mode=loop_sustain loop_start=200222 loop_end=377485 sample=../UNAudio/Overused/Overused-57-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=415 end=485279 loop_mode=loop_sustain loop_start=50339 loop_end=227522 sample=../UNAudio/Overused/Overused-57-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=910 loop_mode=loop_sustain loop_start=200393 loop_end=377648 sample=../UNAudio/Overused/Overused-57-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=780 end=485627 loop_mode=loop_sustain loop_start=200285 loop_end=377524 sample=../UNAudio/Overused/Overused-57-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=687 loop_mode=loop_sustain loop_start=200209 loop_end=377452 sample=../UNAudio/Overused/Overused-57-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=527 end=485411 loop_mode=loop_sustain loop_start=50468 loop_end=227647 sample=../UNAudio/Overused/Overused-57-127.aif
+<group> key=58 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=839 end=485370 loop_mode=loop_sustain loop_start=200247 loop_end=377518 sample=../UNAudio/Overused/Overused-58-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=654 end=485506 loop_mode=loop_sustain loop_start=200056 loop_end=377319 sample=../UNAudio/Overused/Overused-58-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=546 end=485455 loop_mode=loop_sustain loop_start=199966 loop_end=377229 sample=../UNAudio/Overused/Overused-58-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=548 end=485426 loop_mode=loop_sustain loop_start=199953 loop_end=377244 sample=../UNAudio/Overused/Overused-58-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=695 loop_mode=loop_sustain loop_start=200101 loop_end=377356 sample=../UNAudio/Overused/Overused-58-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=863 end=485754 loop_mode=loop_sustain loop_start=200293 loop_end=377544 sample=../UNAudio/Overused/Overused-58-127.aif
+<group> key=59 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=691 end=485527 loop_mode=loop_sustain loop_start=200105 loop_end=377328 sample=../UNAudio/Overused/Overused-59-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=742 end=485566 loop_mode=loop_sustain loop_start=200166 loop_end=377417 sample=../UNAudio/Overused/Overused-59-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=614 loop_mode=loop_sustain loop_start=199949 loop_end=377216 sample=../UNAudio/Overused/Overused-59-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=836 loop_mode=loop_sustain loop_start=6614 loop_end=183833 sample=../UNAudio/Overused/Overused-59-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=891 end=485750 loop_mode=loop_sustain loop_start=50808 loop_end=228019 sample=../UNAudio/Overused/Overused-59-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=723 end=485618 loop_mode=loop_sustain loop_start=61676 loop_end=238875 sample=../UNAudio/Overused/Overused-59-127.aif
+<group> key=60 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=499 end=485395 loop_mode=loop_sustain loop_start=199949 loop_end=377184 sample=../UNAudio/Overused/Overused-60-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=734 end=485611 loop_mode=loop_sustain loop_start=200120 loop_end=377327 sample=../UNAudio/Overused/Overused-60-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=478 end=485371 loop_mode=loop_sustain loop_start=199874 loop_end=377137 sample=../UNAudio/Overused/Overused-60-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=464 loop_mode=loop_sustain loop_start=199942 loop_end=377201 sample=../UNAudio/Overused/Overused-60-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=495 end=485379 loop_mode=loop_sustain loop_start=199871 loop_end=377090 sample=../UNAudio/Overused/Overused-60-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=927 end=485815 loop_mode=loop_sustain loop_start=200522 loop_end=377737 sample=../UNAudio/Overused/Overused-60-127.aif
+<group> key=61 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=791 loop_mode=loop_sustain loop_start=50893 loop_end=228068 sample=../UNAudio/Overused/Overused-61-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=414 loop_mode=loop_sustain loop_start=200000 loop_end=377219 sample=../UNAudio/Overused/Overused-61-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=514 loop_mode=loop_sustain loop_start=199860 loop_end=377095 sample=../UNAudio/Overused/Overused-61-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=572 loop_mode=loop_sustain loop_start=39372 loop_end=216599 sample=../UNAudio/Overused/Overused-61-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=743 loop_mode=loop_sustain loop_start=200302 loop_end=377541 sample=../UNAudio/Overused/Overused-61-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=715 loop_mode=loop_sustain loop_start=200200 loop_end=377479 sample=../UNAudio/Overused/Overused-61-127.aif
+<group> key=62 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=459 end=485266 loop_mode=loop_sustain loop_start=199953 loop_end=377204 sample=../UNAudio/Overused/Overused-62-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=650 end=485458 loop_mode=loop_sustain loop_start=50721 loop_end=227908 sample=../UNAudio/Overused/Overused-62-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=449 end=485334 loop_mode=loop_sustain loop_start=199808 loop_end=377043 sample=../UNAudio/Overused/Overused-62-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=764 end=485642 loop_mode=loop_sustain loop_start=200336 loop_end=377559 sample=../UNAudio/Overused/Overused-62-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=539 loop_mode=loop_sustain loop_start=200038 loop_end=377285 sample=../UNAudio/Overused/Overused-62-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=507 end=485406 loop_mode=loop_sustain loop_start=66978 loop_end=244181 sample=../UNAudio/Overused/Overused-62-127.aif
+<group> key=63 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=847 end=485727 loop_mode=loop_sustain loop_start=200401 loop_end=377624 sample=../UNAudio/Overused/Overused-63-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=466 end=485331 loop_mode=loop_sustain loop_start=50444 loop_end=227623 sample=../UNAudio/Overused/Overused-63-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=669 end=485538 loop_mode=loop_sustain loop_start=50601 loop_end=227800 sample=../UNAudio/Overused/Overused-63-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=512 end=485382 loop_mode=loop_sustain loop_start=199989 loop_end=377244 sample=../UNAudio/Overused/Overused-63-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=819 loop_mode=loop_sustain loop_start=200273 loop_end=377532 sample=../UNAudio/Overused/Overused-63-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=631 loop_mode=loop_sustain loop_start=67080 loop_end=244263 sample=../UNAudio/Overused/Overused-63-127.aif
+<group> key=64 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=843 loop_mode=loop_sustain loop_start=200380 loop_end=377611 sample=../UNAudio/Overused/Overused-64-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=806 end=485679 loop_mode=loop_sustain loop_start=200165 loop_end=377412 sample=../UNAudio/Overused/Overused-64-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=881 loop_mode=loop_sustain loop_start=200417 loop_end=377636 sample=../UNAudio/Overused/Overused-64-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=592 loop_mode=loop_sustain loop_start=211358 loop_end=388573 sample=../UNAudio/Overused/Overused-64-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=487 loop_mode=loop_sustain loop_start=144579 loop_end=321762 sample=../UNAudio/Overused/Overused-64-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=575 loop_mode=loop_sustain loop_start=200121 loop_end=377348 sample=../UNAudio/Overused/Overused-64-127.aif
+<group> key=65 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=411 loop_mode=loop_sustain loop_start=199803 loop_end=377034 sample=../UNAudio/Overused/Overused-65-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=878 loop_mode=loop_sustain loop_start=67401 loop_end=244584 sample=../UNAudio/Overused/Overused-65-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=825 end=485715 loop_mode=loop_sustain loop_start=200352 loop_end=377591 sample=../UNAudio/Overused/Overused-65-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=608 end=485527 loop_mode=loop_sustain loop_start=200164 loop_end=377379 sample=../UNAudio/Overused/Overused-65-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=623 end=485487 loop_mode=loop_sustain loop_start=200140 loop_end=377375 sample=../UNAudio/Overused/Overused-65-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=591 end=485467 loop_mode=loop_sustain loop_start=200116 loop_end=377367 sample=../UNAudio/Overused/Overused-65-127.aif
+<group> key=66 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=711 end=485319 loop_mode=loop_sustain loop_start=200115 loop_end=377350 sample=../UNAudio/Overused/Overused-66-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=706 loop_mode=loop_sustain loop_start=200121 loop_end=377336 sample=../UNAudio/Overused/Overused-66-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=509 end=485383 loop_mode=loop_sustain loop_start=61832 loop_end=239003 sample=../UNAudio/Overused/Overused-66-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=612 end=485511 loop_mode=loop_sustain loop_start=200011 loop_end=377258 sample=../UNAudio/Overused/Overused-66-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=787 end=485683 loop_mode=loop_sustain loop_start=61930 loop_end=239137 sample=../UNAudio/Overused/Overused-66-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=515 end=485395 loop_mode=loop_sustain loop_start=199871 loop_end=377134 sample=../UNAudio/Overused/Overused-66-127.aif
+<group> key=67 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=719 end=485324 loop_mode=loop_sustain loop_start=67219 loop_end=244394 sample=../UNAudio/Overused/Overused-67-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=842 end=485431 loop_mode=loop_sustain loop_start=200225 loop_end=377492 sample=../UNAudio/Overused/Overused-67-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=641 end=485483 loop_mode=loop_sustain loop_start=200069 loop_end=377312 sample=../UNAudio/Overused/Overused-67-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=788 end=485683 loop_mode=loop_sustain loop_start=200204 loop_end=377415 sample=../UNAudio/Overused/Overused-67-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=803 end=485719 loop_mode=loop_sustain loop_start=200265 loop_end=377504 sample=../UNAudio/Overused/Overused-67-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=515 loop_mode=loop_sustain loop_start=144526 loop_end=321729 sample=../UNAudio/Overused/Overused-67-127.aif
+<group> key=68 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=803 loop_mode=loop_sustain loop_start=200175 loop_end=377430 sample=../UNAudio/Overused/Overused-68-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=726 end=485619 loop_mode=loop_sustain loop_start=200102 loop_end=377357 sample=../UNAudio/Overused/Overused-68-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=925 end=485803 loop_mode=loop_sustain loop_start=200408 loop_end=377639 sample=../UNAudio/Overused/Overused-68-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=440 end=485323 loop_mode=loop_sustain loop_start=50338 loop_end=227569 sample=../UNAudio/Overused/Overused-68-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=599 end=485499 loop_mode=loop_sustain loop_start=50542 loop_end=227737 sample=../UNAudio/Overused/Overused-68-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=587 end=485499 loop_mode=loop_sustain loop_start=67100 loop_end=244283 sample=../UNAudio/Overused/Overused-68-127.aif
+<group> key=69 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=639 loop_mode=loop_sustain loop_start=200016 loop_end=377279 sample=../UNAudio/Overused/Overused-69-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=566 end=485447 loop_mode=loop_sustain loop_start=199906 loop_end=377145 sample=../UNAudio/Overused/Overused-69-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=545 end=485435 loop_mode=loop_sustain loop_start=66989 loop_end=244224 sample=../UNAudio/Overused/Overused-69-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=620 end=485479 loop_mode=loop_sustain loop_start=39424 loop_end=216647 sample=../UNAudio/Overused/Overused-69-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=811 loop_mode=loop_sustain loop_start=200353 loop_end=377596 sample=../UNAudio/Overused/Overused-69-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=639 loop_mode=loop_sustain loop_start=200005 loop_end=377244 sample=../UNAudio/Overused/Overused-69-127.aif
+<group> key=70 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=571 loop_mode=loop_sustain loop_start=199949 loop_end=377212 sample=../UNAudio/Overused/Overused-70-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=842 end=485747 loop_mode=loop_sustain loop_start=200239 loop_end=377486 sample=../UNAudio/Overused/Overused-70-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=861 end=485755 loop_mode=loop_sustain loop_start=145110 loop_end=322281 sample=../UNAudio/Overused/Overused-70-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=620 end=485539 loop_mode=loop_sustain loop_start=200141 loop_end=377348 sample=../UNAudio/Overused/Overused-70-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=787 end=485647 loop_mode=loop_sustain loop_start=50745 loop_end=227841 sample=../UNAudio/Overused/Overused-70-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=459 end=485378 loop_mode=loop_sustain loop_start=144675 loop_end=321878 sample=../UNAudio/Overused/Overused-70-127.aif
+<group> key=71 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=875 end=485692 loop_mode=loop_sustain loop_start=67321 loop_end=244532 sample=../UNAudio/Overused/Overused-71-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=553 end=485422 loop_mode=loop_sustain loop_start=50412 loop_end=227599 sample=../UNAudio/Overused/Overused-71-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=853 end=485722 loop_mode=loop_sustain loop_start=61756 loop_end=238951 sample=../UNAudio/Overused/Overused-71-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=868 end=485762 loop_mode=loop_sustain loop_start=56974 loop_end=234237 sample=../UNAudio/Overused/Overused-71-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=603 end=485466 loop_mode=loop_sustain loop_start=199983 loop_end=377206 sample=../UNAudio/Overused/Overused-71-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=683 end=485570 loop_mode=loop_sustain loop_start=200059 loop_end=377286 sample=../UNAudio/Overused/Overused-71-127.aif
+<group> key=72 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=431 loop_mode=loop_sustain loop_start=50572 loop_end=227751 sample=../UNAudio/Overused/Overused-72-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=693 end=485571 loop_mode=loop_sustain loop_start=50625 loop_end=227820 sample=../UNAudio/Overused/Overused-72-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=632 loop_mode=loop_sustain loop_start=67088 loop_end=244283 sample=../UNAudio/Overused/Overused-72-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=823 loop_mode=loop_sustain loop_start=200358 loop_end=377573 sample=../UNAudio/Overused/Overused-72-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=635 end=485515 loop_mode=loop_sustain loop_start=200104 loop_end=377335 sample=../UNAudio/Overused/Overused-72-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=851 loop_mode=loop_sustain loop_start=200216 loop_end=377435 sample=../UNAudio/Overused/Overused-72-127.aif
+<group> key=73 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=839 end=485387 loop_mode=loop_sustain loop_start=67295 loop_end=244478 sample=../UNAudio/Overused/Overused-73-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=889 loop_mode=loop_sustain loop_start=200243 loop_end=377478 sample=../UNAudio/Overused/Overused-73-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=728 loop_mode=loop_sustain loop_start=200212 loop_end=377427 sample=../UNAudio/Overused/Overused-73-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=819 loop_mode=loop_sustain loop_start=200292 loop_end=377539 sample=../UNAudio/Overused/Overused-73-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=787 loop_mode=loop_sustain loop_start=39568 loop_end=216799 sample=../UNAudio/Overused/Overused-73-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=391 end=485299 loop_mode=loop_sustain loop_start=210990 loop_end=388177 sample=../UNAudio/Overused/Overused-73-127.aif
+<group> key=74 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=631 end=485413 loop_mode=loop_sustain loop_start=199997 loop_end=377264 sample=../UNAudio/Overused/Overused-74-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=801 loop_mode=loop_sustain loop_start=200177 loop_end=377424 sample=../UNAudio/Overused/Overused-74-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=596 end=485478 loop_mode=loop_sustain loop_start=200012 loop_end=377243 sample=../UNAudio/Overused/Overused-74-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=835 loop_mode=loop_sustain loop_start=200297 loop_end=377524 sample=../UNAudio/Overused/Overused-74-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=783 loop_mode=loop_sustain loop_start=200217 loop_end=377448 sample=../UNAudio/Overused/Overused-74-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=723 end=485603 loop_mode=loop_sustain loop_start=39474 loop_end=216725 sample=../UNAudio/Overused/Overused-74-127.aif
+<group> key=75 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=827 loop_mode=loop_sustain loop_start=200304 loop_end=377519 sample=../UNAudio/Overused/Overused-75-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=497 end=485394 loop_mode=loop_sustain loop_start=199874 loop_end=377101 sample=../UNAudio/Overused/Overused-75-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=508 end=485363 loop_mode=loop_sustain loop_start=199965 loop_end=377204 sample=../UNAudio/Overused/Overused-75-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=763 end=485678 loop_mode=loop_sustain loop_start=144903 loop_end=322134 sample=../UNAudio/Overused/Overused-75-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=859 end=485770 loop_mode=loop_sustain loop_start=144907 loop_end=322126 sample=../UNAudio/Overused/Overused-75-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=887 end=485770 loop_mode=loop_sustain loop_start=211306 loop_end=388545 sample=../UNAudio/Overused/Overused-75-127.aif
+<group> key=76 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=591 loop_mode=loop_sustain loop_start=199928 loop_end=377187 sample=../UNAudio/Overused/Overused-76-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=541 end=485387 loop_mode=loop_sustain loop_start=199899 loop_end=377134 sample=../UNAudio/Overused/Overused-76-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=448 end=485347 loop_mode=loop_sustain loop_start=144766 loop_end=321933 sample=../UNAudio/Overused/Overused-76-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=715 end=485591 loop_mode=loop_sustain loop_start=200289 loop_end=377504 sample=../UNAudio/Overused/Overused-76-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=639 loop_mode=loop_sustain loop_start=11764 loop_end=189003 sample=../UNAudio/Overused/Overused-76-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=823 end=485735 loop_mode=loop_sustain loop_start=67327 loop_end=244510 sample=../UNAudio/Overused/Overused-76-127.aif
+<group> key=77 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=791 loop_mode=loop_sustain loop_start=200170 loop_end=377405 sample=../UNAudio/Overused/Overused-77-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=601 loop_mode=loop_sustain loop_start=199949 loop_end=377192 sample=../UNAudio/Overused/Overused-77-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=564 loop_mode=loop_sustain loop_start=216563 loop_end=393774 sample=../UNAudio/Overused/Overused-77-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=627 end=485486 loop_mode=loop_sustain loop_start=50699 loop_end=227870 sample=../UNAudio/Overused/Overused-77-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=543 end=485435 loop_mode=loop_sustain loop_start=61717 loop_end=238928 sample=../UNAudio/Overused/Overused-77-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=495 end=485367 loop_mode=loop_sustain loop_start=199933 loop_end=377160 sample=../UNAudio/Overused/Overused-77-127.aif
+<group> key=78 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=835 end=485729 loop_mode=loop_sustain loop_start=200220 loop_end=377451 sample=../UNAudio/Overused/Overused-78-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=541 end=485446 loop_mode=loop_sustain loop_start=199899 loop_end=377134 sample=../UNAudio/Overused/Overused-78-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=808 end=485674 loop_mode=loop_sustain loop_start=50918 loop_end=228105 sample=../UNAudio/Overused/Overused-78-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=915 end=485826 loop_mode=loop_sustain loop_start=200437 loop_end=377700 sample=../UNAudio/Overused/Overused-78-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=847 loop_mode=loop_sustain loop_start=200333 loop_end=377604 sample=../UNAudio/Overused/Overused-78-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=607 end=485502 loop_mode=loop_sustain loop_start=200011 loop_end=377266 sample=../UNAudio/Overused/Overused-78-127.aif
+<group> key=79 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=519 end=485107 loop_mode=loop_sustain loop_start=199882 loop_end=377101 sample=../UNAudio/Overused/Overused-79-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=469 end=485342 loop_mode=loop_sustain loop_start=50381 loop_end=227568 sample=../UNAudio/Overused/Overused-79-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=876 loop_mode=loop_sustain loop_start=200213 loop_end=377452 sample=../UNAudio/Overused/Overused-79-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=863 loop_mode=loop_sustain loop_start=200333 loop_end=377580 sample=../UNAudio/Overused/Overused-79-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=839 end=485698 loop_mode=loop_sustain loop_start=200326 loop_end=377601 sample=../UNAudio/Overused/Overused-79-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=783 loop_mode=loop_sustain loop_start=50701 loop_end=227904 sample=../UNAudio/Overused/Overused-79-127.aif
+<group> key=80 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=559 end=485442 loop_mode=loop_sustain loop_start=50432 loop_end=227611 sample=../UNAudio/Overused/Overused-80-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=861 loop_mode=loop_sustain loop_start=62261 loop_end=239436 sample=../UNAudio/Overused/Overused-80-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=864 end=485763 loop_mode=loop_sustain loop_start=39644 loop_end=216911 sample=../UNAudio/Overused/Overused-80-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=787 end=485687 loop_mode=loop_sustain loop_start=200213 loop_end=377420 sample=../UNAudio/Overused/Overused-80-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=891 end=485758 loop_mode=loop_sustain loop_start=39704 loop_end=216923 sample=../UNAudio/Overused/Overused-80-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=879 end=485750 loop_mode=loop_sustain loop_start=39686 loop_end=216941 sample=../UNAudio/Overused/Overused-80-127.aif
+<group> key=81 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=595 end=485491 loop_mode=loop_sustain loop_start=67043 loop_end=244246 sample=../UNAudio/Overused/Overused-81-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=616 loop_mode=loop_sustain loop_start=39406 loop_end=216625 sample=../UNAudio/Overused/Overused-81-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=784 end=485646 loop_mode=loop_sustain loop_start=78515 loop_end=255690 sample=../UNAudio/Overused/Overused-81-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=571 loop_mode=loop_sustain loop_start=144723 loop_end=321906 sample=../UNAudio/Overused/Overused-81-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=651 end=485531 loop_mode=loop_sustain loop_start=216633 loop_end=393856 sample=../UNAudio/Overused/Overused-81-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=671 end=485559 loop_mode=loop_sustain loop_start=200045 loop_end=377288 sample=../UNAudio/Overused/Overused-81-127.aif
+<group> key=82 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=683 end=485579 loop_mode=loop_sustain loop_start=200025 loop_end=377260 sample=../UNAudio/Overused/Overused-82-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=568 loop_mode=loop_sustain loop_start=39315 loop_end=216566 sample=../UNAudio/Overused/Overused-82-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=816 end=485671 loop_mode=loop_sustain loop_start=200225 loop_end=377476 sample=../UNAudio/Overused/Overused-82-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=727 end=485611 loop_mode=loop_sustain loop_start=145013 loop_end=322232 sample=../UNAudio/Overused/Overused-82-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=803 end=485655 loop_mode=loop_sustain loop_start=200301 loop_end=377512 sample=../UNAudio/Overused/Overused-82-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=563 end=485479 loop_mode=loop_sustain loop_start=39366 loop_end=216609 sample=../UNAudio/Overused/Overused-82-127.aif
+<group> key=83 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=659 loop_mode=loop_sustain loop_start=199988 loop_end=377267 sample=../UNAudio/Overused/Overused-83-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=900 end=485791 loop_mode=loop_sustain loop_start=39676 loop_end=216895 sample=../UNAudio/Overused/Overused-83-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=456 end=485355 loop_mode=loop_sustain loop_start=199907 loop_end=377118 sample=../UNAudio/Overused/Overused-83-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=883 loop_mode=loop_sustain loop_start=211338 loop_end=388565 sample=../UNAudio/Overused/Overused-83-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=771 end=485618 loop_mode=loop_sustain loop_start=200184 loop_end=377439 sample=../UNAudio/Overused/Overused-83-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=691 end=485562 loop_mode=loop_sustain loop_start=144879 loop_end=322074 sample=../UNAudio/Overused/Overused-83-127.aif
+<group> key=84 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=799 end=485686 loop_mode=loop_sustain loop_start=200157 loop_end=377396 sample=../UNAudio/Overused/Overused-84-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=840 end=485733 loop_mode=loop_sustain loop_start=200204 loop_end=377427 sample=../UNAudio/Overused/Overused-84-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=508 loop_mode=loop_sustain loop_start=199912 loop_end=377115 sample=../UNAudio/Overused/Overused-84-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=475 end=485366 loop_mode=loop_sustain loop_start=56351 loop_end=233626 sample=../UNAudio/Overused/Overused-84-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=543 end=485438 loop_mode=loop_sustain loop_start=211387 loop_end=388251 sample=../UNAudio/Overused/Overused-84-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=427 loop_mode=loop_sustain loop_start=11540 loop_end=188775 sample=../UNAudio/Overused/Overused-84-127.aif
+<group> key=85 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=547 loop_mode=loop_sustain loop_start=61908 loop_end=239095 sample=../UNAudio/Overused/Overused-85-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=884 loop_mode=loop_sustain loop_start=39643 loop_end=216882 sample=../UNAudio/Overused/Overused-85-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=640 end=485550 loop_mode=loop_sustain loop_start=144910 loop_end=322133 sample=../UNAudio/Overused/Overused-85-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=671 loop_mode=loop_sustain loop_start=78342 loop_end=255557 sample=../UNAudio/Overused/Overused-85-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=691 loop_mode=loop_sustain loop_start=144876 loop_end=322095 sample=../UNAudio/Overused/Overused-85-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=799 end=485703 loop_mode=loop_sustain loop_start=200355 loop_end=377602 sample=../UNAudio/Overused/Overused-85-127.aif
+<group> key=86 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=603 end=485483 loop_mode=loop_sustain loop_start=50709 loop_end=227920 sample=../UNAudio/Overused/Overused-86-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=736 end=485606 loop_mode=loop_sustain loop_start=200132 loop_end=377355 sample=../UNAudio/Overused/Overused-86-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=896 end=485755 loop_mode=loop_sustain loop_start=39667 loop_end=216890 sample=../UNAudio/Overused/Overused-86-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=571 end=485463 loop_mode=loop_sustain loop_start=78244 loop_end=255463 sample=../UNAudio/Overused/Overused-86-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=715 end=485583 loop_mode=loop_sustain loop_start=11877 loop_end=189100 sample=../UNAudio/Overused/Overused-86-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=827 end=485675 loop_mode=loop_sustain loop_start=78537 loop_end=255704 sample=../UNAudio/Overused/Overused-86-127.aif
+<group> key=87 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=839 loop_mode=loop_sustain loop_start=216838 loop_end=394057 sample=../UNAudio/Overused/Overused-87-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=900 end=485771 loop_mode=loop_sustain loop_start=39654 loop_end=216905 sample=../UNAudio/Overused/Overused-87-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=444 loop_mode=loop_sustain loop_start=144583 loop_end=321790 sample=../UNAudio/Overused/Overused-87-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=691 end=485562 loop_mode=loop_sustain loop_start=200206 loop_end=377425 sample=../UNAudio/Overused/Overused-87-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=607 loop_mode=loop_sustain loop_start=144645 loop_end=321852 sample=../UNAudio/Overused/Overused-87-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=467 end=485343 loop_mode=loop_sustain loop_start=200072 loop_end=377287 sample=../UNAudio/Overused/Overused-87-127.aif
+<group> key=88 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=883 end=485802 loop_mode=loop_sustain loop_start=39652 loop_end=216903 sample=../UNAudio/Overused/Overused-88-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=584 end=485442 loop_mode=loop_sustain loop_start=216579 loop_end=393762 sample=../UNAudio/Overused/Overused-88-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=508 end=485398 loop_mode=loop_sustain loop_start=11589 loop_end=188868 sample=../UNAudio/Overused/Overused-88-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=503 end=485370 loop_mode=loop_sustain loop_start=39239 loop_end=216482 sample=../UNAudio/Overused/Overused-88-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=559 end=485442 loop_mode=loop_sustain loop_start=199937 loop_end=377144 sample=../UNAudio/Overused/Overused-88-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=751 end=485614 loop_mode=loop_sustain loop_start=189109 loop_end=366264 sample=../UNAudio/Overused/Overused-88-127.aif
+<group> key=89 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=755 end=485623 loop_mode=loop_sustain loop_start=50869 loop_end=228040 sample=../UNAudio/Overused/Overused-89-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=504 loop_mode=loop_sustain loop_start=216505 loop_end=393704 sample=../UNAudio/Overused/Overused-89-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=635 end=485527 loop_mode=loop_sustain loop_start=39381 loop_end=216644 sample=../UNAudio/Overused/Overused-89-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=795 end=485699 loop_mode=loop_sustain loop_start=144978 loop_end=322173 sample=../UNAudio/Overused/Overused-89-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=799 end=485687 loop_mode=loop_sustain loop_start=61775 loop_end=238950 sample=../UNAudio/Overused/Overused-89-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=463 end=485347 loop_mode=loop_sustain loop_start=216511 loop_end=393654 sample=../UNAudio/Overused/Overused-89-127.aif
+<group> key=90 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=683 end=485559 loop_mode=loop_sustain loop_start=200136 loop_end=377375 sample=../UNAudio/Overused/Overused-90-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=688 loop_mode=loop_sustain loop_start=39467 loop_end=216666 sample=../UNAudio/Overused/Overused-90-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=499 loop_mode=loop_sustain loop_start=11581 loop_end=188812 sample=../UNAudio/Overused/Overused-90-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=655 end=485502 loop_mode=loop_sustain loop_start=188965 loop_end=366144 sample=../UNAudio/Overused/Overused-90-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=635 end=485535 loop_mode=loop_sustain loop_start=11766 loop_end=189013 sample=../UNAudio/Overused/Overused-90-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=615 end=485511 loop_mode=loop_sustain loop_start=144645 loop_end=321844 sample=../UNAudio/Overused/Overused-90-127.aif
+<group> key=91 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=523 end=485362 loop_mode=loop_sustain loop_start=39266 loop_end=216497 sample=../UNAudio/Overused/Overused-91-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=596 loop_mode=loop_sustain loop_start=61970 loop_end=239169 sample=../UNAudio/Overused/Overused-91-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=595 end=485487 loop_mode=loop_sustain loop_start=39392 loop_end=216651 sample=../UNAudio/Overused/Overused-91-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=879 end=485799 loop_mode=loop_sustain loop_start=78495 loop_end=255694 sample=../UNAudio/Overused/Overused-91-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=835 end=485739 loop_mode=loop_sustain loop_start=200377 loop_end=377596 sample=../UNAudio/Overused/Overused-91-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=759 end=485663 loop_mode=loop_sustain loop_start=189108 loop_end=366271 sample=../UNAudio/Overused/Overused-91-127.aif
+<group> key=92 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=523 end=485403 loop_mode=loop_sustain loop_start=11690 loop_end=188925 sample=../UNAudio/Overused/Overused-92-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=796 loop_mode=loop_sustain loop_start=145036 loop_end=322211 sample=../UNAudio/Overused/Overused-92-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=735 end=485603 loop_mode=loop_sustain loop_start=39557 loop_end=216796 sample=../UNAudio/Overused/Overused-92-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=583 end=485463 loop_mode=loop_sustain loop_start=144617 loop_end=321836 sample=../UNAudio/Overused/Overused-92-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=659 end=485499 loop_mode=loop_sustain loop_start=11788 loop_end=189027 sample=../UNAudio/Overused/Overused-92-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=923 end=485826 loop_mode=loop_sustain loop_start=145012 loop_end=322215 sample=../UNAudio/Overused/Overused-92-127.aif
+<group> key=93 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=579 end=485447 loop_mode=loop_sustain loop_start=78317 loop_end=255496 sample=../UNAudio/Overused/Overused-93-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=512 end=485394 loop_mode=loop_sustain loop_start=78239 loop_end=255422 sample=../UNAudio/Overused/Overused-93-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=547 end=485438 loop_mode=loop_sustain loop_start=144777 loop_end=322000 sample=../UNAudio/Overused/Overused-93-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=623 end=485538 loop_mode=loop_sustain loop_start=144671 loop_end=321858 sample=../UNAudio/Overused/Overused-93-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=735 end=485626 loop_mode=loop_sustain loop_start=145005 loop_end=322212 sample=../UNAudio/Overused/Overused-93-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=615 end=485478 loop_mode=loop_sustain loop_start=61577 loop_end=238748 sample=../UNAudio/Overused/Overused-93-127.aif
+<group> key=94 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=747 end=485607 loop_mode=loop_sustain loop_start=145031 loop_end=322218 sample=../UNAudio/Overused/Overused-94-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=472 end=485358 loop_mode=loop_sustain loop_start=144813 loop_end=321980 sample=../UNAudio/Overused/Overused-94-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=779 loop_mode=loop_sustain loop_start=78300 loop_end=255531 sample=../UNAudio/Overused/Overused-94-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=747 loop_mode=loop_sustain loop_start=200158 loop_end=377389 sample=../UNAudio/Overused/Overused-94-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=655 end=485510 loop_mode=loop_sustain loop_start=39556 loop_end=216700 sample=../UNAudio/Overused/Overused-94-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=527 loop_mode=loop_sustain loop_start=144667 loop_end=321739 sample=../UNAudio/Overused/Overused-94-127.aif
+<group> key=95 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=915 end=485789 loop_mode=loop_sustain loop_start=62336 loop_end=239463 sample=../UNAudio/Overused/Overused-95-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=737 loop_mode=loop_sustain loop_start=11843 loop_end=189054 sample=../UNAudio/Overused/Overused-95-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=712 end=485607 loop_mode=loop_sustain loop_start=145012 loop_end=322191 sample=../UNAudio/Overused/Overused-95-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=743 end=485619 loop_mode=loop_sustain loop_start=11817 loop_end=189060 sample=../UNAudio/Overused/Overused-95-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=463 end=485347 loop_mode=loop_sustain loop_start=55734 loop_end=232908 sample=../UNAudio/Overused/Overused-95-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=563 end=485459 loop_mode=loop_sustain loop_start=50455 loop_end=227634 sample=../UNAudio/Overused/Overused-95-127.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=431 end=485206 loop_mode=loop_sustain loop_start=39196 loop_end=216427 sample=../UNAudio/Overused/Overused-96-21.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=432 end=485334 loop_mode=loop_sustain loop_start=144488 loop_end=321659 sample=../UNAudio/Overused/Overused-96-42.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=848 end=496766 loop_mode=loop_sustain loop_start=11918 loop_end=189169 sample=../UNAudio/Overused/Overused-96-64.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=731 end=485590 loop_mode=loop_sustain loop_start=216764 loop_end=393931 sample=../UNAudio/Overused/Overused-96-85.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=727 end=496606 loop_mode=loop_sustain loop_start=105979 loop_end=283162 sample=../UNAudio/Overused/Overused-96-106.aif
+	<region> lovel=107 hivel=127 amp_veltrack=20 offset=443 end=485325 loop_mode=loop_sustain loop_start=144466 loop_end=321661 sample=../UNAudio/Overused/Overused-96-127.aif

@@ -1,124 +1,124 @@
 // this file was generated from Sally Sync.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=888 loop_mode=loop_sustain loop_start=373017 loop_end=420581 sample=../Audio/Sally Sync/016 Sally Sync-36-127.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=508 loop_mode=loop_sustain loop_start=253616 loop_end=356559 sample=../Audio/Sally Sync/016 Sally Sync-37-127.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=864 loop_mode=loop_sustain loop_start=377919 loop_end=423557 sample=../Audio/Sally Sync/016 Sally Sync-38-127.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=576 end=485974 loop_mode=loop_sustain loop_start=306569 loop_end=352731 sample=../Audio/Sally Sync/016 Sally Sync-39-127.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=612 end=486087 loop_mode=loop_sustain loop_start=255683 loop_end=427648 sample=../Audio/Sally Sync/016 Sally Sync-40-127.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=472 end=486658 loop_mode=loop_sustain loop_start=325183 loop_end=405235 sample=../Audio/Sally Sync/016 Sally Sync-41-127.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=936 loop_mode=loop_sustain loop_start=294817 loop_end=409716 sample=../Audio/Sally Sync/016 Sally Sync-42-127.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=575 end=486126 loop_mode=loop_sustain loop_start=244058 loop_end=427259 sample=../Audio/Sally Sync/016 Sally Sync-43-127.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=576 loop_mode=loop_sustain loop_start=266814 loop_end=335517 sample=../Audio/Sally Sync/016 Sally Sync-44-127.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=476 end=486936 loop_mode=loop_sustain loop_start=248285 loop_end=408445 sample=../Audio/Sally Sync/016 Sally Sync-45-127.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=484 end=485915 loop_mode=loop_sustain loop_start=273336 loop_end=364942 sample=../Audio/Sally Sync/016 Sally Sync-46-127.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=608 end=487089 loop_mode=loop_sustain loop_start=255818 loop_end=313202 sample=../Audio/Sally Sync/016 Sally Sync-47-127.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=747 end=486632 loop_mode=loop_sustain loop_start=338961 loop_end=419474 sample=../Audio/Sally Sync/016 Sally Sync-48-127.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=915 end=486528 loop_mode=loop_sustain loop_start=307388 loop_end=410327 sample=../Audio/Sally Sync/016 Sally Sync-49-127.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=575 end=486944 loop_mode=loop_sustain loop_start=263534 loop_end=310156 sample=../Audio/Sally Sync/016 Sally Sync-50-127.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=855 loop_mode=loop_sustain loop_start=244695 loop_end=313322 sample=../Audio/Sally Sync/016 Sally Sync-51-127.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=475 end=486081 loop_mode=loop_sustain loop_start=251244 loop_end=423495 sample=../Audio/Sally Sync/016 Sally Sync-52-127.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=507 end=486279 loop_mode=loop_sustain loop_start=244293 loop_end=427712 sample=../Audio/Sally Sync/016 Sally Sync-53-127.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=855 end=487334 loop_mode=loop_sustain loop_start=284752 loop_end=342201 sample=../Audio/Sally Sync/016 Sally Sync-54-127.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=739 end=486276 loop_mode=loop_sustain loop_start=242937 loop_end=334779 sample=../Audio/Sally Sync/016 Sally Sync-55-127.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=555 end=485934 loop_mode=loop_sustain loop_start=247549 loop_end=316253 sample=../Audio/Sally Sync/016 Sally Sync-56-127.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=655 end=486101 loop_mode=loop_sustain loop_start=252678 loop_end=413489 sample=../Audio/Sally Sync/016 Sally Sync-57-127.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=783 loop_mode=loop_sustain loop_start=278636 loop_end=324643 sample=../Audio/Sally Sync/016 Sally Sync-58-127.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=727 loop_mode=loop_sustain loop_start=283846 loop_end=341424 sample=../Audio/Sally Sync/016 Sally Sync-59-127.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=623 end=486223 loop_mode=loop_sustain loop_start=262888 loop_end=411287 sample=../Audio/Sally Sync/016 Sally Sync-60-127.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=831 end=487303 loop_mode=loop_sustain loop_start=242662 loop_end=357516 sample=../Audio/Sally Sync/016 Sally Sync-61-127.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=879 end=487555 loop_mode=loop_sustain loop_start=241570 loop_end=422195 sample=../Audio/Sally Sync/016 Sally Sync-62-127.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=603 end=487766 loop_mode=loop_sustain loop_start=340700 loop_end=397632 sample=../Audio/Sally Sync/016 Sally Sync-63-127.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=731 end=486671 loop_mode=loop_sustain loop_start=242745 loop_end=403520 sample=../Audio/Sally Sync/016 Sally Sync-64-127.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=799 end=486859 loop_mode=loop_sustain loop_start=245840 loop_end=428709 sample=../Audio/Sally Sync/016 Sally Sync-65-127.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=699 end=486984 loop_mode=loop_sustain loop_start=341796 loop_end=399115 sample=../Audio/Sally Sync/016 Sally Sync-66-127.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=407 end=486295 loop_mode=loop_sustain loop_start=289165 loop_end=415443 sample=../Audio/Sally Sync/016 Sally Sync-67-127.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=439 end=486179 loop_mode=loop_sustain loop_start=302808 loop_end=371164 sample=../Audio/Sally Sync/016 Sally Sync-68-127.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=443 end=486538 loop_mode=loop_sustain loop_start=298718 loop_end=435263 sample=../Audio/Sally Sync/016 Sally Sync-69-127.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 end=487102 loop_mode=loop_sustain loop_start=342387 loop_end=410473 sample=../Audio/Sally Sync/016 Sally Sync-70-127.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=775 end=486687 loop_mode=loop_sustain loop_start=286280 loop_end=344149 sample=../Audio/Sally Sync/016 Sally Sync-71-127.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=707 end=486523 loop_mode=loop_sustain loop_start=244707 loop_end=426773 sample=../Audio/Sally Sync/016 Sally Sync-72-127.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=723 end=487156 loop_mode=loop_sustain loop_start=349012 loop_end=406352 sample=../Audio/Sally Sync/016 Sally Sync-73-127.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=403 end=486183 loop_mode=loop_sustain loop_start=298664 loop_end=412695 sample=../Audio/Sally Sync/016 Sally Sync-74-127.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=623 end=487139 loop_mode=loop_sustain loop_start=243610 loop_end=300310 sample=../Audio/Sally Sync/016 Sally Sync-75-127.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=683 end=486483 loop_mode=loop_sustain loop_start=252463 loop_end=413528 sample=../Audio/Sally Sync/016 Sally Sync-76-127.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=855 end=487570 loop_mode=loop_sustain loop_start=285459 loop_end=422816 sample=../Audio/Sally Sync/016 Sally Sync-77-127.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=483 loop_mode=loop_sustain loop_start=360332 loop_end=417910 sample=../Audio/Sally Sync/016 Sally Sync-78-127.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=879 end=486670 loop_mode=loop_sustain loop_start=239955 loop_end=411908 sample=../Audio/Sally Sync/016 Sally Sync-79-127.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=531 end=487167 loop_mode=loop_sustain loop_start=251786 loop_end=435010 sample=../Audio/Sally Sync/016 Sally Sync-80-127.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=615 end=486468 loop_mode=loop_sustain loop_start=285853 loop_end=354180 sample=../Audio/Sally Sync/016 Sally Sync-81-127.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=679 end=486658 loop_mode=loop_sustain loop_start=296401 loop_end=353345 sample=../Audio/Sally Sync/016 Sally Sync-82-127.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=495 end=486426 loop_mode=loop_sustain loop_start=350961 loop_end=408344 sample=../Audio/Sally Sync/016 Sally Sync-83-127.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=691 end=486687 loop_mode=loop_sustain loop_start=290224 loop_end=347634 sample=../Audio/Sally Sync/016 Sally Sync-84-127.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 end=487018 loop_mode=loop_sustain loop_start=342316 loop_end=399699 sample=../Audio/Sally Sync/016 Sally Sync-85-127.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=595 end=486383 loop_mode=loop_sustain loop_start=284009 loop_end=341228 sample=../Audio/Sally Sync/016 Sally Sync-86-127.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=883 end=487543 loop_mode=loop_sustain loop_start=256227 loop_end=334118 sample=../Audio/Sally Sync/016 Sally Sync-87-127.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=647 end=487229 loop_mode=loop_sustain loop_start=302782 loop_end=430046 sample=../Audio/Sally Sync/016 Sally Sync-88-127.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=459 loop_mode=loop_sustain loop_start=276629 loop_end=345067 sample=../Audio/Sally Sync/016 Sally Sync-89-127.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=883 loop_mode=loop_sustain loop_start=338492 loop_end=395843 sample=../Audio/Sally Sync/016 Sally Sync-90-127.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=783 end=487447 loop_mode=loop_sustain loop_start=246880 loop_end=429150 sample=../Audio/Sally Sync/016 Sally Sync-91-127.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=899 end=487486 loop_mode=loop_sustain loop_start=241303 loop_end=424555 sample=../Audio/Sally Sync/016 Sally Sync-92-127.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=863 end=487366 loop_mode=loop_sustain loop_start=285521 loop_end=400116 sample=../Audio/Sally Sync/016 Sally Sync-93-127.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=471 end=486229 loop_mode=loop_sustain loop_start=316433 loop_end=384853 sample=../Audio/Sally Sync/016 Sally Sync-94-127.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=879 end=487571 loop_mode=loop_sustain loop_start=301333 loop_end=358643 sample=../Audio/Sally Sync/016 Sally Sync-95-127.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=791 end=487182 loop_mode=loop_sustain loop_start=269470 loop_end=326857 sample=../Audio/Sally Sync/016 Sally Sync-96-127.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=888 loop_mode=loop_sustain loop_start=373017 loop_end=420581 sample=../UNAudio/Sally Sync/016 Sally Sync-36-127.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=508 loop_mode=loop_sustain loop_start=253616 loop_end=356559 sample=../UNAudio/Sally Sync/016 Sally Sync-37-127.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=864 loop_mode=loop_sustain loop_start=377919 loop_end=423557 sample=../UNAudio/Sally Sync/016 Sally Sync-38-127.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=576 end=485974 loop_mode=loop_sustain loop_start=306569 loop_end=352731 sample=../UNAudio/Sally Sync/016 Sally Sync-39-127.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=612 end=486087 loop_mode=loop_sustain loop_start=255683 loop_end=427648 sample=../UNAudio/Sally Sync/016 Sally Sync-40-127.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=472 end=486658 loop_mode=loop_sustain loop_start=325183 loop_end=405235 sample=../UNAudio/Sally Sync/016 Sally Sync-41-127.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=936 loop_mode=loop_sustain loop_start=294817 loop_end=409716 sample=../UNAudio/Sally Sync/016 Sally Sync-42-127.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=575 end=486126 loop_mode=loop_sustain loop_start=244058 loop_end=427259 sample=../UNAudio/Sally Sync/016 Sally Sync-43-127.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=576 loop_mode=loop_sustain loop_start=266814 loop_end=335517 sample=../UNAudio/Sally Sync/016 Sally Sync-44-127.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=476 end=486936 loop_mode=loop_sustain loop_start=248285 loop_end=408445 sample=../UNAudio/Sally Sync/016 Sally Sync-45-127.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=484 end=485915 loop_mode=loop_sustain loop_start=273336 loop_end=364942 sample=../UNAudio/Sally Sync/016 Sally Sync-46-127.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=608 end=487089 loop_mode=loop_sustain loop_start=255818 loop_end=313202 sample=../UNAudio/Sally Sync/016 Sally Sync-47-127.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=747 end=486632 loop_mode=loop_sustain loop_start=338961 loop_end=419474 sample=../UNAudio/Sally Sync/016 Sally Sync-48-127.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=915 end=486528 loop_mode=loop_sustain loop_start=307388 loop_end=410327 sample=../UNAudio/Sally Sync/016 Sally Sync-49-127.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=575 end=486944 loop_mode=loop_sustain loop_start=263534 loop_end=310156 sample=../UNAudio/Sally Sync/016 Sally Sync-50-127.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=855 loop_mode=loop_sustain loop_start=244695 loop_end=313322 sample=../UNAudio/Sally Sync/016 Sally Sync-51-127.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=475 end=486081 loop_mode=loop_sustain loop_start=251244 loop_end=423495 sample=../UNAudio/Sally Sync/016 Sally Sync-52-127.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=507 end=486279 loop_mode=loop_sustain loop_start=244293 loop_end=427712 sample=../UNAudio/Sally Sync/016 Sally Sync-53-127.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=855 end=487334 loop_mode=loop_sustain loop_start=284752 loop_end=342201 sample=../UNAudio/Sally Sync/016 Sally Sync-54-127.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=739 end=486276 loop_mode=loop_sustain loop_start=242937 loop_end=334779 sample=../UNAudio/Sally Sync/016 Sally Sync-55-127.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=555 end=485934 loop_mode=loop_sustain loop_start=247549 loop_end=316253 sample=../UNAudio/Sally Sync/016 Sally Sync-56-127.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=655 end=486101 loop_mode=loop_sustain loop_start=252678 loop_end=413489 sample=../UNAudio/Sally Sync/016 Sally Sync-57-127.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=783 loop_mode=loop_sustain loop_start=278636 loop_end=324643 sample=../UNAudio/Sally Sync/016 Sally Sync-58-127.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=727 loop_mode=loop_sustain loop_start=283846 loop_end=341424 sample=../UNAudio/Sally Sync/016 Sally Sync-59-127.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=623 end=486223 loop_mode=loop_sustain loop_start=262888 loop_end=411287 sample=../UNAudio/Sally Sync/016 Sally Sync-60-127.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=831 end=487303 loop_mode=loop_sustain loop_start=242662 loop_end=357516 sample=../UNAudio/Sally Sync/016 Sally Sync-61-127.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=879 end=487555 loop_mode=loop_sustain loop_start=241570 loop_end=422195 sample=../UNAudio/Sally Sync/016 Sally Sync-62-127.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=603 end=487766 loop_mode=loop_sustain loop_start=340700 loop_end=397632 sample=../UNAudio/Sally Sync/016 Sally Sync-63-127.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=731 end=486671 loop_mode=loop_sustain loop_start=242745 loop_end=403520 sample=../UNAudio/Sally Sync/016 Sally Sync-64-127.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=799 end=486859 loop_mode=loop_sustain loop_start=245840 loop_end=428709 sample=../UNAudio/Sally Sync/016 Sally Sync-65-127.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=699 end=486984 loop_mode=loop_sustain loop_start=341796 loop_end=399115 sample=../UNAudio/Sally Sync/016 Sally Sync-66-127.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=407 end=486295 loop_mode=loop_sustain loop_start=289165 loop_end=415443 sample=../UNAudio/Sally Sync/016 Sally Sync-67-127.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=439 end=486179 loop_mode=loop_sustain loop_start=302808 loop_end=371164 sample=../UNAudio/Sally Sync/016 Sally Sync-68-127.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=443 end=486538 loop_mode=loop_sustain loop_start=298718 loop_end=435263 sample=../UNAudio/Sally Sync/016 Sally Sync-69-127.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=711 end=487102 loop_mode=loop_sustain loop_start=342387 loop_end=410473 sample=../UNAudio/Sally Sync/016 Sally Sync-70-127.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=775 end=486687 loop_mode=loop_sustain loop_start=286280 loop_end=344149 sample=../UNAudio/Sally Sync/016 Sally Sync-71-127.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=707 end=486523 loop_mode=loop_sustain loop_start=244707 loop_end=426773 sample=../UNAudio/Sally Sync/016 Sally Sync-72-127.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=723 end=487156 loop_mode=loop_sustain loop_start=349012 loop_end=406352 sample=../UNAudio/Sally Sync/016 Sally Sync-73-127.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=403 end=486183 loop_mode=loop_sustain loop_start=298664 loop_end=412695 sample=../UNAudio/Sally Sync/016 Sally Sync-74-127.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=623 end=487139 loop_mode=loop_sustain loop_start=243610 loop_end=300310 sample=../UNAudio/Sally Sync/016 Sally Sync-75-127.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=683 end=486483 loop_mode=loop_sustain loop_start=252463 loop_end=413528 sample=../UNAudio/Sally Sync/016 Sally Sync-76-127.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=855 end=487570 loop_mode=loop_sustain loop_start=285459 loop_end=422816 sample=../UNAudio/Sally Sync/016 Sally Sync-77-127.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=483 loop_mode=loop_sustain loop_start=360332 loop_end=417910 sample=../UNAudio/Sally Sync/016 Sally Sync-78-127.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=879 end=486670 loop_mode=loop_sustain loop_start=239955 loop_end=411908 sample=../UNAudio/Sally Sync/016 Sally Sync-79-127.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=531 end=487167 loop_mode=loop_sustain loop_start=251786 loop_end=435010 sample=../UNAudio/Sally Sync/016 Sally Sync-80-127.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=615 end=486468 loop_mode=loop_sustain loop_start=285853 loop_end=354180 sample=../UNAudio/Sally Sync/016 Sally Sync-81-127.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=679 end=486658 loop_mode=loop_sustain loop_start=296401 loop_end=353345 sample=../UNAudio/Sally Sync/016 Sally Sync-82-127.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=495 end=486426 loop_mode=loop_sustain loop_start=350961 loop_end=408344 sample=../UNAudio/Sally Sync/016 Sally Sync-83-127.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=691 end=486687 loop_mode=loop_sustain loop_start=290224 loop_end=347634 sample=../UNAudio/Sally Sync/016 Sally Sync-84-127.aif
+<group> key=85 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=711 end=487018 loop_mode=loop_sustain loop_start=342316 loop_end=399699 sample=../UNAudio/Sally Sync/016 Sally Sync-85-127.aif
+<group> key=86 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=595 end=486383 loop_mode=loop_sustain loop_start=284009 loop_end=341228 sample=../UNAudio/Sally Sync/016 Sally Sync-86-127.aif
+<group> key=87 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=883 end=487543 loop_mode=loop_sustain loop_start=256227 loop_end=334118 sample=../UNAudio/Sally Sync/016 Sally Sync-87-127.aif
+<group> key=88 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=647 end=487229 loop_mode=loop_sustain loop_start=302782 loop_end=430046 sample=../UNAudio/Sally Sync/016 Sally Sync-88-127.aif
+<group> key=89 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=459 loop_mode=loop_sustain loop_start=276629 loop_end=345067 sample=../UNAudio/Sally Sync/016 Sally Sync-89-127.aif
+<group> key=90 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=883 loop_mode=loop_sustain loop_start=338492 loop_end=395843 sample=../UNAudio/Sally Sync/016 Sally Sync-90-127.aif
+<group> key=91 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=783 end=487447 loop_mode=loop_sustain loop_start=246880 loop_end=429150 sample=../UNAudio/Sally Sync/016 Sally Sync-91-127.aif
+<group> key=92 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=899 end=487486 loop_mode=loop_sustain loop_start=241303 loop_end=424555 sample=../UNAudio/Sally Sync/016 Sally Sync-92-127.aif
+<group> key=93 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=863 end=487366 loop_mode=loop_sustain loop_start=285521 loop_end=400116 sample=../UNAudio/Sally Sync/016 Sally Sync-93-127.aif
+<group> key=94 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=471 end=486229 loop_mode=loop_sustain loop_start=316433 loop_end=384853 sample=../UNAudio/Sally Sync/016 Sally Sync-94-127.aif
+<group> key=95 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=879 end=487571 loop_mode=loop_sustain loop_start=301333 loop_end=358643 sample=../UNAudio/Sally Sync/016 Sally Sync-95-127.aif
+<group> key=96 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=791 end=487182 loop_mode=loop_sustain loop_start=269470 loop_end=326857 sample=../UNAudio/Sally Sync/016 Sally Sync-96-127.aif

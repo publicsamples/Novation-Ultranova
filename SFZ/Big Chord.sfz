@@ -1,124 +1,124 @@
 // this file was generated from Big Chord.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=417 end=744960 sample=../Audio/Big Chord/013 Big Chord-36-127.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=506 end=741506 sample=../Audio/Big Chord/013 Big Chord-37-127.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=750 end=746883 sample=../Audio/Big Chord/013 Big Chord-38-127.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=581 end=748561 sample=../Audio/Big Chord/013 Big Chord-39-127.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=678 sample=../Audio/Big Chord/013 Big Chord-40-127.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=557 sample=../Audio/Big Chord/013 Big Chord-41-127.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=805 end=738980 sample=../Audio/Big Chord/013 Big Chord-42-127.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=811 end=742272 sample=../Audio/Big Chord/013 Big Chord-43-127.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=970 sample=../Audio/Big Chord/013 Big Chord-44-127.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=644 sample=../Audio/Big Chord/013 Big Chord-45-127.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=620 end=740864 sample=../Audio/Big Chord/013 Big Chord-46-127.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=727 end=737024 sample=../Audio/Big Chord/013 Big Chord-47-127.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=855 end=740226 sample=../Audio/Big Chord/013 Big Chord-48-127.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=528 sample=../Audio/Big Chord/013 Big Chord-49-127.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=939 end=741248 sample=../Audio/Big Chord/013 Big Chord-50-127.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=646 end=733952 sample=../Audio/Big Chord/013 Big Chord-51-127.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=729 sample=../Audio/Big Chord/013 Big Chord-52-127.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=453 sample=../Audio/Big Chord/013 Big Chord-53-127.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=484 end=741888 sample=../Audio/Big Chord/013 Big Chord-54-127.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=513 sample=../Audio/Big Chord/013 Big Chord-55-127.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=542 sample=../Audio/Big Chord/013 Big Chord-56-127.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=705 sample=../Audio/Big Chord/013 Big Chord-57-127.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=512 end=739968 sample=../Audio/Big Chord/013 Big Chord-58-127.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=570 end=737792 sample=../Audio/Big Chord/013 Big Chord-59-127.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=817 end=741120 sample=../Audio/Big Chord/013 Big Chord-60-127.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=591 end=738816 sample=../Audio/Big Chord/013 Big Chord-61-127.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=702 end=740864 sample=../Audio/Big Chord/013 Big Chord-62-127.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=542 end=741120 sample=../Audio/Big Chord/013 Big Chord-63-127.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=780 end=741632 sample=../Audio/Big Chord/013 Big Chord-64-127.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=517 end=736768 sample=../Audio/Big Chord/013 Big Chord-65-127.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=785 sample=../Audio/Big Chord/013 Big Chord-66-127.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=893 end=737536 sample=../Audio/Big Chord/013 Big Chord-67-127.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=692 end=740608 sample=../Audio/Big Chord/013 Big Chord-68-127.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=564 end=740224 sample=../Audio/Big Chord/013 Big Chord-69-127.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=685 end=736896 sample=../Audio/Big Chord/013 Big Chord-70-127.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=444 end=738304 sample=../Audio/Big Chord/013 Big Chord-71-127.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=828 end=738304 sample=../Audio/Big Chord/013 Big Chord-72-127.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=577 end=740992 sample=../Audio/Big Chord/013 Big Chord-73-127.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=480 end=738432 sample=../Audio/Big Chord/013 Big Chord-74-127.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=920 end=737408 sample=../Audio/Big Chord/013 Big Chord-75-127.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=544 end=742144 sample=../Audio/Big Chord/013 Big Chord-76-127.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=533 sample=../Audio/Big Chord/013 Big Chord-77-127.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=652 end=736896 sample=../Audio/Big Chord/013 Big Chord-78-127.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=920 sample=../Audio/Big Chord/013 Big Chord-79-127.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=632 end=736896 sample=../Audio/Big Chord/013 Big Chord-80-127.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=560 end=736129 sample=../Audio/Big Chord/013 Big Chord-81-127.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=760 sample=../Audio/Big Chord/013 Big Chord-82-127.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=804 end=739072 sample=../Audio/Big Chord/013 Big Chord-83-127.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=503 end=736259 sample=../Audio/Big Chord/013 Big Chord-84-127.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=545 end=738944 sample=../Audio/Big Chord/013 Big Chord-85-127.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=716 sample=../Audio/Big Chord/013 Big Chord-86-127.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=496 sample=../Audio/Big Chord/013 Big Chord-87-127.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=816 end=738688 sample=../Audio/Big Chord/013 Big Chord-88-127.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=707 end=736256 sample=../Audio/Big Chord/013 Big Chord-89-127.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=592 sample=../Audio/Big Chord/013 Big Chord-90-127.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 end=738944 sample=../Audio/Big Chord/013 Big Chord-91-127.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=612 end=736640 sample=../Audio/Big Chord/013 Big Chord-92-127.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=532 sample=../Audio/Big Chord/013 Big Chord-93-127.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=579 end=737922 sample=../Audio/Big Chord/013 Big Chord-94-127.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=464 end=740352 sample=../Audio/Big Chord/013 Big Chord-95-127.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=399 end=736130 sample=../Audio/Big Chord/013 Big Chord-96-127.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=417 end=744960 sample=../UNAudio/Big Chord/013 Big Chord-36-127.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=506 end=741506 sample=../UNAudio/Big Chord/013 Big Chord-37-127.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=750 end=746883 sample=../UNAudio/Big Chord/013 Big Chord-38-127.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=581 end=748561 sample=../UNAudio/Big Chord/013 Big Chord-39-127.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=678 sample=../UNAudio/Big Chord/013 Big Chord-40-127.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=557 sample=../UNAudio/Big Chord/013 Big Chord-41-127.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=805 end=738980 sample=../UNAudio/Big Chord/013 Big Chord-42-127.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=811 end=742272 sample=../UNAudio/Big Chord/013 Big Chord-43-127.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=970 sample=../UNAudio/Big Chord/013 Big Chord-44-127.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=644 sample=../UNAudio/Big Chord/013 Big Chord-45-127.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=620 end=740864 sample=../UNAudio/Big Chord/013 Big Chord-46-127.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=727 end=737024 sample=../UNAudio/Big Chord/013 Big Chord-47-127.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=855 end=740226 sample=../UNAudio/Big Chord/013 Big Chord-48-127.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=528 sample=../UNAudio/Big Chord/013 Big Chord-49-127.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=939 end=741248 sample=../UNAudio/Big Chord/013 Big Chord-50-127.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=646 end=733952 sample=../UNAudio/Big Chord/013 Big Chord-51-127.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=729 sample=../UNAudio/Big Chord/013 Big Chord-52-127.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=453 sample=../UNAudio/Big Chord/013 Big Chord-53-127.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=484 end=741888 sample=../UNAudio/Big Chord/013 Big Chord-54-127.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=513 sample=../UNAudio/Big Chord/013 Big Chord-55-127.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=542 sample=../UNAudio/Big Chord/013 Big Chord-56-127.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=705 sample=../UNAudio/Big Chord/013 Big Chord-57-127.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=512 end=739968 sample=../UNAudio/Big Chord/013 Big Chord-58-127.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=570 end=737792 sample=../UNAudio/Big Chord/013 Big Chord-59-127.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=817 end=741120 sample=../UNAudio/Big Chord/013 Big Chord-60-127.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=591 end=738816 sample=../UNAudio/Big Chord/013 Big Chord-61-127.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=702 end=740864 sample=../UNAudio/Big Chord/013 Big Chord-62-127.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=542 end=741120 sample=../UNAudio/Big Chord/013 Big Chord-63-127.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=780 end=741632 sample=../UNAudio/Big Chord/013 Big Chord-64-127.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=517 end=736768 sample=../UNAudio/Big Chord/013 Big Chord-65-127.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=785 sample=../UNAudio/Big Chord/013 Big Chord-66-127.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=893 end=737536 sample=../UNAudio/Big Chord/013 Big Chord-67-127.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=692 end=740608 sample=../UNAudio/Big Chord/013 Big Chord-68-127.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=564 end=740224 sample=../UNAudio/Big Chord/013 Big Chord-69-127.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=685 end=736896 sample=../UNAudio/Big Chord/013 Big Chord-70-127.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=444 end=738304 sample=../UNAudio/Big Chord/013 Big Chord-71-127.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=828 end=738304 sample=../UNAudio/Big Chord/013 Big Chord-72-127.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=577 end=740992 sample=../UNAudio/Big Chord/013 Big Chord-73-127.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=480 end=738432 sample=../UNAudio/Big Chord/013 Big Chord-74-127.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=920 end=737408 sample=../UNAudio/Big Chord/013 Big Chord-75-127.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=544 end=742144 sample=../UNAudio/Big Chord/013 Big Chord-76-127.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=533 sample=../UNAudio/Big Chord/013 Big Chord-77-127.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=652 end=736896 sample=../UNAudio/Big Chord/013 Big Chord-78-127.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=920 sample=../UNAudio/Big Chord/013 Big Chord-79-127.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=632 end=736896 sample=../UNAudio/Big Chord/013 Big Chord-80-127.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=560 end=736129 sample=../UNAudio/Big Chord/013 Big Chord-81-127.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=760 sample=../UNAudio/Big Chord/013 Big Chord-82-127.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=804 end=739072 sample=../UNAudio/Big Chord/013 Big Chord-83-127.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=503 end=736259 sample=../UNAudio/Big Chord/013 Big Chord-84-127.aif
+<group> key=85 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=545 end=738944 sample=../UNAudio/Big Chord/013 Big Chord-85-127.aif
+<group> key=86 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=716 sample=../UNAudio/Big Chord/013 Big Chord-86-127.aif
+<group> key=87 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=496 sample=../UNAudio/Big Chord/013 Big Chord-87-127.aif
+<group> key=88 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=816 end=738688 sample=../UNAudio/Big Chord/013 Big Chord-88-127.aif
+<group> key=89 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=707 end=736256 sample=../UNAudio/Big Chord/013 Big Chord-89-127.aif
+<group> key=90 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=592 sample=../UNAudio/Big Chord/013 Big Chord-90-127.aif
+<group> key=91 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=627 end=738944 sample=../UNAudio/Big Chord/013 Big Chord-91-127.aif
+<group> key=92 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=612 end=736640 sample=../UNAudio/Big Chord/013 Big Chord-92-127.aif
+<group> key=93 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=532 sample=../UNAudio/Big Chord/013 Big Chord-93-127.aif
+<group> key=94 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=579 end=737922 sample=../UNAudio/Big Chord/013 Big Chord-94-127.aif
+<group> key=95 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=464 end=740352 sample=../UNAudio/Big Chord/013 Big Chord-95-127.aif
+<group> key=96 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=399 end=736130 sample=../UNAudio/Big Chord/013 Big Chord-96-127.aif

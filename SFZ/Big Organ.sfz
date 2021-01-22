@@ -1,124 +1,124 @@
 // this file was generated from Big Organ.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=681 end=485971 loop_mode=loop_sustain loop_start=272452 loop_end=363252 sample=../Audio/Big Organ/018 Big Organ-36-127.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=585 end=486418 loop_mode=loop_sustain loop_start=197456 loop_end=394307 sample=../Audio/Big Organ/018 Big Organ-37-127.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=860 loop_mode=loop_sustain loop_start=208822 loop_end=341007 sample=../Audio/Big Organ/018 Big Organ-38-127.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=544 end=486719 loop_mode=loop_sustain loop_start=158843 loop_end=334113 sample=../Audio/Big Organ/018 Big Organ-39-127.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=656 end=486929 loop_mode=loop_sustain loop_start=166498 loop_end=333195 sample=../Audio/Big Organ/018 Big Organ-40-127.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=900 end=486589 loop_mode=loop_sustain loop_start=156735 loop_end=314072 sample=../Audio/Big Organ/018 Big Organ-41-127.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=708 end=486619 loop_mode=loop_sustain loop_start=147711 loop_end=296220 sample=../Audio/Big Organ/018 Big Organ-42-127.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=864 end=486641 loop_mode=loop_sustain loop_start=165653 loop_end=304763 sample=../Audio/Big Organ/018 Big Organ-43-127.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=480 end=486179 loop_mode=loop_sustain loop_start=150494 loop_end=282798 sample=../Audio/Big Organ/018 Big Organ-44-127.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=632 loop_mode=loop_sustain loop_start=112004 loop_end=235938 sample=../Audio/Big Organ/018 Big Organ-45-127.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=932 end=487623 loop_mode=loop_sustain loop_start=117398 loop_end=200680 sample=../Audio/Big Organ/018 Big Organ-46-127.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=751 end=486659 loop_mode=loop_sustain loop_start=61113 loop_end=234559 sample=../Audio/Big Organ/018 Big Organ-47-127.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=771 end=486612 loop_mode=loop_sustain loop_start=251357 loop_end=341628 sample=../Audio/Big Organ/018 Big Organ-48-127.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=559 end=486791 loop_mode=loop_sustain loop_start=89422 loop_end=187788 sample=../Audio/Big Organ/018 Big Organ-49-127.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=815 end=486663 loop_mode=loop_sustain loop_start=80079 loop_end=172978 sample=../Audio/Big Organ/018 Big Organ-50-127.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=460 end=486378 loop_mode=loop_sustain loop_start=23982 loop_end=286885 sample=../Audio/Big Organ/018 Big Organ-51-127.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=659 end=486455 loop_mode=loop_sustain loop_start=75236 loop_end=157951 sample=../Audio/Big Organ/018 Big Organ-52-127.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=719 end=486646 loop_mode=loop_sustain loop_start=141999 loop_end=298650 sample=../Audio/Big Organ/018 Big Organ-53-127.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=527 end=486261 loop_mode=loop_sustain loop_start=42346 loop_end=158101 sample=../Audio/Big Organ/018 Big Organ-54-127.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=471 end=486731 loop_mode=loop_sustain loop_start=151186 loop_end=250592 sample=../Audio/Big Organ/018 Big Organ-55-127.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=503 end=486935 loop_mode=loop_sustain loop_start=119138 loop_end=316552 sample=../Audio/Big Organ/018 Big Organ-56-127.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=443 end=486953 loop_mode=loop_sustain loop_start=117874 loop_end=241806 sample=../Audio/Big Organ/018 Big Organ-57-127.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=739 end=486550 loop_mode=loop_sustain loop_start=175769 loop_end=350823 sample=../Audio/Big Organ/018 Big Organ-58-127.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=567 end=487222 loop_mode=loop_sustain loop_start=195044 loop_end=360662 sample=../Audio/Big Organ/018 Big Organ-59-127.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=435 loop_mode=loop_sustain loop_start=188689 loop_end=345378 sample=../Audio/Big Organ/018 Big Organ-60-127.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 end=486523 loop_mode=loop_sustain loop_start=70756 loop_end=352001 sample=../Audio/Big Organ/018 Big Organ-61-127.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=764 end=487522 loop_mode=loop_sustain loop_start=100041 loop_end=239308 sample=../Audio/Big Organ/018 Big Organ-62-127.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=496 end=486290 loop_mode=loop_sustain loop_start=175315 loop_end=306766 sample=../Audio/Big Organ/018 Big Organ-63-127.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=659 loop_mode=loop_sustain loop_start=35690 loop_end=159763 sample=../Audio/Big Organ/018 Big Organ-64-127.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=771 end=486953 loop_mode=loop_sustain loop_start=84923 loop_end=308147 sample=../Audio/Big Organ/018 Big Organ-65-127.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=779 end=486536 loop_mode=loop_sustain loop_start=11062 loop_end=110961 sample=../Audio/Big Organ/018 Big Organ-66-127.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 end=486451 loop_mode=loop_sustain loop_start=21339 loop_end=220208 sample=../Audio/Big Organ/018 Big Organ-67-127.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=419 end=487114 loop_mode=loop_sustain loop_start=164145 loop_end=262390 sample=../Audio/Big Organ/018 Big Organ-68-127.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=779 end=487802 loop_mode=loop_sustain loop_start=252620 loop_end=336623 sample=../Audio/Big Organ/018 Big Organ-69-127.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=839 end=486859 loop_mode=loop_sustain loop_start=143494 loop_end=390423 sample=../Audio/Big Organ/018 Big Organ-70-127.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=775 end=487626 loop_mode=loop_sustain loop_start=225421 loop_end=308229 sample=../Audio/Big Organ/018 Big Organ-71-127.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=823 end=487259 loop_mode=loop_sustain loop_start=227286 loop_end=368749 sample=../Audio/Big Organ/018 Big Organ-72-127.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=739 end=487514 loop_mode=loop_sustain loop_start=253272 loop_end=393894 sample=../Audio/Big Organ/018 Big Organ-73-127.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=571 end=486795 loop_mode=loop_sustain loop_start=179268 loop_end=368556 sample=../Audio/Big Organ/018 Big Organ-74-127.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=684 end=486427 loop_mode=loop_sustain loop_start=90979 loop_end=395078 sample=../Audio/Big Organ/018 Big Organ-75-127.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=535 end=487251 loop_mode=loop_sustain loop_start=260399 loop_end=384327 sample=../Audio/Big Organ/018 Big Organ-76-127.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=923 end=487639 loop_mode=loop_sustain loop_start=212536 loop_end=377205 sample=../Audio/Big Organ/018 Big Organ-77-127.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=603 end=486335 loop_mode=loop_sustain loop_start=255574 loop_end=360921 sample=../Audio/Big Organ/018 Big Organ-78-127.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=747 end=486495 loop_mode=loop_sustain loop_start=171835 loop_end=271268 sample=../Audio/Big Organ/018 Big Organ-79-127.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=751 end=486609 loop_mode=loop_sustain loop_start=281867 loop_end=371097 sample=../Audio/Big Organ/018 Big Organ-80-127.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=891 end=486791 loop_mode=loop_sustain loop_start=224063 loop_end=308285 sample=../Audio/Big Organ/018 Big Organ-81-127.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=528 end=486943 loop_mode=loop_sustain loop_start=87608 loop_end=334331 sample=../Audio/Big Organ/018 Big Organ-82-127.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=691 end=486603 loop_mode=loop_sustain loop_start=195712 loop_end=278326 sample=../Audio/Big Organ/018 Big Organ-83-127.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=864 loop_mode=loop_sustain loop_start=114023 loop_end=369149 sample=../Audio/Big Organ/018 Big Organ-84-127.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=436 end=486910 loop_mode=loop_sustain loop_start=113977 loop_end=287936 sample=../Audio/Big Organ/018 Big Organ-85-127.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=831 end=487411 loop_mode=loop_sustain loop_start=220973 loop_end=312429 sample=../Audio/Big Organ/018 Big Organ-86-127.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=691 end=487282 loop_mode=loop_sustain loop_start=221062 loop_end=313479 sample=../Audio/Big Organ/018 Big Organ-87-127.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=919 loop_mode=loop_sustain loop_start=199969 loop_end=290111 sample=../Audio/Big Organ/018 Big Organ-88-127.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=555 end=486471 loop_mode=loop_sustain loop_start=100499 loop_end=315408 sample=../Audio/Big Organ/018 Big Organ-89-127.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=799 loop_mode=loop_sustain loop_start=128094 loop_end=358511 sample=../Audio/Big Organ/018 Big Organ-90-127.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=835 end=487344 loop_mode=loop_sustain loop_start=144518 loop_end=243890 sample=../Audio/Big Organ/018 Big Organ-91-127.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=655 loop_mode=loop_sustain loop_start=111584 loop_end=200756 sample=../Audio/Big Organ/018 Big Organ-92-127.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=647 end=487255 loop_mode=loop_sustain loop_start=118608 loop_end=226013 sample=../Audio/Big Organ/018 Big Organ-93-127.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=699 loop_mode=loop_sustain loop_start=95298 loop_end=194564 sample=../Audio/Big Organ/018 Big Organ-94-127.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=615 end=487743 loop_mode=loop_sustain loop_start=191712 loop_end=324867 sample=../Audio/Big Organ/018 Big Organ-95-127.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=767 end=487134 loop_mode=loop_sustain loop_start=102748 loop_end=194899 sample=../Audio/Big Organ/018 Big Organ-96-127.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=681 end=485971 loop_mode=loop_sustain loop_start=272452 loop_end=363252 sample=../UNAudio/Big Organ/018 Big Organ-36-127.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=585 end=486418 loop_mode=loop_sustain loop_start=197456 loop_end=394307 sample=../UNAudio/Big Organ/018 Big Organ-37-127.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=860 loop_mode=loop_sustain loop_start=208822 loop_end=341007 sample=../UNAudio/Big Organ/018 Big Organ-38-127.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=544 end=486719 loop_mode=loop_sustain loop_start=158843 loop_end=334113 sample=../UNAudio/Big Organ/018 Big Organ-39-127.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=656 end=486929 loop_mode=loop_sustain loop_start=166498 loop_end=333195 sample=../UNAudio/Big Organ/018 Big Organ-40-127.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=900 end=486589 loop_mode=loop_sustain loop_start=156735 loop_end=314072 sample=../UNAudio/Big Organ/018 Big Organ-41-127.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=708 end=486619 loop_mode=loop_sustain loop_start=147711 loop_end=296220 sample=../UNAudio/Big Organ/018 Big Organ-42-127.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=864 end=486641 loop_mode=loop_sustain loop_start=165653 loop_end=304763 sample=../UNAudio/Big Organ/018 Big Organ-43-127.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=480 end=486179 loop_mode=loop_sustain loop_start=150494 loop_end=282798 sample=../UNAudio/Big Organ/018 Big Organ-44-127.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=632 loop_mode=loop_sustain loop_start=112004 loop_end=235938 sample=../UNAudio/Big Organ/018 Big Organ-45-127.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=932 end=487623 loop_mode=loop_sustain loop_start=117398 loop_end=200680 sample=../UNAudio/Big Organ/018 Big Organ-46-127.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=751 end=486659 loop_mode=loop_sustain loop_start=61113 loop_end=234559 sample=../UNAudio/Big Organ/018 Big Organ-47-127.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=771 end=486612 loop_mode=loop_sustain loop_start=251357 loop_end=341628 sample=../UNAudio/Big Organ/018 Big Organ-48-127.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=559 end=486791 loop_mode=loop_sustain loop_start=89422 loop_end=187788 sample=../UNAudio/Big Organ/018 Big Organ-49-127.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=815 end=486663 loop_mode=loop_sustain loop_start=80079 loop_end=172978 sample=../UNAudio/Big Organ/018 Big Organ-50-127.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=460 end=486378 loop_mode=loop_sustain loop_start=23982 loop_end=286885 sample=../UNAudio/Big Organ/018 Big Organ-51-127.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=659 end=486455 loop_mode=loop_sustain loop_start=75236 loop_end=157951 sample=../UNAudio/Big Organ/018 Big Organ-52-127.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=719 end=486646 loop_mode=loop_sustain loop_start=141999 loop_end=298650 sample=../UNAudio/Big Organ/018 Big Organ-53-127.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=527 end=486261 loop_mode=loop_sustain loop_start=42346 loop_end=158101 sample=../UNAudio/Big Organ/018 Big Organ-54-127.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=471 end=486731 loop_mode=loop_sustain loop_start=151186 loop_end=250592 sample=../UNAudio/Big Organ/018 Big Organ-55-127.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=503 end=486935 loop_mode=loop_sustain loop_start=119138 loop_end=316552 sample=../UNAudio/Big Organ/018 Big Organ-56-127.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=443 end=486953 loop_mode=loop_sustain loop_start=117874 loop_end=241806 sample=../UNAudio/Big Organ/018 Big Organ-57-127.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=739 end=486550 loop_mode=loop_sustain loop_start=175769 loop_end=350823 sample=../UNAudio/Big Organ/018 Big Organ-58-127.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=567 end=487222 loop_mode=loop_sustain loop_start=195044 loop_end=360662 sample=../UNAudio/Big Organ/018 Big Organ-59-127.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=435 loop_mode=loop_sustain loop_start=188689 loop_end=345378 sample=../UNAudio/Big Organ/018 Big Organ-60-127.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=627 end=486523 loop_mode=loop_sustain loop_start=70756 loop_end=352001 sample=../UNAudio/Big Organ/018 Big Organ-61-127.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=764 end=487522 loop_mode=loop_sustain loop_start=100041 loop_end=239308 sample=../UNAudio/Big Organ/018 Big Organ-62-127.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=496 end=486290 loop_mode=loop_sustain loop_start=175315 loop_end=306766 sample=../UNAudio/Big Organ/018 Big Organ-63-127.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=659 loop_mode=loop_sustain loop_start=35690 loop_end=159763 sample=../UNAudio/Big Organ/018 Big Organ-64-127.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=771 end=486953 loop_mode=loop_sustain loop_start=84923 loop_end=308147 sample=../UNAudio/Big Organ/018 Big Organ-65-127.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=779 end=486536 loop_mode=loop_sustain loop_start=11062 loop_end=110961 sample=../UNAudio/Big Organ/018 Big Organ-66-127.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=711 end=486451 loop_mode=loop_sustain loop_start=21339 loop_end=220208 sample=../UNAudio/Big Organ/018 Big Organ-67-127.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=419 end=487114 loop_mode=loop_sustain loop_start=164145 loop_end=262390 sample=../UNAudio/Big Organ/018 Big Organ-68-127.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=779 end=487802 loop_mode=loop_sustain loop_start=252620 loop_end=336623 sample=../UNAudio/Big Organ/018 Big Organ-69-127.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=839 end=486859 loop_mode=loop_sustain loop_start=143494 loop_end=390423 sample=../UNAudio/Big Organ/018 Big Organ-70-127.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=775 end=487626 loop_mode=loop_sustain loop_start=225421 loop_end=308229 sample=../UNAudio/Big Organ/018 Big Organ-71-127.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=823 end=487259 loop_mode=loop_sustain loop_start=227286 loop_end=368749 sample=../UNAudio/Big Organ/018 Big Organ-72-127.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=739 end=487514 loop_mode=loop_sustain loop_start=253272 loop_end=393894 sample=../UNAudio/Big Organ/018 Big Organ-73-127.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=571 end=486795 loop_mode=loop_sustain loop_start=179268 loop_end=368556 sample=../UNAudio/Big Organ/018 Big Organ-74-127.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=684 end=486427 loop_mode=loop_sustain loop_start=90979 loop_end=395078 sample=../UNAudio/Big Organ/018 Big Organ-75-127.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=535 end=487251 loop_mode=loop_sustain loop_start=260399 loop_end=384327 sample=../UNAudio/Big Organ/018 Big Organ-76-127.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=923 end=487639 loop_mode=loop_sustain loop_start=212536 loop_end=377205 sample=../UNAudio/Big Organ/018 Big Organ-77-127.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=603 end=486335 loop_mode=loop_sustain loop_start=255574 loop_end=360921 sample=../UNAudio/Big Organ/018 Big Organ-78-127.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=747 end=486495 loop_mode=loop_sustain loop_start=171835 loop_end=271268 sample=../UNAudio/Big Organ/018 Big Organ-79-127.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=751 end=486609 loop_mode=loop_sustain loop_start=281867 loop_end=371097 sample=../UNAudio/Big Organ/018 Big Organ-80-127.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=891 end=486791 loop_mode=loop_sustain loop_start=224063 loop_end=308285 sample=../UNAudio/Big Organ/018 Big Organ-81-127.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=528 end=486943 loop_mode=loop_sustain loop_start=87608 loop_end=334331 sample=../UNAudio/Big Organ/018 Big Organ-82-127.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=691 end=486603 loop_mode=loop_sustain loop_start=195712 loop_end=278326 sample=../UNAudio/Big Organ/018 Big Organ-83-127.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=864 loop_mode=loop_sustain loop_start=114023 loop_end=369149 sample=../UNAudio/Big Organ/018 Big Organ-84-127.aif
+<group> key=85 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=436 end=486910 loop_mode=loop_sustain loop_start=113977 loop_end=287936 sample=../UNAudio/Big Organ/018 Big Organ-85-127.aif
+<group> key=86 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=831 end=487411 loop_mode=loop_sustain loop_start=220973 loop_end=312429 sample=../UNAudio/Big Organ/018 Big Organ-86-127.aif
+<group> key=87 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=691 end=487282 loop_mode=loop_sustain loop_start=221062 loop_end=313479 sample=../UNAudio/Big Organ/018 Big Organ-87-127.aif
+<group> key=88 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=919 loop_mode=loop_sustain loop_start=199969 loop_end=290111 sample=../UNAudio/Big Organ/018 Big Organ-88-127.aif
+<group> key=89 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=555 end=486471 loop_mode=loop_sustain loop_start=100499 loop_end=315408 sample=../UNAudio/Big Organ/018 Big Organ-89-127.aif
+<group> key=90 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=799 loop_mode=loop_sustain loop_start=128094 loop_end=358511 sample=../UNAudio/Big Organ/018 Big Organ-90-127.aif
+<group> key=91 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=835 end=487344 loop_mode=loop_sustain loop_start=144518 loop_end=243890 sample=../UNAudio/Big Organ/018 Big Organ-91-127.aif
+<group> key=92 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=655 loop_mode=loop_sustain loop_start=111584 loop_end=200756 sample=../UNAudio/Big Organ/018 Big Organ-92-127.aif
+<group> key=93 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=647 end=487255 loop_mode=loop_sustain loop_start=118608 loop_end=226013 sample=../UNAudio/Big Organ/018 Big Organ-93-127.aif
+<group> key=94 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=699 loop_mode=loop_sustain loop_start=95298 loop_end=194564 sample=../UNAudio/Big Organ/018 Big Organ-94-127.aif
+<group> key=95 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=615 end=487743 loop_mode=loop_sustain loop_start=191712 loop_end=324867 sample=../UNAudio/Big Organ/018 Big Organ-95-127.aif
+<group> key=96 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=767 end=487134 loop_mode=loop_sustain loop_start=102748 loop_end=194899 sample=../UNAudio/Big Organ/018 Big Organ-96-127.aif

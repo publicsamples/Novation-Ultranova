@@ -1,124 +1,124 @@
 // this file was generated from Sync Ring.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=435 end=1921280 loop_mode=loop_sustain loop_start=303843 loop_end=394121 sample=../Audio/Sync Ring/005 Sync Ring-36-127.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=228175 loop_end=358410 sample=../Audio/Sync Ring/005 Sync Ring-37-127.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=118 end=1921792 loop_mode=loop_sustain loop_start=305204 loop_end=395102 sample=../Audio/Sync Ring/005 Sync Ring-38-127.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1922304 loop_mode=loop_sustain loop_start=154991 loop_end=375005 sample=../Audio/Sync Ring/005 Sync Ring-39-127.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921792 loop_mode=loop_sustain loop_start=256102 loop_end=365617 sample=../Audio/Sync Ring/005 Sync Ring-40-127.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920776 loop_mode=loop_sustain loop_start=296637 loop_end=385158 sample=../Audio/Sync Ring/005 Sync Ring-41-127.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1922304 loop_mode=loop_sustain loop_start=56773 loop_end=155895 sample=../Audio/Sync Ring/005 Sync Ring-42-127.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920768 loop_mode=loop_sustain loop_start=278426 loop_end=368557 sample=../Audio/Sync Ring/005 Sync Ring-43-127.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920256 loop_mode=loop_sustain loop_start=60776 loop_end=151398 sample=../Audio/Sync Ring/005 Sync Ring-44-127.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=293217 loop_end=394459 sample=../Audio/Sync Ring/005 Sync Ring-45-127.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921792 loop_mode=loop_sustain loop_start=96303 loop_end=316264 sample=../Audio/Sync Ring/005 Sync Ring-46-127.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=291583 loop_end=381780 sample=../Audio/Sync Ring/005 Sync Ring-47-127.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=125 end=1921291 loop_mode=loop_sustain loop_start=120048 loop_end=238753 sample=../Audio/Sync Ring/005 Sync Ring-48-127.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=116 end=1920771 loop_mode=loop_sustain loop_start=249773 loop_end=340173 sample=../Audio/Sync Ring/005 Sync Ring-49-127.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=56366 loop_end=316438 sample=../Audio/Sync Ring/005 Sync Ring-50-127.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=289269 loop_end=379375 sample=../Audio/Sync Ring/005 Sync Ring-51-127.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920768 loop_mode=loop_sustain loop_start=164880 loop_end=333962 sample=../Audio/Sync Ring/005 Sync Ring-52-127.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1919744 loop_mode=loop_sustain loop_start=300949 loop_end=391119 sample=../Audio/Sync Ring/005 Sync Ring-53-127.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=176829 loop_end=266610 sample=../Audio/Sync Ring/005 Sync Ring-54-127.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921534 loop_mode=loop_sustain loop_start=132143 loop_end=222012 sample=../Audio/Sync Ring/005 Sync Ring-55-127.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920256 loop_mode=loop_sustain loop_start=22621 loop_end=101547 sample=../Audio/Sync Ring/005 Sync Ring-56-127.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=106506 loop_end=286518 sample=../Audio/Sync Ring/005 Sync Ring-57-127.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=83930 loop_end=174136 sample=../Audio/Sync Ring/005 Sync Ring-58-127.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920768 loop_mode=loop_sustain loop_start=312105 loop_end=391999 sample=../Audio/Sync Ring/005 Sync Ring-59-127.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921792 loop_mode=loop_sustain loop_start=200617 loop_end=290060 sample=../Audio/Sync Ring/005 Sync Ring-60-127.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921799 loop_mode=loop_sustain loop_start=161987 loop_end=292218 sample=../Audio/Sync Ring/005 Sync Ring-61-127.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920768 loop_mode=loop_sustain loop_start=149949 loop_end=279901 sample=../Audio/Sync Ring/005 Sync Ring-62-127.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920256 loop_mode=loop_sustain loop_start=87377 loop_end=176556 sample=../Audio/Sync Ring/005 Sync Ring-63-127.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=191067 loop_end=291114 sample=../Audio/Sync Ring/005 Sync Ring-64-127.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=208831 loop_end=388897 sample=../Audio/Sync Ring/005 Sync Ring-65-127.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1922304 loop_mode=loop_sustain loop_start=111966 loop_end=282056 sample=../Audio/Sync Ring/005 Sync Ring-66-127.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920256 loop_mode=loop_sustain loop_start=55398 loop_end=355233 sample=../Audio/Sync Ring/005 Sync Ring-67-127.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=192349 loop_end=362605 sample=../Audio/Sync Ring/005 Sync Ring-68-127.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1922816 loop_mode=loop_sustain loop_start=160456 loop_end=250461 sample=../Audio/Sync Ring/005 Sync Ring-69-127.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920256 loop_mode=loop_sustain loop_start=38998 loop_end=138369 sample=../Audio/Sync Ring/005 Sync Ring-70-127.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921792 loop_mode=loop_sustain loop_start=42724 loop_end=132337 sample=../Audio/Sync Ring/005 Sync Ring-71-127.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920256 loop_mode=loop_sustain loop_start=280743 loop_end=370739 sample=../Audio/Sync Ring/005 Sync Ring-72-127.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=259284 loop_end=389343 sample=../Audio/Sync Ring/005 Sync Ring-73-127.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920768 loop_mode=loop_sustain loop_start=180822 loop_end=310692 sample=../Audio/Sync Ring/005 Sync Ring-74-127.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1922304 loop_mode=loop_sustain loop_start=196848 loop_end=286757 sample=../Audio/Sync Ring/005 Sync Ring-75-127.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920256 loop_mode=loop_sustain loop_start=263382 loop_end=355200 sample=../Audio/Sync Ring/005 Sync Ring-76-127.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921792 loop_mode=loop_sustain loop_start=192844 loop_end=282876 sample=../Audio/Sync Ring/005 Sync Ring-77-127.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=247880 loop_end=338048 sample=../Audio/Sync Ring/005 Sync Ring-78-127.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921483 loop_mode=loop_sustain loop_start=253221 loop_end=343348 sample=../Audio/Sync Ring/005 Sync Ring-79-127.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 end=1921792 loop_mode=loop_sustain loop_start=193713 loop_end=363706 sample=../Audio/Sync Ring/005 Sync Ring-80-127.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=71228 loop_end=280966 sample=../Audio/Sync Ring/005 Sync Ring-81-127.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=240044 loop_end=359699 sample=../Audio/Sync Ring/005 Sync Ring-82-127.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=59849 loop_end=149558 sample=../Audio/Sync Ring/005 Sync Ring-83-127.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=280392 loop_end=370709 sample=../Audio/Sync Ring/005 Sync Ring-84-127.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920772 loop_mode=loop_sustain loop_start=177248 loop_end=267215 sample=../Audio/Sync Ring/005 Sync Ring-85-127.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920768 loop_mode=loop_sustain loop_start=279754 loop_end=380037 sample=../Audio/Sync Ring/005 Sync Ring-86-127.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921792 loop_mode=loop_sustain loop_start=291523 loop_end=381202 sample=../Audio/Sync Ring/005 Sync Ring-87-127.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920769 loop_mode=loop_sustain loop_start=259828 loop_end=390019 sample=../Audio/Sync Ring/005 Sync Ring-88-127.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920256 loop_mode=loop_sustain loop_start=154617 loop_end=244649 sample=../Audio/Sync Ring/005 Sync Ring-89-127.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1922816 loop_mode=loop_sustain loop_start=107664 loop_end=197800 sample=../Audio/Sync Ring/005 Sync Ring-90-127.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=215765 loop_end=345935 sample=../Audio/Sync Ring/005 Sync Ring-91-127.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=235539 loop_end=365512 sample=../Audio/Sync Ring/005 Sync Ring-92-127.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=144842 loop_end=235051 sample=../Audio/Sync Ring/005 Sync Ring-93-127.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=301281 loop_end=390507 sample=../Audio/Sync Ring/005 Sync Ring-94-127.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1921280 loop_mode=loop_sustain loop_start=172247 loop_end=261738 sample=../Audio/Sync Ring/005 Sync Ring-95-127.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=127 end=1920260 loop_mode=loop_sustain loop_start=261247 loop_end=390898 sample=../Audio/Sync Ring/005 Sync Ring-96-127.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=435 end=1921280 loop_mode=loop_sustain loop_start=303843 loop_end=394121 sample=../UNAudio/Sync Ring/005 Sync Ring-36-127.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=228175 loop_end=358410 sample=../UNAudio/Sync Ring/005 Sync Ring-37-127.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=118 end=1921792 loop_mode=loop_sustain loop_start=305204 loop_end=395102 sample=../UNAudio/Sync Ring/005 Sync Ring-38-127.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1922304 loop_mode=loop_sustain loop_start=154991 loop_end=375005 sample=../UNAudio/Sync Ring/005 Sync Ring-39-127.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921792 loop_mode=loop_sustain loop_start=256102 loop_end=365617 sample=../UNAudio/Sync Ring/005 Sync Ring-40-127.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920776 loop_mode=loop_sustain loop_start=296637 loop_end=385158 sample=../UNAudio/Sync Ring/005 Sync Ring-41-127.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1922304 loop_mode=loop_sustain loop_start=56773 loop_end=155895 sample=../UNAudio/Sync Ring/005 Sync Ring-42-127.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920768 loop_mode=loop_sustain loop_start=278426 loop_end=368557 sample=../UNAudio/Sync Ring/005 Sync Ring-43-127.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920256 loop_mode=loop_sustain loop_start=60776 loop_end=151398 sample=../UNAudio/Sync Ring/005 Sync Ring-44-127.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=293217 loop_end=394459 sample=../UNAudio/Sync Ring/005 Sync Ring-45-127.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921792 loop_mode=loop_sustain loop_start=96303 loop_end=316264 sample=../UNAudio/Sync Ring/005 Sync Ring-46-127.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=291583 loop_end=381780 sample=../UNAudio/Sync Ring/005 Sync Ring-47-127.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=125 end=1921291 loop_mode=loop_sustain loop_start=120048 loop_end=238753 sample=../UNAudio/Sync Ring/005 Sync Ring-48-127.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=116 end=1920771 loop_mode=loop_sustain loop_start=249773 loop_end=340173 sample=../UNAudio/Sync Ring/005 Sync Ring-49-127.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=56366 loop_end=316438 sample=../UNAudio/Sync Ring/005 Sync Ring-50-127.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=289269 loop_end=379375 sample=../UNAudio/Sync Ring/005 Sync Ring-51-127.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920768 loop_mode=loop_sustain loop_start=164880 loop_end=333962 sample=../UNAudio/Sync Ring/005 Sync Ring-52-127.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1919744 loop_mode=loop_sustain loop_start=300949 loop_end=391119 sample=../UNAudio/Sync Ring/005 Sync Ring-53-127.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=176829 loop_end=266610 sample=../UNAudio/Sync Ring/005 Sync Ring-54-127.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921534 loop_mode=loop_sustain loop_start=132143 loop_end=222012 sample=../UNAudio/Sync Ring/005 Sync Ring-55-127.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920256 loop_mode=loop_sustain loop_start=22621 loop_end=101547 sample=../UNAudio/Sync Ring/005 Sync Ring-56-127.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=106506 loop_end=286518 sample=../UNAudio/Sync Ring/005 Sync Ring-57-127.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=83930 loop_end=174136 sample=../UNAudio/Sync Ring/005 Sync Ring-58-127.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920768 loop_mode=loop_sustain loop_start=312105 loop_end=391999 sample=../UNAudio/Sync Ring/005 Sync Ring-59-127.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921792 loop_mode=loop_sustain loop_start=200617 loop_end=290060 sample=../UNAudio/Sync Ring/005 Sync Ring-60-127.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921799 loop_mode=loop_sustain loop_start=161987 loop_end=292218 sample=../UNAudio/Sync Ring/005 Sync Ring-61-127.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920768 loop_mode=loop_sustain loop_start=149949 loop_end=279901 sample=../UNAudio/Sync Ring/005 Sync Ring-62-127.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920256 loop_mode=loop_sustain loop_start=87377 loop_end=176556 sample=../UNAudio/Sync Ring/005 Sync Ring-63-127.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=191067 loop_end=291114 sample=../UNAudio/Sync Ring/005 Sync Ring-64-127.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=208831 loop_end=388897 sample=../UNAudio/Sync Ring/005 Sync Ring-65-127.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1922304 loop_mode=loop_sustain loop_start=111966 loop_end=282056 sample=../UNAudio/Sync Ring/005 Sync Ring-66-127.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920256 loop_mode=loop_sustain loop_start=55398 loop_end=355233 sample=../UNAudio/Sync Ring/005 Sync Ring-67-127.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=192349 loop_end=362605 sample=../UNAudio/Sync Ring/005 Sync Ring-68-127.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1922816 loop_mode=loop_sustain loop_start=160456 loop_end=250461 sample=../UNAudio/Sync Ring/005 Sync Ring-69-127.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920256 loop_mode=loop_sustain loop_start=38998 loop_end=138369 sample=../UNAudio/Sync Ring/005 Sync Ring-70-127.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921792 loop_mode=loop_sustain loop_start=42724 loop_end=132337 sample=../UNAudio/Sync Ring/005 Sync Ring-71-127.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920256 loop_mode=loop_sustain loop_start=280743 loop_end=370739 sample=../UNAudio/Sync Ring/005 Sync Ring-72-127.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=259284 loop_end=389343 sample=../UNAudio/Sync Ring/005 Sync Ring-73-127.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920768 loop_mode=loop_sustain loop_start=180822 loop_end=310692 sample=../UNAudio/Sync Ring/005 Sync Ring-74-127.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1922304 loop_mode=loop_sustain loop_start=196848 loop_end=286757 sample=../UNAudio/Sync Ring/005 Sync Ring-75-127.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920256 loop_mode=loop_sustain loop_start=263382 loop_end=355200 sample=../UNAudio/Sync Ring/005 Sync Ring-76-127.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921792 loop_mode=loop_sustain loop_start=192844 loop_end=282876 sample=../UNAudio/Sync Ring/005 Sync Ring-77-127.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=247880 loop_end=338048 sample=../UNAudio/Sync Ring/005 Sync Ring-78-127.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921483 loop_mode=loop_sustain loop_start=253221 loop_end=343348 sample=../UNAudio/Sync Ring/005 Sync Ring-79-127.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_veltrack=20 end=1921792 loop_mode=loop_sustain loop_start=193713 loop_end=363706 sample=../UNAudio/Sync Ring/005 Sync Ring-80-127.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=71228 loop_end=280966 sample=../UNAudio/Sync Ring/005 Sync Ring-81-127.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=240044 loop_end=359699 sample=../UNAudio/Sync Ring/005 Sync Ring-82-127.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=59849 loop_end=149558 sample=../UNAudio/Sync Ring/005 Sync Ring-83-127.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=280392 loop_end=370709 sample=../UNAudio/Sync Ring/005 Sync Ring-84-127.aif
+<group> key=85 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920772 loop_mode=loop_sustain loop_start=177248 loop_end=267215 sample=../UNAudio/Sync Ring/005 Sync Ring-85-127.aif
+<group> key=86 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920768 loop_mode=loop_sustain loop_start=279754 loop_end=380037 sample=../UNAudio/Sync Ring/005 Sync Ring-86-127.aif
+<group> key=87 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921792 loop_mode=loop_sustain loop_start=291523 loop_end=381202 sample=../UNAudio/Sync Ring/005 Sync Ring-87-127.aif
+<group> key=88 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920769 loop_mode=loop_sustain loop_start=259828 loop_end=390019 sample=../UNAudio/Sync Ring/005 Sync Ring-88-127.aif
+<group> key=89 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920256 loop_mode=loop_sustain loop_start=154617 loop_end=244649 sample=../UNAudio/Sync Ring/005 Sync Ring-89-127.aif
+<group> key=90 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1922816 loop_mode=loop_sustain loop_start=107664 loop_end=197800 sample=../UNAudio/Sync Ring/005 Sync Ring-90-127.aif
+<group> key=91 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=215765 loop_end=345935 sample=../UNAudio/Sync Ring/005 Sync Ring-91-127.aif
+<group> key=92 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=235539 loop_end=365512 sample=../UNAudio/Sync Ring/005 Sync Ring-92-127.aif
+<group> key=93 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=144842 loop_end=235051 sample=../UNAudio/Sync Ring/005 Sync Ring-93-127.aif
+<group> key=94 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=301281 loop_end=390507 sample=../UNAudio/Sync Ring/005 Sync Ring-94-127.aif
+<group> key=95 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1921280 loop_mode=loop_sustain loop_start=172247 loop_end=261738 sample=../UNAudio/Sync Ring/005 Sync Ring-95-127.aif
+<group> key=96 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=127 end=1920260 loop_mode=loop_sustain loop_start=261247 loop_end=390898 sample=../UNAudio/Sync Ring/005 Sync Ring-96-127.aif

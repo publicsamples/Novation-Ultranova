@@ -1,54 +1,54 @@
 // this file was generated from MG Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=3 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=451 sample=../Audio/MG Bass/015 MG Bass-36-42.aif
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=545 sample=../Audio/MG Bass/015 MG Bass-36-85.aif
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=764 end=390204 sample=../Audio/MG Bass/015 MG Bass-36-127.aif
-<group>lokey=37 hikey=39 pitch_keycenter=39 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=507 end=390827 sample=../Audio/MG Bass/015 MG Bass-39-42.aif
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=647 end=389697 sample=../Audio/MG Bass/015 MG Bass-39-85.aif
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=876 end=390765 sample=../Audio/MG Bass/015 MG Bass-39-127.aif
-<group>lokey=40 hikey=42 pitch_keycenter=42 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=740 end=390465 sample=../Audio/MG Bass/015 MG Bass-42-42.aif
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=926 end=390686 sample=../Audio/MG Bass/015 MG Bass-42-85.aif
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=726 sample=../Audio/MG Bass/015 MG Bass-42-127.aif
-<group>lokey=43 hikey=45 pitch_keycenter=45 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=644 end=389760 sample=../Audio/MG Bass/015 MG Bass-45-42.aif
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=566 end=389971 sample=../Audio/MG Bass/015 MG Bass-45-85.aif
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=785 end=390679 sample=../Audio/MG Bass/015 MG Bass-45-127.aif
-<group>lokey=46 hikey=48 pitch_keycenter=48 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=740 end=390840 sample=../Audio/MG Bass/015 MG Bass-48-42.aif
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=542 sample=../Audio/MG Bass/015 MG Bass-48-85.aif
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=725 end=390636 sample=../Audio/MG Bass/015 MG Bass-48-127.aif
-<group>lokey=49 hikey=51 pitch_keycenter=51 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=784 sample=../Audio/MG Bass/015 MG Bass-51-42.aif
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=786 end=390227 sample=../Audio/MG Bass/015 MG Bass-51-85.aif
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=561 end=390000 sample=../Audio/MG Bass/015 MG Bass-51-127.aif
-<group>lokey=52 hikey=54 pitch_keycenter=54 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=708 end=390074 sample=../Audio/MG Bass/015 MG Bass-54-42.aif
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=921 sample=../Audio/MG Bass/015 MG Bass-54-85.aif
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=913 end=391044 sample=../Audio/MG Bass/015 MG Bass-54-127.aif
-<group>lokey=55 hikey=57 pitch_keycenter=57 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=868 sample=../Audio/MG Bass/015 MG Bass-57-42.aif
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=425 sample=../Audio/MG Bass/015 MG Bass-57-85.aif
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=580 sample=../Audio/MG Bass/015 MG Bass-57-127.aif
-<group>lokey=58 hikey=60 pitch_keycenter=60 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=484 end=389919 sample=../Audio/MG Bass/015 MG Bass-60-42.aif
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=605 sample=../Audio/MG Bass/015 MG Bass-60-85.aif
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=532 sample=../Audio/MG Bass/015 MG Bass-60-127.aif
-<group>lokey=61 hikey=63 pitch_keycenter=63 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=747 end=390656 sample=../Audio/MG Bass/015 MG Bass-63-42.aif
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=629 end=389765 sample=../Audio/MG Bass/015 MG Bass-63-85.aif
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=480 end=389760 sample=../Audio/MG Bass/015 MG Bass-63-127.aif
-<group>lokey=64 hikey=66 pitch_keycenter=66 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=895 end=390134 sample=../Audio/MG Bass/015 MG Bass-66-42.aif
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=721 end=390514 sample=../Audio/MG Bass/015 MG Bass-66-85.aif
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=636 sample=../Audio/MG Bass/015 MG Bass-66-127.aif
-<group>lokey=67 hikey=69 pitch_keycenter=69 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=859 sample=../Audio/MG Bass/015 MG Bass-69-42.aif
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=420 end=390274 sample=../Audio/MG Bass/015 MG Bass-69-85.aif
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=504 sample=../Audio/MG Bass/015 MG Bass-69-127.aif
-<group>lokey=70 hikey=100 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=747 end=391011 sample=../Audio/MG Bass/015 MG Bass-72-42.aif
-	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=540 end=389555 sample=../Audio/MG Bass/015 MG Bass-72-85.aif
-	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=768 end=390558 sample=../Audio/MG Bass/015 MG Bass-72-127.aif
+<group>lokey=3 hikey=36 pitch_keycenter=36 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=451 sample=../UNAudio/MG Bass/015 MG Bass-36-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=545 sample=../UNAudio/MG Bass/015 MG Bass-36-85.aif
+	<region> lovel=086 hivel=127 amp_veltrack=20 offset=764 end=390204 sample=../UNAudio/MG Bass/015 MG Bass-36-127.aif
+<group>lokey=37 hikey=39 pitch_keycenter=39 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=507 end=390827 sample=../UNAudio/MG Bass/015 MG Bass-39-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=647 end=389697 sample=../UNAudio/MG Bass/015 MG Bass-39-85.aif
+	<region> lovel=086 hivel=127 amp_veltrack=20 offset=876 end=390765 sample=../UNAudio/MG Bass/015 MG Bass-39-127.aif
+<group>lokey=40 hikey=42 pitch_keycenter=42 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=740 end=390465 sample=../UNAudio/MG Bass/015 MG Bass-42-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=926 end=390686 sample=../UNAudio/MG Bass/015 MG Bass-42-85.aif
+	<region> lovel=086 hivel=127 amp_veltrack=20 offset=726 sample=../UNAudio/MG Bass/015 MG Bass-42-127.aif
+<group>lokey=43 hikey=45 pitch_keycenter=45 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=644 end=389760 sample=../UNAudio/MG Bass/015 MG Bass-45-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=566 end=389971 sample=../UNAudio/MG Bass/015 MG Bass-45-85.aif
+	<region> lovel=086 hivel=127 amp_veltrack=20 offset=785 end=390679 sample=../UNAudio/MG Bass/015 MG Bass-45-127.aif
+<group>lokey=46 hikey=48 pitch_keycenter=48 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=740 end=390840 sample=../UNAudio/MG Bass/015 MG Bass-48-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=542 sample=../UNAudio/MG Bass/015 MG Bass-48-85.aif
+	<region> lovel=086 hivel=127 amp_veltrack=20 offset=725 end=390636 sample=../UNAudio/MG Bass/015 MG Bass-48-127.aif
+<group>lokey=49 hikey=51 pitch_keycenter=51 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=784 sample=../UNAudio/MG Bass/015 MG Bass-51-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=786 end=390227 sample=../UNAudio/MG Bass/015 MG Bass-51-85.aif
+	<region> lovel=086 hivel=127 amp_veltrack=20 offset=561 end=390000 sample=../UNAudio/MG Bass/015 MG Bass-51-127.aif
+<group>lokey=52 hikey=54 pitch_keycenter=54 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=708 end=390074 sample=../UNAudio/MG Bass/015 MG Bass-54-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=921 sample=../UNAudio/MG Bass/015 MG Bass-54-85.aif
+	<region> lovel=086 hivel=127 amp_veltrack=20 offset=913 end=391044 sample=../UNAudio/MG Bass/015 MG Bass-54-127.aif
+<group>lokey=55 hikey=57 pitch_keycenter=57 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=868 sample=../UNAudio/MG Bass/015 MG Bass-57-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=425 sample=../UNAudio/MG Bass/015 MG Bass-57-85.aif
+	<region> lovel=086 hivel=127 amp_veltrack=20 offset=580 sample=../UNAudio/MG Bass/015 MG Bass-57-127.aif
+<group>lokey=58 hikey=60 pitch_keycenter=60 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=484 end=389919 sample=../UNAudio/MG Bass/015 MG Bass-60-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=605 sample=../UNAudio/MG Bass/015 MG Bass-60-85.aif
+	<region> lovel=086 hivel=127 amp_veltrack=20 offset=532 sample=../UNAudio/MG Bass/015 MG Bass-60-127.aif
+<group>lokey=61 hikey=63 pitch_keycenter=63 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=747 end=390656 sample=../UNAudio/MG Bass/015 MG Bass-63-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=629 end=389765 sample=../UNAudio/MG Bass/015 MG Bass-63-85.aif
+	<region> lovel=086 hivel=127 amp_veltrack=20 offset=480 end=389760 sample=../UNAudio/MG Bass/015 MG Bass-63-127.aif
+<group>lokey=64 hikey=66 pitch_keycenter=66 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=895 end=390134 sample=../UNAudio/MG Bass/015 MG Bass-66-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=721 end=390514 sample=../UNAudio/MG Bass/015 MG Bass-66-85.aif
+	<region> lovel=086 hivel=127 amp_veltrack=20 offset=636 sample=../UNAudio/MG Bass/015 MG Bass-66-127.aif
+<group>lokey=67 hikey=69 pitch_keycenter=69 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=859 sample=../UNAudio/MG Bass/015 MG Bass-69-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=420 end=390274 sample=../UNAudio/MG Bass/015 MG Bass-69-85.aif
+	<region> lovel=086 hivel=127 amp_veltrack=20 offset=504 sample=../UNAudio/MG Bass/015 MG Bass-69-127.aif
+<group>lokey=70 hikey=100 pitch_keycenter=72 
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=747 end=391011 sample=../UNAudio/MG Bass/015 MG Bass-72-42.aif
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=540 end=389555 sample=../UNAudio/MG Bass/015 MG Bass-72-85.aif
+	<region> lovel=086 hivel=127 amp_veltrack=20 offset=768 end=390558 sample=../UNAudio/MG Bass/015 MG Bass-72-127.aif

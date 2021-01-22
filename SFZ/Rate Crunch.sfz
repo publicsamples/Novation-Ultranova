@@ -1,100 +1,100 @@
 // this file was generated from Rate Crunch.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=787 sample=../Audio/Rate Crunch/011 Rate Crunch-36-127.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=452 sample=../Audio/Rate Crunch/011 Rate Crunch-37-127.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=519 end=726688 sample=../Audio/Rate Crunch/011 Rate Crunch-38-127.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=599 end=726475 sample=../Audio/Rate Crunch/011 Rate Crunch-39-127.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=667 end=726620 sample=../Audio/Rate Crunch/011 Rate Crunch-40-127.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=459 end=726165 sample=../Audio/Rate Crunch/011 Rate Crunch-41-127.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=816 sample=../Audio/Rate Crunch/011 Rate Crunch-42-127.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=663 end=725809 sample=../Audio/Rate Crunch/011 Rate Crunch-43-127.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=895 sample=../Audio/Rate Crunch/011 Rate Crunch-44-127.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=683 end=727130 sample=../Audio/Rate Crunch/011 Rate Crunch-45-127.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=795 sample=../Audio/Rate Crunch/011 Rate Crunch-46-127.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=827 end=726111 sample=../Audio/Rate Crunch/011 Rate Crunch-47-127.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=843 end=727005 sample=../Audio/Rate Crunch/011 Rate Crunch-48-127.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=883 sample=../Audio/Rate Crunch/011 Rate Crunch-49-127.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=827 end=725804 sample=../Audio/Rate Crunch/011 Rate Crunch-50-127.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=791 end=727096 sample=../Audio/Rate Crunch/011 Rate Crunch-51-127.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=891 end=726698 sample=../Audio/Rate Crunch/011 Rate Crunch-52-127.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=843 end=726707 sample=../Audio/Rate Crunch/011 Rate Crunch-53-127.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=771 end=726289 sample=../Audio/Rate Crunch/011 Rate Crunch-54-127.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=899 end=726605 sample=../Audio/Rate Crunch/011 Rate Crunch-55-127.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=703 end=726817 sample=../Audio/Rate Crunch/011 Rate Crunch-56-127.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=903 end=726007 sample=../Audio/Rate Crunch/011 Rate Crunch-57-127.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=686 end=725747 sample=../Audio/Rate Crunch/011 Rate Crunch-58-127.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=792 end=725878 sample=../Audio/Rate Crunch/011 Rate Crunch-59-127.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=727 end=725838 sample=../Audio/Rate Crunch/011 Rate Crunch-60-127.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=751 end=726939 sample=../Audio/Rate Crunch/011 Rate Crunch-61-127.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=804 end=726280 sample=../Audio/Rate Crunch/011 Rate Crunch-62-127.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=883 end=725865 sample=../Audio/Rate Crunch/011 Rate Crunch-63-127.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=451 end=725884 sample=../Audio/Rate Crunch/011 Rate Crunch-64-127.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=915 sample=../Audio/Rate Crunch/011 Rate Crunch-65-127.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=691 sample=../Audio/Rate Crunch/011 Rate Crunch-66-127.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=715 end=726632 sample=../Audio/Rate Crunch/011 Rate Crunch-67-127.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=823 end=726642 sample=../Audio/Rate Crunch/011 Rate Crunch-68-127.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=799 end=726487 sample=../Audio/Rate Crunch/011 Rate Crunch-69-127.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=632 end=725916 sample=../Audio/Rate Crunch/011 Rate Crunch-70-127.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=879 end=727123 sample=../Audio/Rate Crunch/011 Rate Crunch-71-127.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=659 end=726660 sample=../Audio/Rate Crunch/011 Rate Crunch-72-127.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=695 end=726969 sample=../Audio/Rate Crunch/011 Rate Crunch-73-127.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=827 end=727046 sample=../Audio/Rate Crunch/011 Rate Crunch-74-127.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=651 end=725421 sample=../Audio/Rate Crunch/011 Rate Crunch-75-127.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=555 end=726747 sample=../Audio/Rate Crunch/011 Rate Crunch-76-127.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=591 end=726827 sample=../Audio/Rate Crunch/011 Rate Crunch-77-127.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=763 end=726466 sample=../Audio/Rate Crunch/011 Rate Crunch-78-127.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=447 sample=../Audio/Rate Crunch/011 Rate Crunch-79-127.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 end=726105 sample=../Audio/Rate Crunch/011 Rate Crunch-80-127.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=595 end=726878 sample=../Audio/Rate Crunch/011 Rate Crunch-81-127.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=783 end=726609 sample=../Audio/Rate Crunch/011 Rate Crunch-82-127.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=571 end=726819 sample=../Audio/Rate Crunch/011 Rate Crunch-83-127.aif
-<group>lokey=84 hikey=127 pitch_keycenter=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=507 end=726173 sample=../Audio/Rate Crunch/011 Rate Crunch-84-127.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=787 sample=../UNAudio/Rate Crunch/011 Rate Crunch-36-127.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=452 sample=../UNAudio/Rate Crunch/011 Rate Crunch-37-127.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=519 end=726688 sample=../UNAudio/Rate Crunch/011 Rate Crunch-38-127.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=599 end=726475 sample=../UNAudio/Rate Crunch/011 Rate Crunch-39-127.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=667 end=726620 sample=../UNAudio/Rate Crunch/011 Rate Crunch-40-127.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=459 end=726165 sample=../UNAudio/Rate Crunch/011 Rate Crunch-41-127.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=816 sample=../UNAudio/Rate Crunch/011 Rate Crunch-42-127.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=663 end=725809 sample=../UNAudio/Rate Crunch/011 Rate Crunch-43-127.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=895 sample=../UNAudio/Rate Crunch/011 Rate Crunch-44-127.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=683 end=727130 sample=../UNAudio/Rate Crunch/011 Rate Crunch-45-127.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=795 sample=../UNAudio/Rate Crunch/011 Rate Crunch-46-127.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=827 end=726111 sample=../UNAudio/Rate Crunch/011 Rate Crunch-47-127.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=843 end=727005 sample=../UNAudio/Rate Crunch/011 Rate Crunch-48-127.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=883 sample=../UNAudio/Rate Crunch/011 Rate Crunch-49-127.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=827 end=725804 sample=../UNAudio/Rate Crunch/011 Rate Crunch-50-127.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=791 end=727096 sample=../UNAudio/Rate Crunch/011 Rate Crunch-51-127.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=891 end=726698 sample=../UNAudio/Rate Crunch/011 Rate Crunch-52-127.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=843 end=726707 sample=../UNAudio/Rate Crunch/011 Rate Crunch-53-127.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=771 end=726289 sample=../UNAudio/Rate Crunch/011 Rate Crunch-54-127.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=899 end=726605 sample=../UNAudio/Rate Crunch/011 Rate Crunch-55-127.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=703 end=726817 sample=../UNAudio/Rate Crunch/011 Rate Crunch-56-127.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=903 end=726007 sample=../UNAudio/Rate Crunch/011 Rate Crunch-57-127.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=686 end=725747 sample=../UNAudio/Rate Crunch/011 Rate Crunch-58-127.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=792 end=725878 sample=../UNAudio/Rate Crunch/011 Rate Crunch-59-127.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=727 end=725838 sample=../UNAudio/Rate Crunch/011 Rate Crunch-60-127.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=751 end=726939 sample=../UNAudio/Rate Crunch/011 Rate Crunch-61-127.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=804 end=726280 sample=../UNAudio/Rate Crunch/011 Rate Crunch-62-127.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=883 end=725865 sample=../UNAudio/Rate Crunch/011 Rate Crunch-63-127.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=451 end=725884 sample=../UNAudio/Rate Crunch/011 Rate Crunch-64-127.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=915 sample=../UNAudio/Rate Crunch/011 Rate Crunch-65-127.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=691 sample=../UNAudio/Rate Crunch/011 Rate Crunch-66-127.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=715 end=726632 sample=../UNAudio/Rate Crunch/011 Rate Crunch-67-127.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=823 end=726642 sample=../UNAudio/Rate Crunch/011 Rate Crunch-68-127.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=799 end=726487 sample=../UNAudio/Rate Crunch/011 Rate Crunch-69-127.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=632 end=725916 sample=../UNAudio/Rate Crunch/011 Rate Crunch-70-127.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=879 end=727123 sample=../UNAudio/Rate Crunch/011 Rate Crunch-71-127.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=659 end=726660 sample=../UNAudio/Rate Crunch/011 Rate Crunch-72-127.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=695 end=726969 sample=../UNAudio/Rate Crunch/011 Rate Crunch-73-127.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=827 end=727046 sample=../UNAudio/Rate Crunch/011 Rate Crunch-74-127.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=651 end=725421 sample=../UNAudio/Rate Crunch/011 Rate Crunch-75-127.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=555 end=726747 sample=../UNAudio/Rate Crunch/011 Rate Crunch-76-127.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=591 end=726827 sample=../UNAudio/Rate Crunch/011 Rate Crunch-77-127.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=763 end=726466 sample=../UNAudio/Rate Crunch/011 Rate Crunch-78-127.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=447 sample=../UNAudio/Rate Crunch/011 Rate Crunch-79-127.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=711 end=726105 sample=../UNAudio/Rate Crunch/011 Rate Crunch-80-127.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=595 end=726878 sample=../UNAudio/Rate Crunch/011 Rate Crunch-81-127.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=783 end=726609 sample=../UNAudio/Rate Crunch/011 Rate Crunch-82-127.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=571 end=726819 sample=../UNAudio/Rate Crunch/011 Rate Crunch-83-127.aif
+<group>lokey=84 hikey=127 pitch_keycenter=84 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=507 end=726173 sample=../UNAudio/Rate Crunch/011 Rate Crunch-84-127.aif

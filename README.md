@@ -7,8 +7,9 @@ It's a digital VA synth, pretty similar to the older Nova & SuperNova devices.
 -   **Approx Size:** 6GB
 -   **Info:** [novationmusic.com](https://novationmusic.com/en/synths/)
 
-**Please note:** the audio part of this library is provided via Bittorrent. You will need to download this using the included .torrent file.
+**This collection requires you to download the audio seperately**
 
+[Download Audio from Dropbox](ttps://www.dropbox.com/sh/0jr7mrc38o8mnlg/AAAHBYinVQKs6zEQ9EJVwIrJa?dl=0)
 
 # Loading
 
@@ -36,8 +37,10 @@ It's a digital VA synth, pretty similar to the older Nova & SuperNova devices.
 
 The SFZ format is supported by a wide variety of synths and samplers as such, specific loading instructions are not provided. See here for a [list of compatible instruments.](https://sfzformat.com/software/players/) 
 
-# Disks
+# Support this project
+
+[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)

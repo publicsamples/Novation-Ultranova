@@ -1,124 +1,124 @@
 // this file was generated from MaxMod 75.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=511 end=577390 loop_mode=loop_sustain loop_start=213654 loop_end=375902 sample=../Audio/MaxMod 75/014 MaxMod 75-36-127.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=703 loop_mode=loop_sustain loop_start=145297 loop_end=337260 sample=../Audio/MaxMod 75/014 MaxMod 75-37-127.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=590 loop_mode=loop_sustain loop_start=174621 loop_end=263555 sample=../Audio/MaxMod 75/014 MaxMod 75-38-127.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=703 loop_mode=loop_sustain loop_start=165514 loop_end=279127 sample=../Audio/MaxMod 75/014 MaxMod 75-39-127.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=750 loop_mode=loop_sustain loop_start=183330 loop_end=304026 sample=../Audio/MaxMod 75/014 MaxMod 75-40-127.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=491 loop_mode=loop_sustain loop_start=124399 loop_end=393136 sample=../Audio/MaxMod 75/014 MaxMod 75-41-127.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=642 loop_mode=loop_sustain loop_start=58512 loop_end=154514 sample=../Audio/MaxMod 75/014 MaxMod 75-42-127.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=626 end=576966 loop_mode=loop_sustain loop_start=250745 loop_end=335863 sample=../Audio/MaxMod 75/014 MaxMod 75-43-127.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=800 loop_mode=loop_sustain loop_start=105623 loop_end=260477 sample=../Audio/MaxMod 75/014 MaxMod 75-44-127.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=483 end=576775 loop_mode=loop_sustain loop_start=211914 loop_end=365506 sample=../Audio/MaxMod 75/014 MaxMod 75-45-127.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=479 loop_mode=loop_sustain loop_start=278567 loop_end=393796 sample=../Audio/MaxMod 75/014 MaxMod 75-46-127.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=707 loop_mode=loop_sustain loop_start=96824 loop_end=183224 sample=../Audio/MaxMod 75/014 MaxMod 75-47-127.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=631 end=579064 loop_mode=loop_sustain loop_start=1431 loop_end=356616 sample=../Audio/MaxMod 75/014 MaxMod 75-48-127.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=930 loop_mode=loop_sustain loop_start=107325 loop_end=194148 sample=../Audio/MaxMod 75/014 MaxMod 75-49-127.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=848 loop_mode=loop_sustain loop_start=231164 loop_end=384969 sample=../Audio/MaxMod 75/014 MaxMod 75-50-127.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=891 end=577469 loop_mode=loop_sustain loop_start=59107 loop_end=145993 sample=../Audio/MaxMod 75/014 MaxMod 75-51-127.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=636 loop_mode=loop_sustain loop_start=135302 loop_end=384096 sample=../Audio/MaxMod 75/014 MaxMod 75-52-127.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=572 loop_mode=loop_sustain loop_start=106316 loop_end=212478 sample=../Audio/MaxMod 75/014 MaxMod 75-53-127.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=821 end=577312 loop_mode=loop_sustain loop_start=135784 loop_end=222002 sample=../Audio/MaxMod 75/014 MaxMod 75-54-127.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 end=577514 loop_mode=loop_sustain loop_start=77966 loop_end=164466 sample=../Audio/MaxMod 75/014 MaxMod 75-55-127.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=868 loop_mode=loop_sustain loop_start=260181 loop_end=394190 sample=../Audio/MaxMod 75/014 MaxMod 75-56-127.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=772 end=578469 loop_mode=loop_sustain loop_start=30451 loop_end=155126 sample=../Audio/MaxMod 75/014 MaxMod 75-57-127.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=775 end=578484 loop_mode=loop_sustain loop_start=87701 loop_end=365759 sample=../Audio/MaxMod 75/014 MaxMod 75-58-127.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=450 loop_mode=loop_sustain loop_start=58054 loop_end=394664 sample=../Audio/MaxMod 75/014 MaxMod 75-59-127.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=587 loop_mode=loop_sustain loop_start=78060 loop_end=183378 sample=../Audio/MaxMod 75/014 MaxMod 75-60-127.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=710 loop_mode=loop_sustain loop_start=212502 loop_end=394892 sample=../Audio/MaxMod 75/014 MaxMod 75-61-127.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=478 end=578001 loop_mode=loop_sustain loop_start=832 loop_end=87507 sample=../Audio/MaxMod 75/014 MaxMod 75-62-127.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=855 loop_mode=loop_sustain loop_start=30487 loop_end=232070 sample=../Audio/MaxMod 75/014 MaxMod 75-63-127.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=424 loop_mode=loop_sustain loop_start=68272 loop_end=356671 sample=../Audio/MaxMod 75/014 MaxMod 75-64-127.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=884 loop_mode=loop_sustain loop_start=136000 loop_end=260899 sample=../Audio/MaxMod 75/014 MaxMod 75-65-127.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=799 loop_mode=loop_sustain loop_start=1082 loop_end=365775 sample=../Audio/MaxMod 75/014 MaxMod 75-66-127.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=693 loop_mode=loop_sustain loop_start=116400 loop_end=394691 sample=../Audio/MaxMod 75/014 MaxMod 75-67-127.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=683 loop_mode=loop_sustain loop_start=29470 loop_end=114698 sample=../Audio/MaxMod 75/014 MaxMod 75-68-127.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=867 loop_mode=loop_sustain loop_start=1043 loop_end=116502 sample=../Audio/MaxMod 75/014 MaxMod 75-69-127.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=799 loop_mode=loop_sustain loop_start=1528 loop_end=135958 sample=../Audio/MaxMod 75/014 MaxMod 75-70-127.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=495 loop_mode=loop_sustain loop_start=134587 loop_end=337379 sample=../Audio/MaxMod 75/014 MaxMod 75-71-127.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=767 loop_mode=loop_sustain loop_start=231428 loop_end=337490 sample=../Audio/MaxMod 75/014 MaxMod 75-72-127.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=699 end=576999 loop_mode=loop_sustain loop_start=241275 loop_end=394716 sample=../Audio/MaxMod 75/014 MaxMod 75-73-127.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=560 loop_mode=loop_sustain loop_start=1213 loop_end=135628 sample=../Audio/MaxMod 75/014 MaxMod 75-74-127.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=807 loop_mode=loop_sustain loop_start=1646 loop_end=105722 sample=../Audio/MaxMod 75/014 MaxMod 75-75-127.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=737 loop_mode=loop_sustain loop_start=29522 loop_end=384957 sample=../Audio/MaxMod 75/014 MaxMod 75-76-127.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=441 loop_mode=loop_sustain loop_start=29364 loop_end=365007 sample=../Audio/MaxMod 75/014 MaxMod 75-77-127.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=663 loop_mode=loop_sustain loop_start=1453 loop_end=356458 sample=../Audio/MaxMod 75/014 MaxMod 75-78-127.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=439 loop_mode=loop_sustain loop_start=125540 loop_end=211817 sample=../Audio/MaxMod 75/014 MaxMod 75-79-127.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=487 loop_mode=loop_sustain loop_start=1227 loop_end=394707 sample=../Audio/MaxMod 75/014 MaxMod 75-80-127.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=600 loop_mode=loop_sustain loop_start=58347 loop_end=144730 sample=../Audio/MaxMod 75/014 MaxMod 75-81-127.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=467 loop_mode=loop_sustain loop_start=259812 loop_end=394216 sample=../Audio/MaxMod 75/014 MaxMod 75-82-127.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=611 loop_mode=loop_sustain loop_start=231538 loop_end=365955 sample=../Audio/MaxMod 75/014 MaxMod 75-83-127.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=631 loop_mode=loop_sustain loop_start=39412 loop_end=212147 sample=../Audio/MaxMod 75/014 MaxMod 75-84-127.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=779 loop_mode=loop_sustain loop_start=968 loop_end=125633 sample=../Audio/MaxMod 75/014 MaxMod 75-85-127.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=491 end=578027 loop_mode=loop_sustain loop_start=135322 loop_end=260090 sample=../Audio/MaxMod 75/014 MaxMod 75-86-127.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=791 loop_mode=loop_sustain loop_start=952 loop_end=87330 sample=../Audio/MaxMod 75/014 MaxMod 75-87-127.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=559 loop_mode=loop_sustain loop_start=163424 loop_end=364139 sample=../Audio/MaxMod 75/014 MaxMod 75-88-127.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=628 loop_mode=loop_sustain loop_start=162977 loop_end=269507 sample=../Audio/MaxMod 75/014 MaxMod 75-89-127.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=795 loop_mode=loop_sustain loop_start=78336 loop_end=174820 sample=../Audio/MaxMod 75/014 MaxMod 75-90-127.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=756 loop_mode=loop_sustain loop_start=58677 loop_end=164279 sample=../Audio/MaxMod 75/014 MaxMod 75-91-127.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=791 loop_mode=loop_sustain loop_start=135298 loop_end=288899 sample=../Audio/MaxMod 75/014 MaxMod 75-92-127.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=511 loop_mode=loop_sustain loop_start=182253 loop_end=269385 sample=../Audio/MaxMod 75/014 MaxMod 75-93-127.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=511 loop_mode=loop_sustain loop_start=154423 loop_end=269622 sample=../Audio/MaxMod 75/014 MaxMod 75-94-127.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=431 end=577482 loop_mode=loop_sustain loop_start=221374 loop_end=317456 sample=../Audio/MaxMod 75/014 MaxMod 75-95-127.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=640 end=577474 loop_mode=loop_sustain loop_start=240993 loop_end=336834 sample=../Audio/MaxMod 75/014 MaxMod 75-96-127.aif
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=511 end=577390 loop_mode=loop_sustain loop_start=213654 loop_end=375902 sample=../UNAudio/MaxMod 75/014 MaxMod 75-36-127.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=703 loop_mode=loop_sustain loop_start=145297 loop_end=337260 sample=../UNAudio/MaxMod 75/014 MaxMod 75-37-127.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=590 loop_mode=loop_sustain loop_start=174621 loop_end=263555 sample=../UNAudio/MaxMod 75/014 MaxMod 75-38-127.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=703 loop_mode=loop_sustain loop_start=165514 loop_end=279127 sample=../UNAudio/MaxMod 75/014 MaxMod 75-39-127.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=750 loop_mode=loop_sustain loop_start=183330 loop_end=304026 sample=../UNAudio/MaxMod 75/014 MaxMod 75-40-127.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=491 loop_mode=loop_sustain loop_start=124399 loop_end=393136 sample=../UNAudio/MaxMod 75/014 MaxMod 75-41-127.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=642 loop_mode=loop_sustain loop_start=58512 loop_end=154514 sample=../UNAudio/MaxMod 75/014 MaxMod 75-42-127.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=626 end=576966 loop_mode=loop_sustain loop_start=250745 loop_end=335863 sample=../UNAudio/MaxMod 75/014 MaxMod 75-43-127.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=800 loop_mode=loop_sustain loop_start=105623 loop_end=260477 sample=../UNAudio/MaxMod 75/014 MaxMod 75-44-127.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=483 end=576775 loop_mode=loop_sustain loop_start=211914 loop_end=365506 sample=../UNAudio/MaxMod 75/014 MaxMod 75-45-127.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=479 loop_mode=loop_sustain loop_start=278567 loop_end=393796 sample=../UNAudio/MaxMod 75/014 MaxMod 75-46-127.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=707 loop_mode=loop_sustain loop_start=96824 loop_end=183224 sample=../UNAudio/MaxMod 75/014 MaxMod 75-47-127.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=631 end=579064 loop_mode=loop_sustain loop_start=1431 loop_end=356616 sample=../UNAudio/MaxMod 75/014 MaxMod 75-48-127.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=930 loop_mode=loop_sustain loop_start=107325 loop_end=194148 sample=../UNAudio/MaxMod 75/014 MaxMod 75-49-127.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=848 loop_mode=loop_sustain loop_start=231164 loop_end=384969 sample=../UNAudio/MaxMod 75/014 MaxMod 75-50-127.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=891 end=577469 loop_mode=loop_sustain loop_start=59107 loop_end=145993 sample=../UNAudio/MaxMod 75/014 MaxMod 75-51-127.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=636 loop_mode=loop_sustain loop_start=135302 loop_end=384096 sample=../UNAudio/MaxMod 75/014 MaxMod 75-52-127.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=572 loop_mode=loop_sustain loop_start=106316 loop_end=212478 sample=../UNAudio/MaxMod 75/014 MaxMod 75-53-127.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=821 end=577312 loop_mode=loop_sustain loop_start=135784 loop_end=222002 sample=../UNAudio/MaxMod 75/014 MaxMod 75-54-127.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=627 end=577514 loop_mode=loop_sustain loop_start=77966 loop_end=164466 sample=../UNAudio/MaxMod 75/014 MaxMod 75-55-127.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=868 loop_mode=loop_sustain loop_start=260181 loop_end=394190 sample=../UNAudio/MaxMod 75/014 MaxMod 75-56-127.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=772 end=578469 loop_mode=loop_sustain loop_start=30451 loop_end=155126 sample=../UNAudio/MaxMod 75/014 MaxMod 75-57-127.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=775 end=578484 loop_mode=loop_sustain loop_start=87701 loop_end=365759 sample=../UNAudio/MaxMod 75/014 MaxMod 75-58-127.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=450 loop_mode=loop_sustain loop_start=58054 loop_end=394664 sample=../UNAudio/MaxMod 75/014 MaxMod 75-59-127.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=587 loop_mode=loop_sustain loop_start=78060 loop_end=183378 sample=../UNAudio/MaxMod 75/014 MaxMod 75-60-127.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=710 loop_mode=loop_sustain loop_start=212502 loop_end=394892 sample=../UNAudio/MaxMod 75/014 MaxMod 75-61-127.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=478 end=578001 loop_mode=loop_sustain loop_start=832 loop_end=87507 sample=../UNAudio/MaxMod 75/014 MaxMod 75-62-127.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=855 loop_mode=loop_sustain loop_start=30487 loop_end=232070 sample=../UNAudio/MaxMod 75/014 MaxMod 75-63-127.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=424 loop_mode=loop_sustain loop_start=68272 loop_end=356671 sample=../UNAudio/MaxMod 75/014 MaxMod 75-64-127.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=884 loop_mode=loop_sustain loop_start=136000 loop_end=260899 sample=../UNAudio/MaxMod 75/014 MaxMod 75-65-127.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=799 loop_mode=loop_sustain loop_start=1082 loop_end=365775 sample=../UNAudio/MaxMod 75/014 MaxMod 75-66-127.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=693 loop_mode=loop_sustain loop_start=116400 loop_end=394691 sample=../UNAudio/MaxMod 75/014 MaxMod 75-67-127.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=683 loop_mode=loop_sustain loop_start=29470 loop_end=114698 sample=../UNAudio/MaxMod 75/014 MaxMod 75-68-127.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=867 loop_mode=loop_sustain loop_start=1043 loop_end=116502 sample=../UNAudio/MaxMod 75/014 MaxMod 75-69-127.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=799 loop_mode=loop_sustain loop_start=1528 loop_end=135958 sample=../UNAudio/MaxMod 75/014 MaxMod 75-70-127.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=495 loop_mode=loop_sustain loop_start=134587 loop_end=337379 sample=../UNAudio/MaxMod 75/014 MaxMod 75-71-127.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=767 loop_mode=loop_sustain loop_start=231428 loop_end=337490 sample=../UNAudio/MaxMod 75/014 MaxMod 75-72-127.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=699 end=576999 loop_mode=loop_sustain loop_start=241275 loop_end=394716 sample=../UNAudio/MaxMod 75/014 MaxMod 75-73-127.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=560 loop_mode=loop_sustain loop_start=1213 loop_end=135628 sample=../UNAudio/MaxMod 75/014 MaxMod 75-74-127.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=807 loop_mode=loop_sustain loop_start=1646 loop_end=105722 sample=../UNAudio/MaxMod 75/014 MaxMod 75-75-127.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=737 loop_mode=loop_sustain loop_start=29522 loop_end=384957 sample=../UNAudio/MaxMod 75/014 MaxMod 75-76-127.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=441 loop_mode=loop_sustain loop_start=29364 loop_end=365007 sample=../UNAudio/MaxMod 75/014 MaxMod 75-77-127.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=663 loop_mode=loop_sustain loop_start=1453 loop_end=356458 sample=../UNAudio/MaxMod 75/014 MaxMod 75-78-127.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=439 loop_mode=loop_sustain loop_start=125540 loop_end=211817 sample=../UNAudio/MaxMod 75/014 MaxMod 75-79-127.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=487 loop_mode=loop_sustain loop_start=1227 loop_end=394707 sample=../UNAudio/MaxMod 75/014 MaxMod 75-80-127.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=600 loop_mode=loop_sustain loop_start=58347 loop_end=144730 sample=../UNAudio/MaxMod 75/014 MaxMod 75-81-127.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=467 loop_mode=loop_sustain loop_start=259812 loop_end=394216 sample=../UNAudio/MaxMod 75/014 MaxMod 75-82-127.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=611 loop_mode=loop_sustain loop_start=231538 loop_end=365955 sample=../UNAudio/MaxMod 75/014 MaxMod 75-83-127.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=631 loop_mode=loop_sustain loop_start=39412 loop_end=212147 sample=../UNAudio/MaxMod 75/014 MaxMod 75-84-127.aif
+<group> key=85 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=779 loop_mode=loop_sustain loop_start=968 loop_end=125633 sample=../UNAudio/MaxMod 75/014 MaxMod 75-85-127.aif
+<group> key=86 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=491 end=578027 loop_mode=loop_sustain loop_start=135322 loop_end=260090 sample=../UNAudio/MaxMod 75/014 MaxMod 75-86-127.aif
+<group> key=87 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=791 loop_mode=loop_sustain loop_start=952 loop_end=87330 sample=../UNAudio/MaxMod 75/014 MaxMod 75-87-127.aif
+<group> key=88 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=559 loop_mode=loop_sustain loop_start=163424 loop_end=364139 sample=../UNAudio/MaxMod 75/014 MaxMod 75-88-127.aif
+<group> key=89 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=628 loop_mode=loop_sustain loop_start=162977 loop_end=269507 sample=../UNAudio/MaxMod 75/014 MaxMod 75-89-127.aif
+<group> key=90 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=795 loop_mode=loop_sustain loop_start=78336 loop_end=174820 sample=../UNAudio/MaxMod 75/014 MaxMod 75-90-127.aif
+<group> key=91 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=756 loop_mode=loop_sustain loop_start=58677 loop_end=164279 sample=../UNAudio/MaxMod 75/014 MaxMod 75-91-127.aif
+<group> key=92 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=791 loop_mode=loop_sustain loop_start=135298 loop_end=288899 sample=../UNAudio/MaxMod 75/014 MaxMod 75-92-127.aif
+<group> key=93 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=511 loop_mode=loop_sustain loop_start=182253 loop_end=269385 sample=../UNAudio/MaxMod 75/014 MaxMod 75-93-127.aif
+<group> key=94 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=511 loop_mode=loop_sustain loop_start=154423 loop_end=269622 sample=../UNAudio/MaxMod 75/014 MaxMod 75-94-127.aif
+<group> key=95 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=431 end=577482 loop_mode=loop_sustain loop_start=221374 loop_end=317456 sample=../UNAudio/MaxMod 75/014 MaxMod 75-95-127.aif
+<group> key=96 
+	<region> lovel=001 hivel=127 amp_veltrack=20 offset=640 end=577474 loop_mode=loop_sustain loop_start=240993 loop_end=336834 sample=../UNAudio/MaxMod 75/014 MaxMod 75-96-127.aif
