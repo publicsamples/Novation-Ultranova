@@ -6,6 +6,7 @@ It's a digital VA synth, pretty similar to the older Nova & SuperNova devices.
 -   **Formats:** EXS24, Kontakt, NN-XT & SFZ
 -   **Approx Size:** 6GB
 -   **Info:** [novationmusic.com](https://novationmusic.com/en/synths/)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/nova.html)
 
 **This collection requires you to download the audio seperately**
 
