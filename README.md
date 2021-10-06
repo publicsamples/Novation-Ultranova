@@ -1,6 +1,6 @@
 # Novation-Ultranova Sample Library
 
-It's a digital VA synth, pretty similar to the older Nova & SuperNova devices. 
+It's a digital VA synth similar to the older Nova & SuperNova devices. 
 
 -  **Patches**: 20
 -   **Formats:** EXS24, Kontakt, NN-XT & SFZ
@@ -8,9 +8,7 @@ It's a digital VA synth, pretty similar to the older Nova & SuperNova devices.
 -   **Info:** [novationmusic.com](https://novationmusic.com/en/synths/)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/nova.html)
 
-**This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](ttps://www.dropbox.com/sh/0jr7mrc38o8mnlg/AAAHBYinVQKs6zEQ9EJVwIrJa?dl=0)
+**[Download Audio](https://github.com/publicsamples/Novation-Ultranova/releases/tag/v1.0)**
 
 # Loading
 
