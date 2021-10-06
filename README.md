@@ -8,7 +8,7 @@ It's a digital VA synth similar to the older Nova & SuperNova devices.
 -   **Info:** [novationmusic.com](https://novationmusic.com/en/synths/)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/nova.html)
 
-**[Download Audio](https://github.com/publicsamples/Novation-Ultranova/releases/tag/v1.0)**
+**[Download Audio](https://github.com/publicsamples/Novation-Ultranova/releases/tag/1.0)**
 
 # Loading
 
